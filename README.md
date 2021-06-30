@@ -10,6 +10,6 @@ Dave quit his job and is now living in his 2008 Toyota Prius. He spends his days
 A regular old Job, is this Dave. Working diligently with only his faith and his Lenovo Flex 14" Ideapad to guide him.
 
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/2021-06-23%20at%2000-27-23%20all%20the%20music%20all%20the%20time.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/screenshot.png)
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/all%20the%20music%20all%20the%20time%20-%20127.0.0.1.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/skreenshot.png)

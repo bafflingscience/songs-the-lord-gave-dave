@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background: salmon;
+}
+
+.box {
+  display: grid;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.YGgakBP4yJGL4fJidtHDsQHaEK%26pid%3DApi&amp;f=1");
+}
+
+    
+    .record {
+      border-radius: 50%;
+      height: 200px;
+      width:200px;
+      top: 20%;
+      left: 25%;
+      background: black;
+      position: absolute;
+    }
+    
+    .outer-inner-record {
+      position: absolute;
+      border-radius: 50%;
+      height: 75px;
+      width: 75px;
+      top: 63px;
+      left: 62px;
+      background: red;
+    }
+
+    .inner-record {
+      position: absolute;
+      border-radius: 50%;
+      height: 60px;
+      width: 60px;
+      top: 70px;
+      left: 70px;
+      background: white;
+    }
+    .label {
+      position: absolute;
+      border-radius: 50%;
+      height: 15px;
+      width: 15px;
+      top: 23px;
+      left: 23px;
+      background: black;
+    }

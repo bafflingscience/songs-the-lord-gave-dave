@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <pre style="word-wrap: break-word; white-space: pre-wrap;">Delivered-To: thedavidsofusa@gmail.com
+Received: by 2002:a5d:4dc4:0:0:0:0:0 with SMTP id f4csp3916488wru;
+        Mon, 28 Jun 2021 06:44:15 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJxXg0GEqaKd2jR/96K7118SlasJflTq51681vAaXoRUgA7uYZSs7fv6l0jImyqG646jrNHM
+X-Received: by 2002:a67:fa84:: with SMTP id f4mr18098549vsq.59.1624887854883;
+        Mon, 28 Jun 2021 06:44:14 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1624887854; cv=none;
+        d=google.com; s=arc-20160816;
+        b=hH74S9/lxT3dtdsYKanXxoxyMedb7VQXgePt7CY5JJb9JuFihWmDLf03Dg7twzVC2c
+         /3PMpUrhiCSaf9aD8tBtA6iD6yeZ5m1XqH6V7qo3hc92bB/pEeNW92TKTgovpYW625B8
+         DtWbUNqdkpySsW/eXvOoPnOUKa9EDPU2vhA7oqxxIEm3NZHKwRZmqr6RgulvKTYBi9Gn
+         OHn6tmWLw/fVtnSroWd0c1dHL3Co/UPSu5/s4LsQAo+yNuiJzKLw+5Nm7BwcPGDFC22S
+         Y0/xsZ2ax+GkMz+JGYymtru0owCJ9WF3eBanDvIaxO8U82ijP8Xg/hdbEnFra9zmInP5
+         u/bA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-description:reply-to:mime-version:date:subject:to:from
+         :message-id:feedback-id:dkim-signature;
+        bh=GGWSpdBnsHUpJ6p1n6AKmYLH+8sMcLq9DRNRlC+DwoM=;
+        b=ztXC/ks52KnhfY7tyqpbkkeqRd8iKnW7euGKESwHAZLa4Esa4LQIvbzlEbaHCq4m4l
+         3fVEn+aV8GDSFKKn0xG0NwCRApcSbzlsH0TmHw0Z/kfdudWvHUc1NGqYwINilxeGT2Wz
+         KChPr+ndkTwvnyGPc39HHxlGhtkCSD9xkc+2uyZrtnAfQk1Aa3drXcQfH1cmJ/LXIBfw
+         BytbuIaIG6SEg3fh/xrcgnltQT/6hvLMkFlK9OktV/mElQYhlb+HTpUAe8ewclxIMPs7
+         nbUcCPhXu74gs0on2WgUSetlhMGHL0NTMboAOPmnrRrsO++JFtkn82KUOTIf6p+gX27E
+         YlBg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@carrierzone.com header.s=mailmia header.b=v5e1zp7D;
+       spf=pass (google.com: domain of chriskeim@surewest.net designates 209.235.146.161 as permitted sender) smtp.mailfrom=chriskeim@surewest.net;
+       dmarc=pass (p=QUARANTINE sp=NONE dis=NONE) header.from=surewest.net
+Return-Path: &lt;chriskeim@surewest.net&gt;
+Received: from mail84c25.carrierzone.com (mail391c25.carrierzone.com. [209.235.146.161])
+        by mx.google.com with ESMTPS id t23si7595473vsj.355.2021.06.28.06.44.14
+        for &lt;thedavidsofusa@gmail.com&gt;
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 28 Jun 2021 06:44:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of chriskeim@surewest.net designates 209.235.146.161 as permitted sender) client-ip=209.235.146.161;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@carrierzone.com header.s=mailmia header.b=v5e1zp7D;
+       spf=pass (google.com: domain of chriskeim@surewest.net designates 209.235.146.161 as permitted sender) smtp.mailfrom=chriskeim@surewest.net;
+       dmarc=pass (p=QUARANTINE sp=NONE dis=NONE) header.from=surewest.net
+X-Authenticated-User: chriskeim@surewest.net
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=carrierzone.com;
+	s=mailmia; t=1624887854;
+	bh=leTWuUYXxIlb0/6J3SC1bSwDQuaj9lACFvbBJTvDyZA=;
+	h=From:To:Subject:Date:Reply-To:From;
+	b=v5e1zp7D8YwlEoMPTNYLcoA1tszezE4pgtEv1HbGDPLrSK9RQqBf/oTuqd/8umlMx
+	 bnsdg0C+cJO6i9muw4rtNwORCKFXG1xz8CLX1Af3HgjTHDVSq97j4T8fAtgDuetMvu
+	 OlXUfVq6Nf9rgifABIeiNhS9HHlvflBDXXw9sbD8=
+Feedback-ID:chriskeim@surew
+Received: from UJZECE2W ([39.53.234.132])
+	(authenticated bits=0)
+	by mail84c25.carrierzone.com (8.14.9/8.13.1) with ESMTP id 15SDi3Jk023196
+	for &lt;thedavidsofusa@gmail.com&gt;; Mon, 28 Jun 2021 13:44:13 +0000
+Message-Id: &lt;202106281344.15SDi3Jk023196@mail84c25.carrierzone.com&gt;
+From: "Nina Shaffer" &lt;chriskeim@surewest.net&gt;
+To: thedavidsofusa@gmail.com
+Subject: =?UTF-8?Q?david_clegg?=
+Date: Mon, 28 Jun 2021 18:44:12 +0500
+MIME-Version: 1.0
+X-mailer: Mozilla Thunderbird 5.78489559
+Reply-To: Nina Shaffer &lt;juliannelitde8@outlook.com&gt;
+Content-type: Multipart/mixed;
+ boundary="------------838074906153574769540579"
+Content-Description: Multipart message
+X-CSC: 0
+X-CHA: v=2.3 cv=adgfYigt c=1 sm=1 tr=0 a=xtMW58JKld2pKEJO/j3Tow==:117
+	a=xtMW58JKld2pKEJO/j3Tow==:17 a=HpEJnUlJZJkA:10 a=SPnx86X0FEMA:10
+	a=5KLPUuaC_9wA:10 a=x7bEGLp0ZPQA:10 a=6L0Sp43D1OLdqkHFnLAA:9
+	a=QEXdDO2ut3YA:10
+X-CTCH-RefID: str=0001.0A742F27.60D9D22E.0052,ss=2,re=0.000,recu=0.000,reip=0.000,cl=2,cld=1,fgs=64
+X-CTCH-VOD: Unknown
+X-CTCH-Spam: Suspect
+X-CTCH-Score: 0.000
+X-CTCH-Rules: 
+X-CTCH-Flags: 64
+X-CTCH-ScoreCust: 0.000
+X-Origin-Country: PK
+
+--------------838074906153574769540579
+Content-type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-Description: Message text
+
+Our staff hiring team has found you as a qualified applicant for this job of Shipping Representative as per your Resume on employment site. 
+
+The base pay is up to $20 per hour plus chance to earn various bonuses.
+ 
+Job description:
+- Receive, organize and dispatch parcels.
+- Prompt, logical, and to the point communication with colleagues during working hours.
+- Meticulous record keeping and entering data. 
+- Generate and submit daily reports.
+
+The following is required:
+- U.S. Native or legal, permanent resident. 
+- 21+ years of age.
+- Attention to details.
+- Have the capability to work with minimal supervision.
+
+If you want to proceed further with, kindly reply back with your updated CV and a correct number to contact. 
+
+Thank you in advance,
+Nina Shaffer.
+--------------838074906153574769540579--
+    </pre>
+  </body>
+</html>

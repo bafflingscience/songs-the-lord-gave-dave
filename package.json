@@ -1,28 +1,19 @@
 {
   "name": "music-website",
   "version": "1.0.0",
-  "description": "songs the lord gave dave...and more",
-  "main": "src/pug.config.js",
-  "scripts": {
-    "start": "parcel src/index.pug",
-    "build": "parcel build src/index.pug"
-  },
+  "description": "songs the lord gave dave"
+},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/bafflingscience/songs-the-lord-gave-dave.git"
-  },
+},
   "keywords": [
     "music",
-    "vue",
     "html",
-    "pug",
-    "stylus",
     "js",
     "css",
-    "npm",
-    "parceljs"
-  ],
-  "author": "@d A v e",
+    "npm" ],
+  "author": "@d A v i d . k L e g g",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bafflingscience/songs-the-lord-gave-dave/issues"
@@ -30,15 +21,6 @@
   "homepage": "https://github.com/bafflingscience/songs-the-lord-gave-dave#readme",
   "dependencies": {
     "aplayer": "^1.10.1",
-    "pug": "^3.0.2",
-    "pug-plain-loader": "^1.1.0",
-    "stylus": "^0.54.8",
-    "stylus-loader": "^6.0.0",
-    "update": "^0.4.2",
-    "vanilla-tilt": "^1.7.0",
-    "vue": "^2.6.13"
   },
-  "devDependencies": {
-    "parcel-bundler": "^1.9.4"
   }
 }

@@ -12,6 +12,6 @@ A regular old Job, is this Dave. Working diligently with only his faith and his 
 
 ![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/src/public/assets/images/screenshot.png)
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/src/public/assets/images/blob/main/skreenshot.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/src/public/assets/images/skreenshot.png)
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/src/public/assets/images/blob/main/green-devil.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/src/public/assets/images/green-devil.png)

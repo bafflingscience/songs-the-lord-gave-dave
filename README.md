@@ -10,8 +10,8 @@ Dave quit his job and is now living in his 2008 Toyota Prius. He spends his days
 A regular old Job, is this Dave. Working diligently with only his faith and his Lenovo Flex 14" Ideapad to guide him.
 
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/screenshot.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/src/public/assets/images/blob/main/screenshot.png)
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/skreenshot.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/src/public/assets/images/blob/main/skreenshot.png)
 
-![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/blob/main/green-devil.png)
+![Alt](https://github.com/bafflingscience/songs-the-lord-gave-dave/src/public/assets/images/blob/main/green-devil.png)

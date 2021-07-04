@@ -36,7 +36,7 @@
            { // five
               name: 'q u i x o t e . r i d e s',
               artist: 'd A v i d . k L e g g',
-              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/quixote-rides.mp3',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/songs-for-sale/quixote-rides.ogg',
               cover: 'https://f000.backblaze2.com/file/bucket-content/images/unknown-language.jpg',
            },
            { // six
@@ -108,13 +108,13 @@
            { //seventeen
               name: 'd o u b L e',
               artist: 'd A v i d . k L e g g',
-              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/d+o+u+b+L+e.mp3',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/double.mp3',
               cover: 'https://f000.backblaze2.com/file/bucket-content/images/double.jpg',
            },
            {//eighteen
               name: 'd o s . x x',
               artist: 'd A v i d . k L e g g',
-              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/dosXx.mp3',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/dos-xx.mp3',
               cover: 'https://f000.backblaze2.com/file/bucket-content/images/dos-xx.jpg',
            },
          ]

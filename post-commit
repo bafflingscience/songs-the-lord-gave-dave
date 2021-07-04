@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo
-echo "*** pushin' dem changes on up der to da Hub - from da music-website post-commit hook ***"
-echo
-
-
-git push hub

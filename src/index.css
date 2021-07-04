@@ -9,6 +9,10 @@ body {
   background-color: black;
 }
 
+#plain-text {
+  font-family: 'Monoton';
+}
+
 .backgroundCoverImage {
   background-image: url('./assets/images/squid-life.jpg');
   min-height: 100px;
@@ -49,7 +53,7 @@ a.nav-link#disabled {
   93% { color: #DB4F14; }
   100% { color: #DB4314; }
   } */
-
+  
   @keyframes colorainbow {
     0% { color: #12CFF3; }
     100% { color: #3CD814 }

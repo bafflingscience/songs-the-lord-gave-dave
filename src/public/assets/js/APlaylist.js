@@ -11,7 +11,7 @@
             },
             { // one
               name: 'm u L t i v e r s e',
-              artist: 'z i m m . A n d . w o L f b A t',
+              artist: 'z i m m',
               url: 'https://f000.backblazeb2.com/file/bucket-content/audio/multiverse.mp3',
               cover: 'https://f000.backblazeb2.com/file/bucket-content/images/unkown-language.jpg',
            },
@@ -116,6 +116,24 @@
               artist: 'd A v i d . k L e g g',
               url: 'https://f000.backblazeb2.com/file/bucket-content/audio/dos-xx.mp3',
               cover: 'https://f000.backblazeb2.com/file/bucket-content/images/dos-xx.jpg',
+           },
+           {//nineteen
+              name: 'm A L A . d i e t z',
+              artist: 'd A v i d . k L e g g',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/mala-dietz.mp3',
+              cover: 'https://f000.backblazeb2.com/file/bucket-content/images/mala-dietz.jpg',
+           },
+           {//twenty
+              name: 's t A L i n g r A d',
+              artist: 'd A v i d . k L e g g',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/stalingrad.mp3',
+              cover: 'https://f000.backblazeb2.com/file/bucket-content/images/stalingrad.jpg',
+           },
+           {//twenty
+              name: 't h e . w e A t h e r',
+              artist: 'd A v i d . k L e g g',
+              url: 'https://f000.backblazeb2.com/file/bucket-content/audio/the weather.mstr.mp3',
+              cover: 'https://f000.backblazeb2.com/file/bucket-content/images/the-weather.jpg',
            },
          ]
        });

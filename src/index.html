@@ -490,16 +490,17 @@
 
     <script>
       var text = new Blotter.Text("m u s i c", {
-        family: "'Monoton', cursive",
+        family: 'Monoton',
         //family: "'Montserrat', sans-serif",
-        size: 100,
+        size: 80,
         fill: "#dc143c",
-        marginLeft: 10,
-        paddingLeft: 40,
-        paddingRight: 40
+        marginLeft: 5,
+        marginRight: 5,
+        paddingLeft: 20,
+        paddingRight: 20
       });
       var material = new Blotter.LiquidDistortMaterial();
-      material.uniforms.uSpeed.value = 0.15;
+      material.uniforms.uSpeed.value = 0.05;
       var blotter = new Blotter(material, {
         texts: text
       });

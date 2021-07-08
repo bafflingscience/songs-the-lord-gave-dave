@@ -102,7 +102,6 @@ h2.brand:before {
 }
 
 
-
 @keyframes colorainbow2 {
   0% { color: crimson;}
   50% { color: #12cff3; }
@@ -209,6 +208,19 @@ p.construction a:hover {
 
 /*?  MEDIA QUERIES ?*/
 
+@media screen and (max-width: 992px) {
+  .col-md-3 {
+    grid-template-columns: auto auto auto auto;
+  }
+
+  #plain-text {
+    width: 200px;
+  }
+  canvas {
+    width: 200px;
+  }
+
+}
 @media screen and (min-width: 0) {
   .album-cover {
     grid-template-columns: auto;
@@ -222,6 +234,9 @@ p.construction a:hover {
 }
 
 @media screen and (max-width: 770px) {
+  #plain-text {
+    font-size-adjust: -20%;
+  }
   .row {
     margin: 30px;
   }

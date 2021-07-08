@@ -2,12 +2,13 @@
          container: document.getElementById('aplayer'),
          fixed: true,
          audio: [
-           {
+         {
             //  zero
               name: 'w h i t m A n',
               artist: 'd A v i d . k L e g g',
               url: 'https://f000.backblazeb2.com/file/bucket-content/audio/whitman.mp3',
               cover: 'https://f000.backblazeb2.com/file/bucket-content/images/whitman.jpg',
+              lrc: 'https://f000.backblazeb2.com/file/bucket-content/lyrics/whitman.lrc',
             },
             { // one
               name: 'm u L t i v e r s e',

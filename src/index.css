@@ -14,7 +14,7 @@ body {
 }
 
 .backgroundCoverImage {
-  background-image: url('./assets/images/squid-life.jpg');
+  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/squid-life.jpg');
   min-height: 100px;
   min-width: 100px;
   max-height: 200px;
@@ -37,12 +37,14 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-  color: white;
+  text-decoration-line: underline;
+  color: thistle;
+  text-decoration-color: cadetblue;
 }
 
-a.nav-link#disabled {
+/* a.nav-link#disabled {
   color: white;
-}
+} */
 
 /* @keyframes colorainbow { 
   0% { color: crimson; }
@@ -69,6 +71,50 @@ h1 {
   animation-iteration-count: infinite;
 }
 
+h2.brand:before {
+  content: "";
+  font-size: 1.2rem;;
+  margin-left: 15px;
+  color:#12CFF3;
+  animation-name: namechangerOne;
+  animation-delay: 1s;
+  animation-duration: 16s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes namechangerOne {
+  0% {opacity: 0; }
+  5% {opacity: 0; }
+  10% {opacity: 1; content: "t h e . d A v i d s"; color:crimson; }
+  20% {opacity: 0; content: "t h e . d A v i d s";}
+  25% {opacity: 0; }
+  30% {opacity: 1; content: "i v A n . t h e . t e r r i b L e s"; color: #3CD814;}
+  40% {opacity: 0;  content: "i v A n . t h e . t e r r i b L e s"; }
+  45% {opacity: 0; }
+  50% {opacity: 1;  content: "c o r n b r e A d . A n d . b e A n s"; color: whitesmoke}
+  60% {opacity: 0;  content: "c o r n b r e A d . A n d . b e A n s"; }
+  65% {opacity: 0; }
+  70% {opacity: 1;  content: "t h e . b A r e f o o t . L o u i e s"; color: peachpuff}
+  80% {opacity: 0;  content: "t h e . b A r e f o o t . L o u i e s"; }
+  85% {opacity: 0; }
+  90% {opacity: 1;  content: "d A v i d . k L e g g"; color:powderblue;}
+  100% {opacity: 0;  content: "d A v i d . k L e g g"; }
+}
+
+
+
+@keyframes colorainbow2 {
+  0% { color: crimson;}
+  50% { color: #12cff3; }
+  100% { color: #3CD814 }
+}
+
+h2 a.brand {
+  animation-name: colorainbow2;
+  animation-delay: 0.7ms;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
 h4 {
   color: crimson;
   font-size: 17px;
@@ -101,7 +147,7 @@ h4 {
 .album-poster:hover {
   box-shadow: none;
   transform: scale(0.89) translateY(5px);
-}  
+}
 
 img {
   justify-content: center;
@@ -120,6 +166,14 @@ h3 {
   padding-bottom: 15px;
   color: #12CFF3;
 }
+h3.construction {
+  color: lime;;
+  
+}
+
+h3#the-hits {
+  color: crimson;
+}
 
 @keyframes wobniaroloc {
   0% {color: white; }
@@ -135,6 +189,23 @@ p {
   animation-duration: 20s;
   animation-iteration-count: infinite;
 }
+
+p.construction {
+  animation: none;
+  font-size: 18px;
+  color: whitesmoke;
+}
+
+p.construction a {
+  font-size:larger;
+  color: limegreen;
+  text-decoration-color: crimson;
+}
+p.construction a:hover {
+  color: thistle;
+}
+
+
 
 /*?  MEDIA QUERIES ?*/
 

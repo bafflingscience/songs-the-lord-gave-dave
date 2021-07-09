@@ -134,7 +134,7 @@
               name: 't h e . w e A t h e r',
               artist: 'd A v i d . k L e g g',
               url: 'https://f000.backblazeb2.com/file/bucket-content/audio/the weather.mstr.mp3',
-              cover: 'https://f000.backblazeb2.com/file/bucket-content/images/the-weather.jpg',
+              cover: 'https://f000.backblazeb2.com/file/bucket-content/images/rain.jpg',
            },
          ]
        });

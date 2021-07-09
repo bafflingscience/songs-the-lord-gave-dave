@@ -5,16 +5,15 @@ body {
   top: 0;
   bottom: 0;
   width: 100%;
-  font-family: 'ZCOOL KuaiLe';
   background-color: black;
 }
 
 #plain-text {
-  font-family: 'Monoton';
+  font-family: 'Monoton'; 
 }
 
 .backgroundCoverImage {
-  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/squid-life.jpg');
+  background-image: url('public/assets/images/squid-life.jpg');
   min-height: 100px;
   min-width: 100px;
   max-height: 200px;
@@ -26,14 +25,19 @@ body {
 }
 
 .main {
+  font-family: 'ZCOOL KuaiLe';
   padding: 40px 0;
   background: rgb(0, 0, 0);
   /* background-image: url('./assets/images/icons8-chat-message.gif'); */
   
 }
+nav.navbar {
+  opacity: 0.5;
+}
 
 a.nav-link {
   color: #12CFF3;
+  align-items: right;
 }
 
 a.nav-link:hover {
@@ -42,23 +46,10 @@ a.nav-link:hover {
   text-decoration-color: cadetblue;
 }
 
-/* a.nav-link#disabled {
-  color: white;
-} */
 
-/* @keyframes colorainbow { 
-  0% { color: crimson; }
-  25% { color: #F4839A;}
-  50% { color: #12CFF3; }
-  75% { color: #3CDB14 }
-  85% { color: #DB7114;} 
-  93% { color: #DB4F14; }
-  100% { color: #DB4314; }
-  } */
-  
-  @keyframes colorainbow {
-    0% { color: #12CFF3; }
-    100% { color: #3CD814 }
+@keyframes colorainbow {
+  0% { color: #12CFF3; }
+  100% { color: #3CD814 }
   }
 
 
@@ -71,7 +62,7 @@ h1 {
   animation-iteration-count: infinite;
 }
 
-h2.brand:before {
+h1.brand:before {
   content: "";
   font-size: 1.2rem;;
   margin-left: 15px;
@@ -91,13 +82,13 @@ h2.brand:before {
   30% {opacity: 1; content: "i v A n . t h e . t e r r i b L e s"; color: #3CD814;}
   40% {opacity: 0;  content: "i v A n . t h e . t e r r i b L e s"; }
   45% {opacity: 0; }
-  50% {opacity: 1;  content: "c o r n b r e A d . A n d . b e A n s"; color: whitesmoke}
+  50% {opacity: 1;  content: "c o r n b r e A d . A n d . b e A n s"; color: crimson;}
   60% {opacity: 0;  content: "c o r n b r e A d . A n d . b e A n s"; }
   65% {opacity: 0; }
-  70% {opacity: 1;  content: "t h e . b A r e f o o t . L o u i e s"; color: peachpuff}
+  70% {opacity: 1;  content: "t h e . b A r e f o o t . L o u i e s"; color: #3CD814;}
   80% {opacity: 0;  content: "t h e . b A r e f o o t . L o u i e s"; }
   85% {opacity: 0; }
-  90% {opacity: 1;  content: "d A v i d . k L e g g"; color:powderblue;}
+  90% {opacity: 1;  content: "d A v i d . k L e g g"; color:crimson;}
   100% {opacity: 0;  content: "d A v i d . k L e g g"; }
 }
 
@@ -114,6 +105,7 @@ h2 a.brand {
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
+
 h4 {
   color: crimson;
   font-size: 17px;
@@ -165,8 +157,9 @@ h3 {
   padding-bottom: 15px;
   color: #12CFF3;
 }
+
 h3.construction {
-  color: lime;;
+  color: lime;
   
 }
 
@@ -177,9 +170,10 @@ h3#the-hits {
 @keyframes wobniaroloc {
   0% {color: white; }
   100% { color: #12CFF3; }
- }
+}
 
 p {
+  font-family: 'Montserrat';
   color: limegreen;
   font-size: 15px;
   text-transform: lowercase;
@@ -200,6 +194,7 @@ p.construction a {
   color: limegreen;
   text-decoration-color: crimson;
 }
+
 p.construction a:hover {
   color: thistle;
 }
@@ -211,7 +206,7 @@ p.construction a:hover {
 @media screen and (max-width: 992px) {
   .col-md-3 {
     grid-template-columns: auto auto auto auto;
-  }
+}
 
   #plain-text {
     width: 200px;

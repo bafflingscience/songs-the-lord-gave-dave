@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+.container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: #111;
+  overflow: hidden;
+}
+.container .btn {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 420px;
+  height: 60px;
+  line-height: 60px;
+  margin: auto;
+  text-align: center;
+}
+.container .btn a {
+  position: relative;
+  display: block;
+  font-size: 36px;
+  color: #fff;
+  font-family: "Quattrocento Sans", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+.container .btn a::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 1px;
+  margin: auto;
+  background: #fff;
+}
+.container .btn a:hover::after {
+  width: 100%;
+  transition: all 1.2s linear;
+}
+.container .btn a span {
+  display: inline-block;
+  margin: 0 10px;
+  transition: all 0.5s 0s ease;
+  visibility: visible;
+  opacity: 1;
+}
+.container .btn a span:nth-child(5) {
+  margin-right: 20px;
+}
+.container .btn a span:nth-child(6) {
+  margin-left: 20px;
+}
+.container .btn a:hover span:nth-child(1) {
+  transition: all 1s 0.1s ease;
+  transform: perspective(2000px) translateY(95px) translateX(63px) translateZ(-2px) rotateX(625deg) rotateY(554deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(2) {
+  transition: all 1s 0.2s ease;
+  transform: perspective(2000px) translateY(-94px) translateX(3px) translateZ(-88px) rotateX(643deg) rotateY(890deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(3) {
+  transition: all 1s 0.3s ease;
+  transform: perspective(2000px) translateY(-67px) translateX(-95px) translateZ(7px) rotateX(952deg) rotateY(404deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(4) {
+  transition: all 1s 0.4s ease;
+  transform: perspective(2000px) translateY(90px) translateX(13px) translateZ(-69px) rotateX(971deg) rotateY(504deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(5) {
+  transition: all 1s 0.5s ease;
+  transform: perspective(2000px) translateY(15px) translateX(-64px) translateZ(-2px) rotateX(418deg) rotateY(976deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(6) {
+  transition: all 1s 0.6s ease;
+  transform: perspective(2000px) translateY(81px) translateX(22px) translateZ(41px) rotateX(776deg) rotateY(710deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(7) {
+  transition: all 1s 0.7s ease;
+  transform: perspective(2000px) translateY(93px) translateX(-63px) translateZ(51px) rotateX(788deg) rotateY(552deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(8) {
+  transition: all 1s 0.8s ease;
+  transform: perspective(2000px) translateY(-74px) translateX(34px) translateZ(62px) rotateX(445deg) rotateY(598deg);
+  visibility: hidden;
+  opacity: 0;
+}
+.container .btn a:hover span:nth-child(9) {
+  transition: all 1s 0.9s ease;
+  transform: perspective(2000px) translateY(-16px) translateX(64px) translateZ(-68px) rotateX(389deg) rotateY(848deg);
+  visibility: hidden;
+  opacity: 0;
+}
+
+/*# sourceMappingURL=text-animation.css.map */

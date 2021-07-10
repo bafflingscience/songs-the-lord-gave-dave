@@ -1,4 +1,5 @@
 body {
+  font-family: 'Monoton';
   margin: 0;
   padding: 0;
   position: absolute;
@@ -8,11 +9,17 @@ body {
   background-color: black;
 }
 
-#plain-text {
-  font-family: 'Monoton'; 
+.b-canvas {
+  font-family: 'Monoton';
+  font-display: block;
+  margin-left: 5px;
 }
 
-.backgroundCoverImage {
+/* #plain-text {
+  font-family: 'Monoton';
+} */
+
+/* .backgroundCoverImage {
   background-image: url('public/assets/images/squid-life.jpg');
   min-height: 100px;
   min-width: 100px;
@@ -22,18 +29,17 @@ body {
   background-position: top right;
   background-repeat: no-repeat;
   background-size: contain;
-}
+} */
 
 .main {
   font-family: 'ZCOOL KuaiLe';
   padding: 40px 0;
   background: rgb(0, 0, 0);
-  /* background-image: url('./assets/images/icons8-chat-message.gif'); */
   
 }
-nav.navbar {
-  opacity: 0.5;
-}
+/* nav.navbar {
+  
+} */
 
 a.nav-link {
   color: #12CFF3;
@@ -172,8 +178,8 @@ h3#the-hits {
   100% { color: #12CFF3; }
 }
 
-p {
-  font-family: 'Montserrat';
+
+p.pea {
   color: limegreen;
   font-size: 15px;
   text-transform: lowercase;
@@ -181,6 +187,13 @@ p {
   animation-delay: 0.7ms;
   animation-duration: 20s;
   animation-iteration-count: infinite;
+}
+
+p.song-title {
+  font-family: 'Monoton';
+  color: crimson;
+  margin-top: 1rem;
+  margin-bottom: 0px;
 }
 
 p.construction {

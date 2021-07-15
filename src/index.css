@@ -21,16 +21,27 @@ body {
 } */
 
 .backgroundCoverImage {
-  background-image: url('public/assets/images/squid-life.jpg');
-  min-height: 100px;
-  min-width: 100px;
-  max-height: 200px;
-  max-width: 200px;
+  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/squid-life.jpg');
+  min-height: 50px;
+  min-width: 50px;
+  max-height: 100px;
+  max-width: 100px;
   background-origin: border-box;
-  background-position: top right;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: contain;
-} */
+}
+.backgroundCoverImage2 {
+  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/cute-octopus.jpg');
+  min-height: 50px;
+  min-width: 50px;
+  max-height: 100px;
+  max-width: 100px;
+  background-origin: border-box;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 
 .main {
   font-family: 'ZCOOL KuaiLe';
@@ -166,12 +177,11 @@ h3 {
 }
 
 h3.construction {
-  color: lawngreen;
-  
+  color: #12CFF3;
 }
 
 h3#the-hits {
-  color: orange;
+  color: floralwhite;
 }
 
 @keyframes wobniaroloc {

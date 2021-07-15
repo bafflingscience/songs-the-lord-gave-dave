@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/bafflingscience/songs-the-lord-gave-dave#readme",
   "dependencies": {
-    "aplayer": "^1.10.1"
+    "aplayer": "^1.10.1",
+    "colorthief": "^2.3.2"
   }
 }

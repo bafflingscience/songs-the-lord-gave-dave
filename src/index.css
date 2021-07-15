@@ -1,5 +1,5 @@
 body {
-  font-family: 'Monoton';
+  font-family: 'ZCOOL KuaiLe';
   margin: 0;
   padding: 0;
   position: absolute;
@@ -15,11 +15,12 @@ body {
   margin-left: 5px;
 }
 
+
 /* #plain-text {
   font-family: 'Monoton';
 } */
 
-/* .backgroundCoverImage {
+.backgroundCoverImage {
   background-image: url('public/assets/images/squid-life.jpg');
   min-height: 100px;
   min-width: 100px;
@@ -55,16 +56,16 @@ a.nav-link:hover {
 
 @keyframes colorainbow {
   0% { color: #12CFF3; }
-  100% { color: #3CD814 }
+  50% { color: #3CD814; }
+  100% { color: #12CFF3; }
   }
-
 
 h1 {
   margin-left: 15px;
   color:#12CFF3;
   animation-name: colorainbow;
   animation-delay: 0.7ms;
-  animation-duration: 1s;
+  animation-duration: 100s;
   animation-iteration-count: infinite;
 }
 
@@ -73,13 +74,13 @@ h1.brand:before {
   font-size: 1.2rem;;
   margin-left: 15px;
   color:#12CFF3;
-  animation-name: namechangerOne;
+  /* animation-name: namechangerOne;
   animation-delay: 1s;
   animation-duration: 16s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: infinite; */
 }
 
-@keyframes namechangerOne {
+/* @keyframes namechangerOne {
   0% {opacity: 0; }
   5% {opacity: 0; }
   10% {opacity: 1; content: "t h e . d A v i d s"; color:crimson; }
@@ -96,11 +97,11 @@ h1.brand:before {
   85% {opacity: 0; }
   90% {opacity: 1;  content: "d A v i d . k L e g g"; color:crimson;}
   100% {opacity: 0;  content: "d A v i d . k L e g g"; }
-}
+} */
 
 
 @keyframes colorainbow2 {
-  0% { color: crimson;}
+  0% { color: #dc143c;}
   50% { color: #12cff3; }
   100% { color: #3CD814 }
 }
@@ -108,7 +109,7 @@ h1.brand:before {
 h2 a.brand {
   animation-name: colorainbow2;
   animation-delay: 0.7ms;
-  animation-duration: 2s;
+  animation-duration: 20s;
   animation-iteration-count: infinite;
 }
 
@@ -165,12 +166,12 @@ h3 {
 }
 
 h3.construction {
-  color: lime;
+  color: lawngreen;
   
 }
 
 h3#the-hits {
-  color: crimson;
+  color: orange;
 }
 
 @keyframes wobniaroloc {
@@ -179,7 +180,7 @@ h3#the-hits {
 }
 
 
-p.pea {
+/* p.pea {
   color: limegreen;
   font-size: 15px;
   text-transform: lowercase;
@@ -187,11 +188,11 @@ p.pea {
   animation-delay: 0.7ms;
   animation-duration: 20s;
   animation-iteration-count: infinite;
-}
+} */
 
 p.song-title {
   font-family: 'Monoton';
-  color: crimson;
+  color: #12CFF3;
   margin-top: 1rem;
   margin-bottom: 0px;
 }

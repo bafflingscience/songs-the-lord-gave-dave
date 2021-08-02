@@ -1,0 +1,42 @@
+#aplayer.showPlayer {
+  bottom: 0;
+}
+
+.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded {
+  background: lime;
+}
+
+.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played {
+  height: 4px;
+  background-color: lime !important;
+}
+
+.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played.aplayer-thumb {
+  background-color: blue !important;
+}
+
+.aplayer .aplayer-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path {
+  fill: #000;
+}
+
+.aplayer .aplayer-info .aplayer-music {
+  margin-bottom: 5px;
+}
+
+/*! APlayer !*/
+
+#aplayer {
+  position: fixed;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  box-shadow: 0 -2px 2px rgba(7, 6, 6, 0.639);
+  background: linear-gradient(45deg, hsla(348, 83%, 47%, 1) 0%, hsla(190, 90%, 51%, 1) 63%, hsla(92, 55%, 62%, 0) 98%);
+  transition: all ease 0.5s;
+}

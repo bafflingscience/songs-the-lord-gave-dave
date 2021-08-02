@@ -2,6 +2,7 @@
 # some of this sort 
 # and also some of That sort
 
+.parcel-cache
 b2-info.js
 .DS_STORE
 bootstrap-4.5.3-examples/

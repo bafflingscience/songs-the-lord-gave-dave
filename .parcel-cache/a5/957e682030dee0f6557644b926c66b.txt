@@ -1,6 +1,6 @@
 14506
 56C:\Code\music-website\node_modules\node-forge\lib\des.js132566194814030000 0
-64C:\Code\music-website\src\assets\audio\t h e . w e A t h e r.mp3132679449085913677 0
+64C:\Code\music-website\src\assets\audio\t h e . w e A t h e r.mp3132724033737765930 0
 100C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\root.js132665656113130000 0
 59C:\Code\music-website\node_modules\es-abstract\2017\GetV.js132673827420439998 0
 45C:\Code\music-website\node_modules\buffer-xor132716517803079722 1
@@ -9,11 +9,11 @@
 31C:\Code\music-website\.cache\f2132716494727747045 1
 66C:\Code\music-website\node_modules\node-releases\.github\workflows132716502828868367 1
 53C:\Code\music-website\node_modules\uniqs\package.json132566195212590000 0
-26C:\Code\music-website\dist132724018335347977 1
-51C:\Code\music-website\src\assets\images\revenge.jpg132698880574970000 0
+26C:\Code\music-website\dist132724034073052361 1
+51C:\Code\music-website\src\assets\images\revenge.jpg132724033741475962 0
 61C:\Code\music-website\node_modules\sshpk\lib\formats\pkcs8.js132617038182890000 0
 57C:\Code\music-website\node_modules\webidl-conversions\lib132716502641388407 1
-36C:\Code\music-website\src\assets\css132716465043231735 1
+36C:\Code\music-website\src\assets\css132724033739825924 1
 68C:\Code\music-website\node_modules\highlight.js\lib\languages\ada.js132711545006960000 0
 80C:\Code\music-website\node_modules\core-js\features\string\virtual\trim-right.js132711544984300002 0
 77C:\Code\music-website\node_modules\core-js\internals\function-bind-context.js132711544984300002 0
@@ -34,7 +34,7 @@
 43C:\Code\music-website\node_modules\uuid\bin132716502639028364 1
 31C:\Code\music-website\.cache\80132716494726976946 1
 84C:\Code\music-website\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs132711544901300002 0
-34C:\Code\music-website\package.json132716517821089768 0
+34C:\Code\music-website\package.json132724033708845937 0
 60C:\Code\music-website\node_modules\object.assign\polyfill.js132566193322930000 0
 73C:\Code\music-website\node_modules\verror\node_modules\extsprintf\LICENSE132617038234460000 0
 73C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\helpers\json.js132665656125410000 0
@@ -42,7 +42,7 @@
 51C:\Code\music-website\node_modules\is-number-object132716517807989706 1
 57C:\Code\music-website\node_modules\postcss-ordered-values132716517811629719 1
 80C:\Code\music-website\node_modules\stylehacks\dist\plugins\trailingSlashComma.js132566195201450000 0
-61C:\Code\music-website\src\assets\images\more-guns-than-people132716465527137608 1
+61C:\Code\music-website\src\assets\images\more-guns-than-people132724033741385917 1
 85C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\utils\index.d.ts132711544942620000 0
 58C:\Code\music-website\node_modules\terser\bin\package.json132711544958070000 0
 32C:\Code\music-website\.gitignore132708019088937650 0
@@ -55,16 +55,16 @@
 59C:\Code\music-website\node_modules\lodash\_createPartial.js132617037952230000 0
 42C:\Code\music-website\node_modules\connect132716517803649790 1
 53C:\Code\music-website\node_modules\events\.airtap.yml132617038343029998 0
-37C:\Code\music-website\src\assets\html132720254669911007 1
+37C:\Code\music-website\src\assets\html132724033740585963 1
 28C:\Code\music-website\.cache132716494727836946 1
-50C:\Code\music-website\src\assets\images\dos-xx.jpg132698880570700000 0
+50C:\Code\music-website\src\assets\images\dos-xx.jpg132724033741035939 0
 50C:\Code\music-website\node_modules\split2\index.js132711544896180000 0
 54C:\Code\music-website\node_modules\lodash\_cacheHas.js132617037952230000 0
 47C:\Code\music-website\node_modules\caniuse-lite132716517803199717 1
 43C:\Code\music-website\node_modules\entities132716517805139726 1
 44C:\Code\music-website\node_modules\ansi-html132716517802349747 1
 67C:\Code\music-website\node_modules\htmlnano\lib\modules\minifyJs.js132665655893250000 0
-68C:\Code\music-website\src\assets\images\card-song-images\psalm-6.jpg132699130475365399 0
+68C:\Code\music-website\src\assets\images\card-song-images\psalm-6.jpg132724033740905935 0
 80C:\Code\music-website\node_modules\@babel\core\node_modules\debug\src\browser.js132711544999119998 0
 98C:\Code\music-website\node_modules\postcss\node_modules\chalk\node_modules\supports-color\index.js132566192429830000 0
 100C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\postcss\package.json132566193336350000 0
@@ -75,7 +75,7 @@
 31C:\Code\music-website\.DS_Store132502340785800000 0
 54C:\Code\music-website\node_modules\extend\package.json132566192397140000 0
 49C:\Code\music-website\node_modules\balanced-match132716517802669773 1
-58C:\Code\music-website\src\assets\images\aluminum-walls.jpg132698880568000000 0
+58C:\Code\music-website\src\assets\images\aluminum-walls.jpg132724033740665932 0
 71C:\Code\music-website\node_modules\core-js\modules\esnext.math.scale.js132711544984300002 0
 41C:\Code\music-website\node_modules\extend132716517805639739 1
 105C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\attribute.js132665656113130000 0
@@ -85,7 +85,7 @@
 61C:\Code\music-website\node_modules\is-color-stop\util\unit.js132566195217509998 0
 68C:\Code\music-website\node_modules\elliptic\lib\elliptic\ec\index.js132617039521710000 0
 59C:\Code\music-website\node_modules\postcss\lib\stringify.js132711544952560002 0
-35C:\Code\music-website\src\assets\js132720229666345628 1
+35C:\Code\music-website\src\assets\js132724033741955937 1
 82C:\Code\music-website\node_modules\core-js\internals\native-promise-constructor.js132711544984300002 0
 45C:\Code\music-website\node_modules\pn\zlib.js132665656202869998 0
 44C:\Code\music-website\node_modules\map-visit132716517808899717 1
@@ -100,12 +100,12 @@
 63C:\Code\music-website\node_modules\es-abstract\2017\ToNumber.js132673827420439998 0
 93C:\Code\music-website\node_modules\@parcel\transformer-css\node_modules\postcss\lib\parser.js132716443217890000 0
 33C:\Code\music-website\junk_drawer132716477813021947 1
-55C:\Code\music-website\src\assets\audio\myrtle-beach.mp3132699149242450000 0
+55C:\Code\music-website\src\assets\audio\myrtle-beach.mp3132724033734856307 0
 60C:\Code\music-website\node_modules\svgo\plugins\sortAttrs.js132566195235369998 0
 58C:\Code\music-website\node_modules\whatwg-url\package.json132665656227060002 0
 57C:\Code\music-website\node_modules\callsites\package.json132566195134260002 0
 67C:\Code\music-website\node_modules\es-abstract\2018\IteratorNext.js132673827420439998 0
-60C:\Code\music-website\src\assets\lyrics\many-miles-apart.txt132707430980280000 0
+60C:\Code\music-website\src\assets\lyrics\many-miles-apart.txt132724033741995953 0
 71C:\Code\music-website\node_modules\highlight.js\lib\languages\irpf90.js132711545006960000 0
 64C:\Code\music-website\node_modules\tough-cookie\lib\pathMatch.js132617038117460000 0
 58C:\Code\music-website\node_modules\browserify-sign\browser132716502420297834 1
@@ -117,18 +117,18 @@
 77C:\Code\music-website\node_modules\browserify-sign\node_modules\bn.js\LICENSE132617039530220002 0
 63C:\Code\music-website\node_modules\core-js\stable\array\from.js132711544984300002 0
 41C:\Code\music-website\node_modules\braces132716517802829778 1
-58C:\Code\music-website\src\assets\lyrics\knoxville-girl.txt132707430980060000 0
+58C:\Code\music-website\src\assets\lyrics\knoxville-girl.txt132724033741975947 0
 102C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\pseudo.js132665656113130000 0
 54C:\Code\music-website\node_modules\lodash\flowRight.js132617037952230000 0
 43C:\Code\music-website\node_modules\cssstyle132716517804519793 1
 63C:\Code\music-website\node_modules\builtin-status-codes\license132566195118090000 0
 88C:\Code\music-website\node_modules\core-js\stable\object\get-own-property-descriptors.js132711544984300002 0
-33C:\Code\music-website\.posthtmlrc132716451993040000 0
+33C:\Code\music-website\.posthtmlrc132724033708825928 0
 67C:\Code\music-website\node_modules\es-abstract\2017\IteratorStep.js132673827420439998 0
 88C:\Code\music-website\node_modules\caniuse-lite\data\features\registerprotocolhandler.js132716443246830002 0
 66C:\Code\music-website\node_modules\core-js\features\regexp\test.js132711544984300002 0
 65C:\Code\music-website\node_modules\serve-handler\src\directory.js132711544944330002 0
-54C:\Code\music-website\src\favicon_io\favicon-32x32.png132720588052713161 0
+54C:\Code\music-website\src\favicon_io\favicon-32x32.png132724033742205985 0
 52C:\Code\music-website\node_modules\define-properties132716517804729708 1
 67C:\Code\music-website\node_modules\generic-names\.idea\dictionaries132716502824998387 1
 60C:\Code\music-website\node_modules\@parcel\packager-html\src132716502411077849 1
@@ -137,8 +137,8 @@
 62C:\Code\music-website\node_modules\whatwg-encoding\LICENSE.txt132665656221730002 0
 53C:\Code\music-website\node_modules\xtend\package.json132566192374170000 0
 57C:\Code\music-website\node_modules\tty-browserify\LICENSE132711545153970002 0
-32C:\Code\music-website\.yarnclean132716500251708929 0
-63C:\Code\music-website\src\favicon_io\android-chrome-192x192.png132720588053762795 0
+32C:\Code\music-website\.yarnclean132724033708835921 0
+63C:\Code\music-website\src\favicon_io\android-chrome-192x192.png132724033742125953 0
 31C:\Code\music-website\.cache\ba132716494727366962 1
 57C:\Code\music-website\node_modules\lodash\_baseIsMatch.js132617037952230000 0
 79C:\Code\music-website\node_modules\cssstyle\lib\properties\borderBottomStyle.js132665656199370000 0
@@ -153,7 +153,7 @@
 60C:\Code\music-website\node_modules\lodash\fp\trimCharsEnd.js132617037952230000 0
 55C:\Code\music-website\node_modules\timsort\package.json132566195186320000 0
 46C:\Code\music-website\node_modules\object-keys132716517810039718 1
-50C:\Code\music-website\src\assets\js\ittPlaylist.js132720249068885337 0
+50C:\Code\music-website\src\assets\js\ittPlaylist.js132724033741926043 0
 71C:\Code\music-website\node_modules\purgecss\node_modules\supports-color132716517812299713 1
 32C:\Code\music-website\b2-info.js132707471611046397 0
 98C:\Code\music-website\node_modules\@parcel\fs-write-stream-atomic\node_modules\readable-stream\lib132716502419547813 1
@@ -163,7 +163,7 @@
 40C:\Code\music-website\node_modules\json5132716517808759738 1
 53C:\Code\music-website\node_modules\set-value\index.js132566195236429998 0
 62C:\Code\music-website\node_modules\ajv\lib\dot\uniqueItems.jst132566193962250000 0
-54C:\Code\music-website\src\assets\lyrics\multiverse.txt132707430979840000 0
+54C:\Code\music-website\src\assets\lyrics\multiverse.txt132724033742005937 0
 56C:\Code\music-website\node_modules\ajv\lib\dot\oneOf.jst132566193962250000 0
 70C:\Code\music-website\node_modules\constants-browserify\constants.json132566194823740002 0
 51C:\Code\music-website\node_modules\use\package.json132566194806230000 0
@@ -171,7 +171,7 @@
 52C:\Code\music-website\junk_drawer\backblaze-thing.py132702226120896544 0
 69C:\Code\music-website\node_modules\core-js\features\string\pad-end.js132711544984300002 0
 108C:\Code\music-website\node_modules\postcss-modules\node_modules\postcss-modules-extract-imports\package.json132673827316310002 0
-32C:\Code\music-website\src\assets132716465669892083 1
+32C:\Code\music-website\src\assets132724033742095948 1
 49C:\Code\music-website\node_modules\q\package.json132566195450610000 0
 31C:\Code\music-website\.cache\85132716494727006977 1
 52C:\Code\music-website\node_modules\caniuse-lite\data132716502420437804 1
@@ -185,13 +185,13 @@
 59C:\Code\music-website\node_modules\object-copy\package.json132566195430270000 0
 89C:\Code\music-website\node_modules\postcss-modules-scope\node_modules\ansi-styles\license132566192428180000 0
 70C:\Code\music-website\node_modules\es-abstract\2020\Number\subtract.js132673827420439998 0
-31C:\Code\music-website\yarn.lock132716517820889745 0
+31C:\Code\music-website\yarn.lock132724033742285915 0
 34C:\Code\music-website\node_modules132716517819339789 1
 59C:\Code\music-website\node_modules\which-typed-array\.nycrc132618596746340000 0
 100C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\processor.js132566195189080000 0
 64C:\Code\music-website\node_modules\@swc\helpers\lib\_defaults.js132711545010760000 0
 54C:\Code\music-website\node_modules\postcss\lib\node.js132711544952560002 0
-52C:\Code\music-website\src\assets\css\light-theme.css132708012824020000 0
+52C:\Code\music-website\src\assets\css\light-theme.css132724033739795934 0
 65C:\Code\music-website\node_modules\core-js\features\math\index.js132711544984300002 0
 86C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\config\mix.js132617038635200000 0
 68C:\Code\music-website\node_modules\@parcel\utils\src\PromiseQueue.js132711544877050000 0
@@ -199,7 +199,7 @@
 31C:\Code\music-website\.cache\0c132716494726226974 1
 65C:\Code\music-website\node_modules\@babel\code-frame\package.json132711545018050002 0
 73C:\Code\music-website\node_modules\node-releases\data\processed\envs.json132711544944790000 0
-50C:\Code\music-website\src\assets\js\color-thief.js132707355913953883 0
+50C:\Code\music-website\src\assets\js\color-thief.js132724033741895951 0
 62C:\Code\music-website\node_modules\@parcel\utils\src\is-url.js132711544877050000 0
 54C:\Code\music-website\node_modules\md5.js\package.json132566195263740002 0
 51C:\Code\music-website\node_modules\lodash\forOwn.js132617037952230000 0
@@ -210,7 +210,7 @@
 31C:\Code\music-website\README.md132696498755386102 0
 43C:\Code\music-website\node_modules\parseurl132716517810409733 1
 71C:\Code\music-website\node_modules\@parcel\runtime-js\src\bundle-url.js132711544930390000 0
-25C:\Code\music-website\src132720587869912778 1
+25C:\Code\music-website\src132724033742255924 1
 83C:\Code\music-website\node_modules\snapdragon\node_modules\source-map\source-map.js132566192359670000 0
 61C:\Code\music-website\node_modules\svgo\plugins\cleanupIDs.js132566195235369998 0
 51C:\Code\music-website\node_modules\ws\lib\stream.js132711544944380000 0
@@ -220,17 +220,17 @@
 29C:\Code\music-website\TODO.md132701748823724769 0
 62C:\Code\music-website\node_modules\@babel\types\lib\retrievers132716502657748381 1
 46C:\Code\music-website\node_modules\caniuse-api132716517803189720 1
-36C:\Code\music-website\src\favicon_io132720588920946332 1
+36C:\Code\music-website\src\favicon_io132724033742235922 1
 82C:\Code\music-website\node_modules\@parcel\package-manager\src\NodeResolverBase.js132711544871450000 0
 78C:\Code\music-website\node_modules\iconv-lite\encodings\sbcs-data-generated.js132566193348450000 0
 93C:\Code\music-website\node_modules\postcss-modules-values\node_modules\postcss\lib\at-rule.js132566193336350000 0
-56C:\Code\music-website\src\assets\js\bootstrap.min.js.map132682717480195242 0
+56C:\Code\music-website\src\assets\js\bootstrap.min.js.map132724033741855972 0
 35C:\Code\music-website\src\index.css132708409969791108 0
 71C:\Code\music-website\node_modules\highlight.js\scss\paraiso-light.scss132711545006960000 0
 53C:\Code\music-website\node_modules\lodash\fp\curry.js132617037952230000 0
 61C:\Code\music-website\node_modules\ws\lib\websocket-server.js132711544944380000 0
 90C:\Code\music-website\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js132711544962970000 0
-36C:\Code\music-website\src\index.html132724016745860896 0
+36C:\Code\music-website\src\index.html132724033742245923 0
 70C:\Code\music-website\node_modules\uri-js\dist\esnext\regexps-uri.d.ts132566194589100000 0
 80C:\Code\music-website\node_modules\@parcel\bundler-default\src\DefaultBundler.js132711544923770000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\AM.js132716443246830002 0
@@ -242,38 +242,38 @@
 31C:\Code\music-website\.cache\87132716494727016998 1
 92C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\generated\ScrollLogicalPosition.js132665656125410000 0
 71C:\Code\music-website\node_modules\core-js\features\number\parse-int.js132711544984300002 0
-37C:\Code\music-website\src\assets\scss132716465185226321 1
+37C:\Code\music-website\src\assets\scss132724033742085945 1
 68C:\Code\music-website\node_modules\type-fest\source\stringified.d.ts132566194129210000 0
 65C:\Code\music-website\node_modules\core-js\stable\set-interval.js132711544984300002 0
 63C:\Code\music-website\node_modules\node-releases\data\processed132716502828868367 1
 53C:\Code\music-website\node_modules\domelementtype\lib132716490776842695 1
 45C:\Code\music-website\node_modules\snapdragon132716517813369721 1
 65C:\Code\music-website\node_modules\domain-browser\source\index.js132711545151989998 0
-39C:\Code\music-website\src\assets\lyrics132720223664638047 1
+39C:\Code\music-website\src\assets\lyrics132724033742045973 1
 54C:\Code\music-website\node_modules\lodash\fp\number.js132617037952230000 0
 60C:\Code\music-website\node_modules\highlight.js\package.json132711545006960000 0
 68C:\Code\music-website\node_modules\core-js\features\set-immediate.js132711544984300002 0
 48C:\Code\music-website\node_modules\dotenv-expand132716517804989733 1
-60C:\Code\music-website\src\assets\images\club-2-car-chase.jpg132698880570160000 0
+60C:\Code\music-website\src\assets\images\club-2-car-chase.jpg132724033740965943 0
 69C:\Code\music-website\node_modules\core-js\internals\string-repeat.js132711544984300002 0
 52C:\Code\music-website\node_modules\parseurl\index.js132566193080869998 0
 89C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\DOMImplementation-impl.js132665656125410000 0
 111C:\Code\music-website\node_modules\@parcel\transformer-postcss\node_modules\postcss-value-parser\lib\index.d.ts132566193313230000 0
 82C:\Code\music-website\node_modules\cssstyle\lib\properties\webkitBorderEndColor.js132665656199370000 0
 77C:\Code\music-website\node_modules\core-js\stable\array\virtual\find-index.js132711544984300002 0
-34C:\Code\music-website\src\index.js132716457165973341 0
+34C:\Code\music-website\src\index.js132724033742255924 0
 36C:\Code\music-website\src\index.scss132708135248486291 0
 51C:\Code\music-website\node_modules\request\index.js132617038069779998 0
 72C:\Code\music-website\node_modules\@parcel\utils\lib\prettyDiagnostic.js132711544877050000 0
 69C:\Code\music-website\node_modules\highlight.js\lib\languages\llvm.js132711545006960000 0
 81C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\.bin132716517705169771 1
 63C:\Code\music-website\node_modules\core-js\es\number\epsilon.js132711544984300002 0
-54C:\Code\music-website\src\favicon_io\favicon-16x16.png132720588052983063 0
+54C:\Code\music-website\src\favicon_io\favicon-16x16.png132724033742185934 0
 87C:\Code\music-website\node_modules\@babel\helper-member-expression-to-functions\LICENSE132711545165550002 0
 71C:\Code\music-website\node_modules\css-modules-loader-core\node_modules132716502026787798 1
 42C:\Code\music-website\node_modules\vendors132716517815019709 1
 47C:\Code\music-website\node_modules\color-string132716517803419715 1
-63C:\Code\music-website\src\favicon_io\android-chrome-512x512.png132720588054012810 0
+63C:\Code\music-website\src\favicon_io\android-chrome-512x512.png132724033742145941 0
 98C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\posthtml\node_modules132716502026257786 1
 56C:\Code\music-website\node_modules\lodash\_createOver.js132617037952230000 0
 80C:\Code\music-website\node_modules\core-js\features\object\prevent-extensions.js132711544984300002 0
@@ -293,20 +293,20 @@
 31C:\Code\music-website\.cache\2f132716494726436964 1
 42C:\Code\music-website\node_modules\foreach132716517806029747 1
 69C:\Code\music-website\node_modules\@parcel\core\lib\public\Symbols.js132711544871470002 0
-59C:\Code\music-website\src\assets\audio\Many Miles Apart.mp3132559222160550000 0
+59C:\Code\music-website\src\assets\audio\Many Miles Apart.mp3132724033711956317 0
 31C:\Code\music-website\.cache\35132716494726476960 1
 69C:\Code\music-website\node_modules\verror\node_modules\extsprintf\lib132716502646248371 1
 66C:\Code\music-website\node_modules\source-map-js\lib\quick-sort.js132673828997720002 0
 52C:\Code\music-website\node_modules\lodash\valueOf.js132617037952230000 0
-61C:\Code\music-website\src\assets\images\play-misty-for-me.jpg132699130470600000 0
+61C:\Code\music-website\src\assets\images\play-misty-for-me.jpg132724033741425922 0
 72C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\node-filter.js132665656125410000 0
 63C:\Code\music-website\node_modules\cssom\lib\CSSKeyframeRule.js132617038133150002 0
-47C:\Code\music-website\src\assets\images\bpd.jpg132698880569130000 0
+47C:\Code\music-website\src\assets\images\bpd.jpg132724033740685931 0
 57C:\Code\music-website\node_modules\lodash\_LazyWrapper.js132617037952230000 0
 56C:\Code\music-website\node_modules\lodash\_Uint8Array.js132617037952230000 0
 57C:\Code\music-website\node_modules\querystring\index.d.ts132617038063540000 0
 49C:\Code\music-website\node_modules\lodash\head.js132617037952230000 0
-57C:\Code\music-website\src\favicon_io\apple-touch-icon.png132720588052452818 0
+57C:\Code\music-website\src\favicon_io\apple-touch-icon.png132724033742166089 0
 72C:\Code\music-website\node_modules\js-yaml\lib\js-yaml\type\js\regexp.js132566193927650002 0
 76C:\Code\music-website\node_modules\es-abstract\2018\DefinePropertyOrThrow.js132673827420439998 0
 77C:\Code\music-website\node_modules\unset-value\node_modules\has-value\LICENSE132566195248940000 0
@@ -318,7 +318,7 @@
 72C:\Code\music-website\node_modules\highlight.js\scss\gradient-light.scss132711545006960000 0
 60C:\Code\music-website\node_modules\miller-rabin\package.json132566195279380000 0
 45C:\Code\music-website\node_modules\icss-utils132716517806999724 1
-48C:\Code\music-website\src\favicon_io\favicon.ico132720588053242810 0
+48C:\Code\music-website\src\favicon_io\favicon.ico132724033742225921 0
 78C:\Code\music-website\node_modules\cssstyle\lib\properties\borderRightStyle.js132665656199370000 0
 81C:\Code\music-website\node_modules\postcss-selector-parser\dist\selectors\node.js132665656112700000 0
 53C:\Code\music-website\node_modules\sshpk\lib\utils.js132617038182890000 0
@@ -327,7 +327,7 @@
 62C:\Code\music-website\node_modules\css-tree\lib\lexer\error.js132566195345720002 0
 60C:\Code\music-website\node_modules\lodash\_isIterateeCall.js132617037952230000 0
 68C:\Code\music-website\node_modules\postcss-discard-empty\LICENSE-MIT132566194989510000 0
-84C:\Code\music-website\src\assets\images\card-song-images\future-neon-knife-fight.jpg132698880571753826 0
+84C:\Code\music-website\src\assets\images\card-song-images\future-neon-knife-fight.jpg132724033740776302 0
 80C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\window\BarProp-impl.js132665656125410000 0
 69C:\Code\music-website\node_modules\core-js\modules\web.url.to-json.js132711544984300002 0
 71C:\Code\music-website\node_modules\core-js\proposals\math-extensions.js132711544984300002 0
@@ -336,11 +336,11 @@
 69C:\Code\music-website\node_modules\cosmiconfig\dist\createExplorer.js132566194422279998 0
 53C:\Code\music-website\node_modules\vendors\index.json132566195196790000 0
 69C:\Code\music-website\node_modules\postcss\node_modules\chalk\license132566192422279998 0
-53C:\Code\music-website\src\favicon_io\site.webmanifest132724018244132794 0
+53C:\Code\music-website\src\favicon_io\site.webmanifest132724033742235922 0
 52C:\Code\music-website\node_modules\.bin\purgecss.cmd132716517718219744 0
 68C:\Code\music-website\node_modules\postcss-value-parser\lib\index.js132566193319489998 0
 49C:\Code\music-website\node_modules\simple-swizzle132716517813329906 1
-38C:\Code\music-website\src\assets\audio132716465688248431 1
+38C:\Code\music-website\src\assets\audio132724033739666312 1
 84C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDO.js132617038635200000 0
 41C:\Code\music-website\node_modules\fclone132716517805949766 1
 67C:\Code\music-website\node_modules\es-abstract\2017\RegExpCreate.js132673827420439998 0
@@ -351,7 +351,7 @@
 44C:\Code\music-website\node_modules\nth-check132716517809689870 1
 96C:\Code\music-website\node_modules\@babel\generator\node_modules\source-map\lib\binary-search.js132566192359670000 0
 103C:\Code\music-website\node_modules\@babel\helper-compilation-targets\node_modules\.bin\browserslist.cmd132716517695659757 0
-65C:\Code\music-website\src\assets\txt\why-am-i-anything-at-all.txt132707430980860000 0
+65C:\Code\music-website\src\assets\txt\why-am-i-anything-at-all.txt132724033742106143 0
 78C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\window\navigation.js132665656125410000 0
 80C:\Code\music-website\node_modules\serve-handler\node_modules\mime-types\LICENSE132711545001830002 0
 49C:\Code\music-website\node_modules\semver\LICENSE132566192351919998 0
@@ -361,13 +361,13 @@
 64C:\Code\music-website\node_modules\posthtml-parser\.idea\vcs.xml132711544968380002 0
 87C:\Code\music-website\node_modules\jsdom\lib\jsdom\browser\resources\resource-loader.js132665656125410000 0
 41C:\Code\music-website\node_modules\stable132716517813589910 1
-38C:\Code\music-website\src\assets\fonts132716465381645190 1
-48C:\Code\music-website\src\assets\audio\dosXx.mp3132559222114260000 0
+38C:\Code\music-website\src\assets\fonts132724033740385963 1
+48C:\Code\music-website\src\assets\audio\dosXx.mp3132724033723155929 0
 54C:\Code\music-website\node_modules\object.pick\LICENSE132566194380660000 0
 40C:\Code\music-website\node_modules\xtend132716517815439724 1
 42C:\Code\music-website\node_modules\@parcel132716517569109707 1
 98C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\chalk\templates.js132566192422279998 0
-59C:\Code\music-website\src\assets\js\channelSplitMaterial.js132688017006161647 0
+59C:\Code\music-website\src\assets\js\channelSplitMaterial.js132724033741866005 0
 83C:\Code\music-website\node_modules\node-releases\.github\workflows\nightly-sync.yml132711544944790000 0
 41C:\Code\music-website\node_modules\rimraf132716517812899748 1
 73C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\helpers\text.js132665656125410000 0
@@ -375,7 +375,7 @@
 124C:\Code\music-website\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\attribute.js132566195189080000 0
 55C:\Code\music-website\node_modules\lodash\fp\indexOf.js132617037952230000 0
 56C:\Code\music-website\node_modules\request\lib\tunnel.js132617038069779998 0
-39C:\Code\music-website\src\assets\images132716465530169601 1
+39C:\Code\music-website\src\assets\images132724033741755932 1
 101C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\tokenTypes.js132566195189080000 0
 50C:\Code\music-website\node_modules\ret\lib\util.js132566195082290000 0
 80C:\Code\music-website\node_modules\to-regex\node_modules\extend-shallow\index.js132566194369290000 0
@@ -391,8 +391,8 @@
 45C:\Code\music-website\node_modules\dotenv\lib132716502471723108 1
 80C:\Code\music-website\node_modules\posthtml\node_modules\posthtml-parser\license132711548563850000 0
 96C:\Code\music-website\node_modules\css-modules-loader-core\node_modules\postcss\lib\postcss.d.ts132665655916810000 0
-53C:\Code\music-website\src\assets\js\text-animation.js132701976343338989 0
-49C:\Code\music-website\src\assets\js\dataSwitch.js132709619754036935 0
+53C:\Code\music-website\src\assets\js\text-animation.js132724033741945942 0
+49C:\Code\music-website\src\assets\js\dataSwitch.js132724033741905936 0
 67C:\Code\music-website\node_modules\es-abstract\2020\StringCreate.js132673827420439998 0
 72C:\Code\music-website\node_modules\@nodelib\fs.scandir\out\utils\fs.d.ts132673830651359998 0
 58C:\Code\music-website\node_modules\terser\tools\props.html132711544958070000 0
@@ -405,7 +405,7 @@
 69C:\Code\music-website\node_modules\lodash\fp\symmetricDifferenceBy.js132617037952230000 0
 75C:\Code\music-website\node_modules\postcss-modules-scope\node_modules\chalk132716517811279747 1
 76C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\generated\utils.js132665656125410000 0
-58C:\Code\music-website\src\assets\audio\Everything Good.mp3132679280288648999 0
+58C:\Code\music-website\src\assets\audio\Everything Good.mp3132724033710205963 0
 81C:\Code\music-website\node_modules\regex-not\node_modules\extend-shallow\index.js132566194369290000 0
 82C:\Code\music-website\node_modules\postcss-merge-longhand\dist\lib\decl\padding.js132566194998340000 0
 52C:\Code\music-website\node_modules\relateurl\license132618596702850000 0
@@ -414,7 +414,7 @@
 53C:\Code\music-website\node_modules\request\request.js132617038069779998 0
 82C:\Code\music-website\node_modules\@parcel\transformer-js\node_modules\.bin\semver132716517704439768 0
 83C:\Code\music-website\node_modules\postcss-normalize-timing-functions\dist\index.js132566195016210000 0
-36C:\Code\music-website\src\assets\txt132716465247110285 1
+36C:\Code\music-website\src\assets\txt132724033742095948 1
 54C:\Code\music-website\node_modules\esutils\LICENSE.BSD132566193895030000 0
 54C:\Code\music-website\node_modules\@parcel\workers\lib132716502404678105 1
 50C:\Code\music-website\node_modules\w3c-hr-time\lib132716502640268352 1
@@ -433,16 +433,16 @@
 69C:\Code\music-website\node_modules\core-js\stable\reflect\own-keys.js132711544984300002 0
 68C:\Code\music-website\node_modules\es-abstract\2015\ToPropertyKey.js132673827420439998 0
 68C:\Code\music-website\node_modules\caniuse-lite\dist\lib\statuses.js132716443246830002 0
-57C:\Code\music-website\src\assets\scss\text-animation.scss132707430980690000 0
+57C:\Code\music-website\src\assets\scss\text-animation.scss132724033742085945 0
 51C:\Code\music-website\node_modules\uri-js\yarn.lock132566194589100000 0
-50C:\Code\music-website\src\assets\scss\_navbar.scss132707430980490000 0
+50C:\Code\music-website\src\assets\scss\_navbar.scss132724033742075976 0
 86C:\Code\music-website\node_modules\is-negative-zero\.github\workflows\node-pretest.yml132566194863380002 0
 55C:\Code\music-website\node_modules\unset-value\index.js132566195245230000 0
 92C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\navigator\NavigatorPlugins-impl.js132665656125410000 0
 81C:\Code\music-website\node_modules\to-regex-range\node_modules\is-number\index.js132566194813070000 0
 80C:\Code\music-website\node_modules\caniuse-lite\data\features\media-attribute.js132716443246830002 0
 46C:\Code\music-website\node_modules\esprima\bin132716502539598398 1
-54C:\Code\music-website\src\assets\css\sticky-footer.css132707728832949037 0
+54C:\Code\music-website\src\assets\css\sticky-footer.css132724033739805936 0
 51C:\Code\music-website\node_modules\ws\lib\sender.js132711544944380000 0
 77C:\Code\music-website\node_modules\fast-glob\out\providers\filters\entry.d.ts132711544911860000 0
 74C:\Code\music-website\node_modules\core-js\modules\es.array.copy-within.js132711544984300002 0
@@ -451,7 +451,7 @@
 76C:\Code\music-website\node_modules\core-js\stable\string\virtual\fontsize.js132711544984300002 0
 68C:\Code\music-website\node_modules\uri-js\dist\esnext\regexps-iri.js132566194589100000 0
 79C:\Code\music-website\node_modules\caniuse-lite\data\features\css-namespaces.js132716443246830002 0
-60C:\Code\music-website\src\assets\lyrics\lyrics-collection.md132684494323533188 0
+60C:\Code\music-website\src\assets\lyrics\lyrics-collection.md132724033741985959 0
 77C:\Code\music-website\node_modules\is-descriptor\node_modules\kind-of\LICENSE132566194381189998 0
 67C:\Code\music-website\node_modules\postcss-value-parser\lib\unit.js132566193319489998 0
 79C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\helpers\shadow-dom.js132665656125410000 0
@@ -464,16 +464,16 @@
 83C:\Code\music-website\node_modules\core-js\features\string\virtual\code-point-at.js132711544984300002 0
 53C:\Code\music-website\node_modules\is-windows\LICENSE132566194677170000 0
 71C:\Code\music-website\node_modules\@swc\helpers\src\_define_property.js132711545010760000 0
-46C:\Code\music-website\src\assets\fonts\Monoton132716465381585111 1
+46C:\Code\music-website\src\assets\fonts\Monoton132724033740385963 1
 55C:\Code\music-website\node_modules\union-value\index.js132566195250920000 0
 124C:\Code\music-website\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\namespace.js132566195189080000 0
 71C:\Code\music-website\node_modules\@parcel\transformer-js\src\native.js132711544951090000 0
 56C:\Code\music-website\node_modules\postcss\lib\result.js132711544952560002 0
-51C:\Code\music-website\src\assets\lyrics\sad-man.txt132720223744750240 0
+51C:\Code\music-website\src\assets\lyrics\sad-man.txt132724033742025968 0
 52C:\Code\music-website\node_modules\csso\package.json132566195346890000 0
 45C:\Code\music-website\node_modules\whatwg-url132716517815269713 1
 44C:\Code\music-website\node_modules\callsites132716517803179799 1
-51C:\Code\music-website\src\assets\lyrics\whitman.lrc132707732230840502 0
+51C:\Code\music-website\src\assets\lyrics\whitman.lrc132724033742045973 0
 57C:\Code\music-website\node_modules\lodash\fp\isInteger.js132617037952230000 0
 69C:\Code\music-website\node_modules\string.prototype.trimstart\LICENSE132617038651350000 0
 56C:\Code\music-website\node_modules\lodash\_hasUnicode.js132617037952230000 0
@@ -483,14 +483,14 @@
 69C:\Code\music-website\node_modules\highlight.js\lib\languages\stan.js132711545006960000 0
 49C:\Code\music-website\node_modules\iferr\iferr.js132711544917300000 0
 108C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\constructors.js132665656113130000 0
-50C:\Code\music-website\src\assets\js\APlayer.min.js132688031829022982 0
-56C:\Code\music-website\src\assets\images\card-song-images132716465521744137 1
+50C:\Code\music-website\src\assets\js\APlayer.min.js132724033741775923 0
+56C:\Code\music-website\src\assets\images\card-song-images132724033740955930 1
 52C:\Code\music-website\node_modules\parse5\lib\common132716502830038380 1
 53C:\Code\music-website\node_modules\lodash\assignIn.js132617037952230000 0
 46C:\Code\music-website\junk_drawer\vinyl-record132707472684134378 1
 53C:\Code\music-website\node_modules\is-callable\.nycrc132566194738980000 0
 64C:\Code\music-website\node_modules\cssstyle\lib\allProperties.js132665656199370000 0
-58C:\Code\music-website\src\assets\html\partials\footer.html132720250977140000 0
+58C:\Code\music-website\src\assets\html\partials\footer.html132724033740595962 0
 63C:\Code\music-website\node_modules\svgo\plugins\minifyStyles.js132566195235369998 0
 56C:\Code\music-website\node_modules\lodash\fp\uniqueId.js132617037952230000 0
 82C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\generated\UIEventInit.js132665656125410000 0
@@ -499,15 +499,15 @@
 48C:\Code\music-website\node_modules\lodash\get.js132617037952230000 0
 59C:\Code\music-website\node_modules\ansi-styles\node_modules132716502026727879 1
 101C:\Code\music-website\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist132716502607548372 1
-48C:\Code\music-website\src\assets\js\APlaylist.js132716535993700961 0
+48C:\Code\music-website\src\assets\js\APlaylist.js132724033741785949 0
 57C:\Code\music-website\node_modules\node-forge\lib\sha1.js132566194814030000 0
 57C:\Code\music-website\node_modules\rgb-regex\package.json132566195332080000 0
 79C:\Code\music-website\node_modules\caniuse-lite\data\features\scrollintoview.js132716443246830002 0
 78C:\Code\music-website\node_modules\core-js\features\object\get-prototype-of.js132711544984300002 0
-50C:\Code\music-website\src\assets\js\blotter.min.js132688011422900000 0
+50C:\Code\music-website\src\assets\js\blotter.min.js132724033741825946 0
 43C:\Code\music-website\node_modules\htmlnano132716517806869726 1
 69C:\Code\music-website\node_modules\@parcel\core\src\PackagerRunner.js132711544871470002 0
-60C:\Code\music-website\src\assets\js\liquidDistortMaterial.js132688015225475913 0
+60C:\Code\music-website\src\assets\js\liquidDistortMaterial.js132724033741935937 0
 66C:\Code\music-website\node_modules\browserify-sign\browser\sign.js132566195101310002 0
 72C:\Code\music-website\node_modules\core-js\es\string\virtual\fontsize.js132711544984300002 0
 65C:\Code\music-website\node_modules\core-js\internals\is-forced.js132711544984300002 0
@@ -521,11 +521,11 @@
 73C:\Code\music-website\node_modules\sprintf-js\dist\angular-sprintf.min.js132566194935250000 0
 62C:\Code\music-website\node_modules\browserify-aes\modes\cfb.js132566195257980002 0
 63C:\Code\music-website\node_modules\cosmiconfig\dist\readFile.js132566194422279998 0
-50C:\Code\music-website\src\assets\js\tilt.jquery.js132693174220420000 0
+50C:\Code\music-website\src\assets\js\tilt.jquery.js132724033741945942 0
 44C:\Code\music-website\node_modules\sshpk\man132716502042137771 1
 55C:\Code\music-website\node_modules\lodash\_asciiSize.js132617037952230000 0
-48C:\Code\music-website\src\assets\images\amen.jpg132698880568620000 0
-45C:\Code\music-website\src\assets\js\worker.js132703572450522789 0
+48C:\Code\music-website\src\assets\images\amen.jpg132724033740676044 0
+45C:\Code\music-website\src\assets\js\worker.js132724033741955937 0
 57C:\Code\music-website\node_modules\domelementtype\LICENSE132665656151880000 0
 90C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\Dimension.js132617038635200000 0
 64C:\Code\music-website\node_modules\es-abstract\2020\ToInteger.js132673827420439998 0
@@ -533,18 +533,18 @@
 43C:\Code\music-website\node_modules\punycode132716517812159723 1
 82C:\Code\music-website\node_modules\core-js\modules\web.dom-collections.iterator.js132711544984300002 0
 48C:\Code\music-website\node_modules\lodash\tap.js132617037952230000 0
-53C:\Code\music-website\src\assets\images\by-goshes.jpg132698880569650000 0
+53C:\Code\music-website\src\assets\images\by-goshes.jpg132724033740695929 0
 62C:\Code\music-website\node_modules\es-abstract\2016\WeekDay.js132673827420439998 0
 47C:\Code\music-website\node_modules\css-tree\lib132716502455917797 1
 51C:\Code\music-website\node_modules\url\node_modules132716502028867797 1
 52C:\Code\music-website\node_modules\html-tags\license132665656238870000 0
 69C:\Code\music-website\node_modules\@parcel\markdown-ansi\package.json132711544919540000 0
 95C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\package.json132566195189080000 0
-65C:\Code\music-website\src\assets\audio\brain fever 11.24.2016.mp3132559222127300000 0
+65C:\Code\music-website\src\assets\audio\brain fever 11.24.2016.mp3132724033721416379 0
 58C:\Code\music-website\node_modules\simple-swizzle\index.js132566195436000000 0
 53C:\Code\music-website\node_modules\console-browserify132716517803709724 1
 69C:\Code\music-website\node_modules\core-js\features\map\map-values.js132711544984300002 0
-54C:\Code\music-website\src\assets\images\crgMindMap.png132394862614800000 0
+54C:\Code\music-website\src\assets\images\crgMindMap.png132724033740985940 0
 61C:\Code\music-website\node_modules\core-js\es\number\index.js132711544984300002 0
 53C:\Code\music-website\node_modules\randomfill\LICENSE132566195121870000 0
 57C:\Code\music-website\node_modules\ajv\lib\dotjs\items.js132566193962250000 0
@@ -554,11 +554,11 @@
 54C:\Code\music-website\node_modules\yallist\iterator.js132566194291530000 0
 69C:\Code\music-website\node_modules\core-js\es\string\virtual\small.js132711544984300002 0
 55C:\Code\music-website\node_modules\core-js\es\data-view132716502731868408 1
-56C:\Code\music-website\src\assets\images\cute-octopus.jpg132708149123654469 0
+56C:\Code\music-website\src\assets\images\cute-octopus.jpg132724033741005954 0
 42C:\Code\music-website\node_modules\deep-is132716517804649724 1
 73C:\Code\music-website\node_modules\core-js\stable\typed-array\includes.js132711544984300002 0
-71C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.ttf132707430964660000 0
-60C:\Code\music-website\src\assets\images\deformed-pokemon.jpg132699133436235891 0
+71C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.ttf132724033740416438 0
+60C:\Code\music-website\src\assets\images\deformed-pokemon.jpg132724033741026087 0
 54C:\Code\music-website\node_modules\lodash\_flatRest.js132617037952230000 0
 49C:\Code\music-website\node_modules\lodash\math.js132617037952230000 0
 84C:\Code\music-website\node_modules\caniuse-lite\data\features\css-overflow-anchor.js132716443246830002 0
@@ -573,7 +573,7 @@
 56C:\Code\music-website\node_modules\postcss-minify-params132716517810959733 1
 71C:\Code\music-website\node_modules\caniuse-lite\data\features\jpegxl.js132716443246830002 0
 78C:\Code\music-website\node_modules\caniuse-lite\data\features\console-basic.js132716443246830002 0
-50C:\Code\music-website\src\assets\images\double.jpg132698880571220000 0
+50C:\Code\music-website\src\assets\images\double.jpg132724033741055993 0
 55C:\Code\music-website\node_modules\asn1.js\.eslintrc.js132566195424960000 0
 60C:\Code\music-website\node_modules\lodash\_baseDifference.js132617037952230000 0
 70C:\Code\music-website\node_modules\es-abstract\2017\SetFunctionName.js132673827420439998 0
@@ -589,16 +589,16 @@
 70C:\Code\music-website\node_modules\purgecss\node_modules\chalk\license132566192422279998 0
 70C:\Code\music-website\node_modules\jsdom\node_modules\ws\lib\sender.js132673827354470002 0
 45C:\Code\music-website\node_modules\parse-json132716517810379722 1
-58C:\Code\music-website\src\assets\images\favicon_io-dogface132716465524807687 1
+58C:\Code\music-website\src\assets\images\favicon_io-dogface132724033741165943 1
 46C:\Code\music-website\node_modules\glob-parent132716517806309740 1
 76C:\Code\music-website\node_modules\core-js\stable\number\max-safe-integer.js132711544984300002 0
 86C:\Code\music-website\node_modules\terser\node_modules\source-map\lib\binary-search.js132566192438660000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\MW.js132716443246830002 0
-53C:\Code\music-website\src\assets\audio\itt\spider.mp3132699189261330000 0
+53C:\Code\music-website\src\assets\audio\itt\spider.mp3132724033731826324 0
 92C:\Code\music-website\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib132716502614788380 1
 43C:\Code\music-website\node_modules\nice-try132716517809599747 1
 55C:\Code\music-website\node_modules\ret\lib\positions.js132566195082290000 0
-59C:\Code\music-website\src\assets\images\foghorn-leghorn.png132708043857735718 0
+59C:\Code\music-website\src\assets\images\foghorn-leghorn.png132724033741186187 0
 78C:\Code\music-website\node_modules\es-abstract\2019\SymbolDescriptiveString.js132673827420439998 0
 77C:\Code\music-website\node_modules\@babel\helper-validator-identifier\scripts132716502314187816 1
 73C:\Code\music-website\node_modules\@parcel\node-libs-browser\package.json132711545100550002 0
@@ -608,7 +608,7 @@
 71C:\Code\music-website\node_modules\@babel\types\lib\definitions\misc.js132716443226860000 0
 77C:\Code\music-website\node_modules\core-js\stable\object\define-properties.js132711544984300002 0
 41C:\Code\music-website\node_modules\des.js132716517804849733 1
-67C:\Code\music-website\src\assets\images\future-neon-knife-fight.jpg132698880571750000 0
+67C:\Code\music-website\src\assets\images\future-neon-knife-fight.jpg132724033741196015 0
 53C:\Code\music-website\node_modules\strip-ansi\license132566193764779998 0
 73C:\Code\music-website\node_modules\es-abstract\2015\GetOwnPropertyKeys.js132673827420439998 0
 67C:\Code\music-website\node_modules\es-abstract\2019\RegExpCreate.js132673827420439998 0
@@ -620,7 +620,7 @@
 78C:\Code\music-website\node_modules\http-proxy-middleware\dist\path-rewriter.js132673827296359998 0
 60C:\Code\music-website\node_modules\@types\node\readline.d.ts132716443261530000 0
 69C:\Code\music-website\node_modules\es-abstract\2018\PromiseResolve.js132673827420439998 0
-59C:\Code\music-website\src\assets\html\components\cards.html132720250956730002 0
+59C:\Code\music-website\src\assets\html\components\cards.html132724033740456024 0
 113C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\fill-range\node_modules\extend-shallow132716517801229719 1
 128C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\posthtml\node_modules\posthtml-parser\.lintstagedrc132665655979860000 0
 53C:\Code\music-website\node_modules\lodash\multiply.js132617037952230000 0
@@ -629,14 +629,14 @@
 53C:\Code\music-website\node_modules\isexe\package.json132566194906170002 0
 77C:\Code\music-website\node_modules\performance-now\lib\performance-now.js.map132617038094519998 0
 68C:\Code\music-website\node_modules\js-yaml\lib\js-yaml\type\float.js132566193927650002 0
-55C:\Code\music-website\src\assets\images\green-devil.png132699133435010994 0
+55C:\Code\music-website\src\assets\images\green-devil.png132724033741215984 0
 99C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\sortAscending.js132665656113130000 0
 48C:\Code\music-website\node_modules\node-releases132716517809669740 1
-63C:\Code\music-website\src\assets\images\green-devil_touchup.png132679074737119438 0
+63C:\Code\music-website\src\assets\images\green-devil_touchup.png132724033741225932 0
 50C:\Code\music-website\node_modules\extend\index.js132566192397140000 0
 58C:\Code\music-website\node_modules\stylehacks\node_modules132716517713969750 1
 56C:\Code\music-website\node_modules\source-map-js\LICENSE132673828997720002 0
-49C:\Code\music-website\src\assets\images\idler.jpg132698880572250000 0
+49C:\Code\music-website\src\assets\images\idler.jpg132724033741246042 0
 44C:\Code\music-website\node_modules\has-value132716517806489745 1
 51C:\Code\music-website\node_modules\xmlchars\LICENSE132665656299070000 0
 41C:\Code\music-website\node_modules\events132716517805569738 1
@@ -644,7 +644,7 @@
 56C:\Code\music-website\node_modules\string-width\index.js132617038009340000 0
 49C:\Code\music-website\node_modules\lodash\bind.js132617037952230000 0
 65C:\Code\music-website\node_modules\core-js\es\array\find-index.js132711544984300002 0
-58C:\Code\music-website\src\assets\images\knoxville-girl.jpg132699130473810000 0
+58C:\Code\music-website\src\assets\images\knoxville-girl.jpg132724033741255923 0
 69C:\Code\music-website\node_modules\string.prototype.trimstart\shim.js132617038651350000 0
 80C:\Code\music-website\node_modules\csso\lib\restructure\2-initialMergeRuleset.js132566195346890000 0
 41C:\Code\music-website\node_modules\md5.js132716517808899717 1
@@ -655,16 +655,16 @@
 53C:\Code\music-website\node_modules\lodash\_isIndex.js132617037952230000 0
 39C:\Code\music-website\node_modules\uniq132716517814599738 1
 66C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\index.js132665656125410000 0
-57C:\Code\music-website\src\assets\images\lifes-a-grave.jpg132699130469750000 0
+57C:\Code\music-website\src\assets\images\lifes-a-grave.jpg132724033741265925 0
 73C:\Code\music-website\node_modules\@parcel\fs-write-stream-atomic\LICENSE132711544883820000 0
 61C:\Code\music-website\node_modules\core-js\es\string\match.js132711544984300002 0
-54C:\Code\music-website\src\assets\images\mala-dietz.jpg132698880572770000 0
+54C:\Code\music-website\src\assets\images\mala-dietz.jpg132724033741275918 0
 60C:\Code\music-website\node_modules\lodash\fp\assignInWith.js132617037952230000 0
 57C:\Code\music-website\node_modules\util-deprecate\LICENSE132566194813540000 0
 82C:\Code\music-website\node_modules\es-abstract\helpers\getOwnPropertyDescriptor.js132673827420439998 0
 65C:\Code\music-website\node_modules\es-abstract\2019\CreateHTML.js132673827420439998 0
 91C:\Code\music-website\node_modules\@parcel\packager-css\node_modules\postcss\lib\comment.js132716443217890000 0
-67C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Black.ttf132707910204020719 0
+67C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Black.ttf132724033739985976 0
 45C:\Code\music-website\node_modules\acorn-walk132716517802319721 1
 50C:\Code\music-website\node_modules\postcss-modules132716517811049717 1
 53C:\Code\music-website\node_modules\ieee754\index.d.ts132566195035970000 0
@@ -673,12 +673,12 @@
 47C:\Code\music-website\node_modules\domexception132716517804939760 1
 80C:\Code\music-website\node_modules\postcss-merge-longhand\dist\lib\colorMerge.js132566194998340000 0
 69C:\Code\music-website\node_modules\core-js\stable\typed-array\some.js132711544984300002 0
-60C:\Code\music-website\src\assets\images\many-miles-apart.jpg132699130470210000 0
+60C:\Code\music-website\src\assets\images\many-miles-apart.jpg132724033741275918 0
 81C:\Code\music-website\node_modules\mixin-deep\node_modules\is-extendable\index.js132566194813570002 0
 61C:\Code\music-website\node_modules\requires-port\package.json132566194052449998 0
 79C:\Code\music-website\node_modules\highlight.js\styles\atelier-plateau-dark.css132711545006960000 0
 51C:\Code\music-website\node_modules\argparse\LICENSE132566194577000000 0
-54C:\Code\music-website\src\assets\images\multiverse.jpg132706906753540000 0
+54C:\Code\music-website\src\assets\images\multiverse.jpg132724033741405932 0
 56C:\Code\music-website\node_modules\color-string\index.js132711545179650000 0
 78C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\traversal\helpers.js132665656125410000 0
 63C:\Code\music-website\node_modules\url\node_modules\querystring132716517814889728 1
@@ -688,7 +688,7 @@
 76C:\Code\music-website\node_modules\@babel\compat-data\overlapping-plugins.js132711545038020000 0
 60C:\Code\music-website\node_modules\@babel\plugin-syntax-flow132716517800089755 1
 53C:\Code\music-website\node_modules\lodash\function.js132617037952230000 0
-57C:\Code\music-website\src\assets\images\not-psychotic.jpg132698880573280000 0
+57C:\Code\music-website\src\assets\images\not-psychotic.jpg132724033741415923 0
 51C:\Code\music-website\node_modules\lodash\fp\max.js132617037952230000 0
 59C:\Code\music-website\node_modules\icss-replace-symbols\lib132716502553018368 1
 81C:\Code\music-website\node_modules\caniuse-lite\data\features\css-mediaqueries.js132716443246830002 0
@@ -706,7 +706,7 @@
 65C:\Code\music-website\node_modules\core-js\internals\microtask.js132711544984300002 0
 48C:\Code\music-website\src\assets\images\opti.log132696480319696282 0
 73C:\Code\music-website\node_modules\css-tree\lib\syntax\node\Combinator.js132566195345720002 0
-70C:\Code\music-website\src\assets\audio\flowers-on-your-lips (Live).mp3132679449092130000 0
+70C:\Code\music-website\src\assets\audio\flowers-on-your-lips (Live).mp3132724033723925918 0
 65C:\Code\music-website\node_modules\request-promise-core\errors.js132665656294560002 0
 86C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\generated\HTMLSpanElement.js132665656125410000 0
 57C:\Code\music-website\node_modules\postcss\lib\warning.js132711544952560002 0
@@ -715,18 +715,18 @@
 48C:\Code\music-website\node_modules\@parcel\cache132716502048697790 1
 80C:\Code\music-website\node_modules\core-js\modules\es.object.get-prototype-of.js132711544984300002 0
 92C:\Code\music-website\node_modules\postcss-modules\node_modules\postcss-value-parser\LICENSE132566193313230000 0
-72C:\Code\music-website\src\assets\audio\itt\beast-fast-talkin-version.mp3132699185985460000 0
+72C:\Code\music-website\src\assets\audio\itt\beast-fast-talkin-version.mp3132724033725725910 0
 78C:\Code\music-website\node_modules\postcss-merge-longhand\dist\lib\parseWsc.js132566194998340000 0
 52C:\Code\music-website\node_modules\pn\querystring.js132665656202869998 0
 52C:\Code\music-website\node_modules\tweetnacl\LICENSE132617038220820000 0
 77C:\Code\music-website\node_modules\core-js\modules\es.typed-array.subarray.js132711544984300002 0
 46C:\Code\music-website\node_modules\htmlparser2132716517806879720 1
-59C:\Code\music-website\src\assets\images\poor-mans-dream.jpg132698880573820000 0
+59C:\Code\music-website\src\assets\images\poor-mans-dream.jpg132724033741435932 0
 50C:\Code\music-website\node_modules\unbox-primitive132716517814389710 1
-51C:\Code\music-website\src\assets\images\psalm-6.jpg132698880574420000 0
+51C:\Code\music-website\src\assets\images\psalm-6.jpg132724033741445924 0
 72C:\Code\music-website\node_modules\core-js\es\typed-array\uint8-array.js132711544984300002 0
 57C:\Code\music-website\node_modules\lodash\isObjectLike.js132617037952230000 0
-48C:\Code\music-website\src\assets\images\rain.jpg132703275771820000 0
+48C:\Code\music-website\src\assets\images\rain.jpg132724033741455919 0
 78C:\Code\music-website\node_modules\csso\lib\restructure\4-restructShorthand.js132566195346890000 0
 60C:\Code\music-website\node_modules\querystring-es3\encode.js132566194828010002 0
 85C:\Code\music-website\node_modules\postcss-normalize-timing-functions\dist\lib\map.js132566195016210000 0
@@ -736,7 +736,7 @@
 92C:\Code\music-website\node_modules\css-modules-loader-core\node_modules\postcss\package.json132665655916810000 0
 57C:\Code\music-website\node_modules\public-encrypt\LICENSE132566195120120000 0
 46C:\Code\music-website\node_modules\detect-libc132716517804859724 1
-54C:\Code\music-website\src\assets\images\screenshot.png132696483244087163 0
+54C:\Code\music-website\src\assets\images\screenshot.png132724033741536182 0
 50C:\Code\music-website\node_modules\sprintf-js\dist132716502624898417 1
 101C:\Code\music-website\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\input.js132566193336350000 0
 66C:\Code\music-website\node_modules\core-js\features\array\index.js132711544984300002 0
@@ -744,12 +744,12 @@
 45C:\Code\music-website\node_modules\slice-ansi132716517813349739 1
 100C:\Code\music-website\node_modules\@parcel\transformer-css\node_modules\postcss-value-parser\LICENSE132566193313230000 0
 127C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\posthtml\node_modules\posthtml-parser\package.json132665655979860000 0
-54C:\Code\music-website\src\assets\images\skreenshot.png132696482363769601 0
+54C:\Code\music-website\src\assets\images\skreenshot.png132724033741615947 0
 71C:\Code\music-website\node_modules\core-js\internals\create-property.js132711544984300002 0
 60C:\Code\music-website\node_modules\postcss-normalize-charset132716517811529720 1
 71C:\Code\music-website\node_modules\core-js\modules\es.symbol.species.js132711544984300002 0
 64C:\Code\music-website\node_modules\core-js\stable\global-this.js132711544984300002 0
-87C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light-md-two-cards.png132708043862655762 0
+87C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light-md-two-cards.png132724033741636025 0
 81C:\Code\music-website\node_modules\@parcel\packager-raw-url\lib\RawUrlPackager.js132716517560130002 0
 79C:\Code\music-website\node_modules\caniuse-lite\data\features\input-datetime.js132716443246830002 0
 62C:\Code\music-website\node_modules\core-js\es\string\strike.js132711544984300002 0
@@ -759,34 +759,34 @@
 49C:\Code\music-website\node_modules\to-regex-range132716517814229712 1
 55C:\Code\music-website\node_modules\json-schema-traverse132716517808659717 1
 77C:\Code\music-website\node_modules\strip-ansi\node_modules\ansi-regex\license132566194269920002 0
-77C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light-md.png132708043861755656 0
+77C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light-md.png132724033741645967 0
 76C:\Code\music-website\node_modules\postcss-selector-parser\dist\processor.js132665656112700000 0
 74C:\Code\music-website\node_modules\@parcel\utils\src\relativeBundlePath.js132711544877050000 0
 59C:\Code\music-website\node_modules\querystring-es3\index.js132566194828010002 0
 72C:\Code\music-website\node_modules\core-js\features\instance\flat-map.js132711544984300002 0
 54C:\Code\music-website\node_modules\globby\gitignore.js132711544941790000 0
-74C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light.png132708043861305688 0
+74C:\Code\music-website\src\assets\images\songs-the-lord-gave-dave_light.png132724033741675960 0
 90C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHeadingElement-impl.js132665656125410000 0
-54C:\Code\music-website\src\assets\fonts\Monoton\OFL.txt132707430963520000 0
+54C:\Code\music-website\src\assets\fonts\Monoton\OFL.txt132724033740385963 0
 77C:\Code\music-website\node_modules\parcel\node_modules\commander\package.json132711544871280000 0
 63C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes132716502930998369 1
 72C:\Code\music-website\node_modules\es-abstract\2020\Number\bitwiseAND.js132673827420439998 0
 75C:\Code\music-website\node_modules\uri-js\dist\esnext\schemes\urn-uuid.d.ts132566194589100000 0
 55C:\Code\music-website\node_modules\utils-merge\index.js132566193869939998 0
-50C:\Code\music-website\src\assets\audio\Whitman.mp3132679280297750000 0
+50C:\Code\music-website\src\assets\audio\Whitman.mp3132724033719456324 0
 85C:\Code\music-website\node_modules\postcss-minify-font-values\dist\lib\minify-font.js132566195006470002 0
 71C:\Code\music-website\node_modules\highlight.js\lib\languages\erlang.js132711545006960000 0
 64C:\Code\music-website\node_modules\es-abstract\2019\SameValue.js132673827420439998 0
-54C:\Code\music-website\src\assets\images\squid-life.jpg132699133434570984 0
+54C:\Code\music-website\src\assets\images\squid-life.jpg132724033741685927 0
 68C:\Code\music-website\node_modules\@iarna\toml\parse-pretty-error.js132566194894869998 0
-79C:\Code\music-website\src\assets\images\favicon_io-dogface\apple-touch-icon.png132698848070726846 0
+79C:\Code\music-website\src\assets\images\favicon_io-dogface\apple-touch-icon.png132724033741125930 0
 55C:\Code\music-website\node_modules\terser\lib\output.js132711544958070000 0
 70C:\Code\music-website\node_modules\es-abstract\2020\thisStringValue.js132673827420439998 0
 69C:\Code\music-website\node_modules\@parcel\namer-default\package.json132711544923350000 0
 73C:\Code\music-website\node_modules\core-js\features\string\starts-with.js132711544984300002 0
 64C:\Code\music-website\node_modules\posthtml-include\package.json132711904957650002 0
 70C:\Code\music-website\node_modules\core-js\modules\es.string.strike.js132711544984300002 0
-66C:\Code\music-website\src\assets\images\squid-life_light-theme.jpg132708043863095696 0
+66C:\Code\music-website\src\assets\images\squid-life_light-theme.jpg132724033741705979 0
 44C:\Code\music-website\node_modules\hash-base132716517806509708 1
 74C:\Code\music-website\node_modules\core-js\stable\typed-array\to-string.js132711544984300002 0
 42C:\Code\music-website\node_modules\has\src132716502543568368 1
@@ -802,37 +802,37 @@
 46C:\Code\music-website\node_modules\union-value132716517814549755 1
 82C:\Code\music-website\node_modules\@babel\helper-validator-identifier\package.json132716443266900002 0
 89C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\extend-shallow132716517801219802 1
-70C:\Code\music-website\src\assets\audio\itt\mgtp\03 Male Prostitute.m4a131759633070000000 0
+70C:\Code\music-website\src\assets\audio\itt\mgtp\03 Male Prostitute.m4a132724033729965937 0
 104C:\Code\music-website\node_modules\postcss-modules\node_modules\postcss-modules-local-by-default\LICENSE132673827318660000 0
 67C:\Code\music-website\node_modules\es-abstract\2016\IteratorStep.js132673827420439998 0
-56C:\Code\music-website\src\assets\html\later\contact.html132716498698590000 0
+56C:\Code\music-website\src\assets\html\later\contact.html132724033740525928 0
 56C:\Code\music-website\node_modules\des.js\lib\des\ede.js132566195396480000 0
 85C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\micromatch132716517801279719 1
 40C:\Code\music-website\node_modules\cssom132716502094147845 1
 102C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\chalk\types\index.d.ts132566192422279998 0
-54C:\Code\music-website\src\assets\images\stalingrad.jpg132698880575480000 0
+54C:\Code\music-website\src\assets\images\stalingrad.jpg132724033741725943 0
 60C:\Code\music-website\node_modules\type-fest\ts41\index.d.ts132566194129210000 0
 74C:\Code\music-website\node_modules\caniuse-lite\data\features\proximity.js132716443246830002 0
 53C:\Code\music-website\node_modules\path-is-inside\lib132716502593118376 1
-62C:\Code\music-website\src\assets\images\the-end-is-upon-us.jpg132698880575990000 0
+62C:\Code\music-website\src\assets\images\the-end-is-upon-us.jpg132724033741735923 0
 56C:\Code\music-website\node_modules\postcss\lib\parser.js132711544952560002 0
 78C:\Code\music-website\node_modules\caniuse-lite\data\features\link-icon-png.js132716443246830002 0
-60C:\Code\music-website\src\assets\images\unknown-language.jpg132698880576580000 0
+60C:\Code\music-website\src\assets\images\unknown-language.jpg132724033741745934 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\CV.js132716443246830002 0
 59C:\Code\music-website\node_modules\postcss-minify-gradients132716517810949737 1
-48C:\Code\music-website\src\assets\html\components132720250956713018 1
+48C:\Code\music-website\src\assets\html\components132724033740445955 1
 57C:\Code\music-website\node_modules\ws\lib\event-target.js132711544944380000 0
 53C:\Code\music-website\node_modules\lodash\fp\xorBy.js132617037952230000 0
 64C:\Code\music-website\node_modules\https-browserify\package.json132566194824230002 0
 85C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\utils\errno.d.ts132711544942620000 0
-51C:\Code\music-website\src\assets\images\whitman.jpg132698880577350000 0
+51C:\Code\music-website\src\assets\images\whitman.jpg132724033741755932 0
 68C:\Code\music-website\node_modules\caniuse-lite\data\features\ogv.js132716443246830002 0
 53C:\Code\music-website\node_modules\source-map\LICENSE132566193158610000 0
 73C:\Code\music-website\node_modules\@babel\traverse\node_modules\debug\src132716502407627848 1
 121C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\fill-range\node_modules\is-extendable\index.js132566194813929998 0
 57C:\Code\music-website\node_modules\prelude-ls\lib\Func.js132566194572180000 0
 54C:\Code\music-website\node_modules\wrappy\package.json132566194598400000 0
-68C:\Code\music-website\src\assets\images\card-song-images\whitman.jpg132699130475748439 0
+68C:\Code\music-website\src\assets\images\card-song-images\whitman.jpg132724033740955930 0
 60C:\Code\music-website\node_modules\range-parser\package.json132711544999790000 0
 58C:\Code\music-website\node_modules\lodash\_baseIteratee.js132617037952230000 0
 54C:\Code\music-website\node_modules\log-symbols\license132617039157609998 0
@@ -840,14 +840,14 @@
 51C:\Code\music-website\node_modules\semver\range.bnf132566192351919998 0
 69C:\Code\music-website\node_modules\html-encoding-sniffer\package.json132665656200680000 0
 31C:\Code\music-website\.cache\c4132716494727436965 1
-79C:\Code\music-website\src\assets\images\more-guns-than-people\girl-with-gun.jpg131764671400000000 0
+79C:\Code\music-website\src\assets\images\more-guns-than-people\girl-with-gun.jpg132724033741295935 0
 66C:\Code\music-website\node_modules\core-js\stable\regexp\search.js132711544984300002 0
 58C:\Code\music-website\node_modules\nanoid\async\index.d.ts132673828997449998 0
 64C:\Code\music-website\node_modules\whatwg-mimetype\lib\parser.js132665656215830000 0
 39C:\Code\music-website\node_modules\tr46132716517814249706 1
 51C:\Code\music-website\node_modules\path-is-absolute132716517810519725 1
 42C:\Code\music-website\node_modules\ncp\bin132716502584078388 1
-70C:\Code\music-website\src\assets\images\more-guns-than-people\guns.jpg131764671140000000 0
+70C:\Code\music-website\src\assets\images\more-guns-than-people\guns.jpg132724033741325970 0
 61C:\Code\music-website\node_modules\cssnano-util-get-arguments132716517804389820 1
 49C:\Code\music-website\node_modules\lodash\_Map.js132617037952230000 0
 49C:\Code\music-website\node_modules\uniqs\index.js132566195212590000 0
@@ -857,13 +857,13 @@
 57C:\Code\music-website\node_modules\nanomatch\node_modules132716502027847794 1
 73C:\Code\music-website\node_modules\highlight.js\scss\qtcreator_light.scss132711545006960000 0
 92C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\Parentheses.js132617038635200000 0
-75C:\Code\music-website\src\assets\images\more-guns-than-people\mgtp-back.jpg131764671140000000 0
-63C:\Code\music-website\src\assets\html\later\text-animation.html132716498917040000 0
+75C:\Code\music-website\src\assets\images\more-guns-than-people\mgtp-back.jpg132724033741355963 0
+63C:\Code\music-website\src\assets\html\later\text-animation.html132724033740585963 0
 84C:\Code\music-website\node_modules\@parcel\optimizer-cssnano\src\CSSNanoOptimizer.js132711544928210000 0
 74C:\Code\music-website\node_modules\asynckit\lib\readable_serial_ordered.js132566195174960000 0
 69C:\Code\music-website\node_modules\cssstyle\lib\properties\azimuth.js132665656199370000 0
 46C:\Code\music-website\node_modules\ncp\bin\ncp132711544881070002 0
-76C:\Code\music-website\src\assets\images\more-guns-than-people\mgtp-cover.jpg131764671140000000 0
+76C:\Code\music-website\src\assets\images\more-guns-than-people\mgtp-cover.jpg132724033741385917 0
 74C:\Code\music-website\node_modules\core-js\stable\array\virtual\reverse.js132711544984300002 0
 56C:\Code\music-website\node_modules\lodash\_baseLodash.js132617037952230000 0
 68C:\Code\music-website\node_modules\whatwg-mimetype\lib\serializer.js132665656215830000 0
@@ -871,15 +871,15 @@
 65C:\Code\music-website\node_modules\asn1.js\lib\asn1\base\index.js132566195424960000 0
 71C:\Code\music-website\node_modules\caniuse-lite\data\features\webhid.js132716443246830002 0
 59C:\Code\music-website\node_modules\postcss-value-parser\lib132716502600608426 1
-85C:\Code\music-website\src\assets\images\favicon_io-dogface\android-chrome-192x192.png132698848073837368 0
+85C:\Code\music-website\src\assets\images\favicon_io-dogface\android-chrome-192x192.png132724033741075918 0
 87C:\Code\music-website\node_modules\snapdragon-node\node_modules\define-property\LICENSE132566194371290000 0
 76C:\Code\music-website\node_modules\@nodelib\fs.walk\out\providers\async.d.ts132711544946919998 0
 66C:\Code\music-website\node_modules\svgo\plugins\convertPathData.js132566195235369998 0
 66C:\Code\music-website\node_modules\@babel\traverse\node_modules\ms132716517800199761 1
-85C:\Code\music-website\src\assets\images\favicon_io-dogface\android-chrome-512x512.png132698848074416242 0
+85C:\Code\music-website\src\assets\images\favicon_io-dogface\android-chrome-512x512.png132724033741105911 0
 48C:\Code\music-website\node_modules\acorn-globals132716517802299721 1
 64C:\Code\music-website\node_modules\@babel\core\node_modules\.bin132716517691499751 1
-76C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon-16x16.png132698848071876204 0
+76C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon-16x16.png132724033741135935 0
 92C:\Code\music-website\node_modules\terser\node_modules\source-map\lib\source-map-consumer.js132566192438660000 0
 56C:\Code\music-website\node_modules\lodash\fp\padChars.js132617037952230000 0
 65C:\Code\music-website\node_modules\w3c-xmlserializer\lib\utils.js132665656207869998 0
@@ -887,18 +887,18 @@
 74C:\Code\music-website\node_modules\postcss-normalize-positions\LICENSE-MIT132566195013080002 0
 54C:\Code\music-website\node_modules\minimalistic-assert132716517809049732 1
 63C:\Code\music-website\node_modules\@parcel\transformer-html\src132716502416917852 1
-76C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon-32x32.png132698848071366231 0
+76C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon-32x32.png132724033741145929 0
 75C:\Code\music-website\node_modules\csso\lib\restructure\3-disjoinRuleset.js132566195346890000 0
-70C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon.ico132698848072476276 0
+70C:\Code\music-website\src\assets\images\favicon_io-dogface\favicon.ico132724033741155926 0
 69C:\Code\music-website\node_modules\svgo\plugins\removeStyleElement.js132566195235369998 0
-69C:\Code\music-website\src\assets\audio\Multiverse Bounce - 8.3.16.mp3132137948130000000 0
+69C:\Code\music-website\src\assets\audio\Multiverse Bounce - 8.3.16.mp3132724033712615929 0
 56C:\Code\music-website\node_modules\node-gyp-build\bin.js132711544914140000 0
 52C:\Code\music-website\node_modules\lodash\fp\over.js132617037952230000 0
 63C:\Code\music-website\node_modules\@parcel\workers\lib\index.js132711544880320000 0
 58C:\Code\music-website\node_modules\slice-ansi\package.json132617039124130002 0
-75C:\Code\music-website\src\assets\images\favicon_io-dogface\site.webmanifest132698848073197935 0
+75C:\Code\music-website\src\assets\images\favicon_io-dogface\site.webmanifest132724033741165943 0
 69C:\Code\music-website\node_modules\@babel\core\node_modules\json5\lib132716502405577817 1
-75C:\Code\music-website\src\assets\images\card-song-images\aluminum-walls.jpg132699130471471945 0
+75C:\Code\music-website\src\assets\images\card-song-images\aluminum-walls.jpg132724033740705924 0
 65C:\Code\music-website\node_modules\fast-glob\out\utils\pattern.js132711544911860000 0
 128C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\posthtml\node_modules\posthtml-parser\ava.config.js132665655979860000 0
 43C:\Code\music-website\node_modules\pn\os.js132665656202869998 0
@@ -909,8 +909,8 @@
 58C:\Code\music-website\node_modules\signal-exit\LICENSE.txt132566193143029998 0
 67C:\Code\music-website\node_modules\core-js\features\regexp\split.js132711544984300002 0
 45C:\Code\music-website\node_modules\terser\bin132716502632558401 1
-65C:\Code\music-website\src\assets\images\card-song-images\amen.jpg132699130471017817 0
-64C:\Code\music-website\src\assets\images\card-song-images\bpd.jpg132699130471871935 0
+65C:\Code\music-website\src\assets\images\card-song-images\amen.jpg132724033740715925 0
+64C:\Code\music-website\src\assets\images\card-song-images\bpd.jpg132724033740725929 0
 92C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\definition-syntax\index.js132617038635200000 0
 55C:\Code\music-website\node_modules\lowlight\lib\core.js132711545006060000 0
 83C:\Code\music-website\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node132711544877830000 0
@@ -920,10 +920,10 @@
 57C:\Code\music-website\node_modules\cssnano-util-get-match132716517804409729 1
 79C:\Code\music-website\node_modules\core-js\modules\es.number.is-safe-integer.js132711544984300002 0
 58C:\Code\music-website\node_modules\lodash\fp\difference.js132617037952230000 0
-57C:\Code\music-website\src\assets\audio\Knoxville Girl.mp3132461164181700000 0
+57C:\Code\music-website\src\assets\audio\Knoxville Girl.mp3132724033711565926 0
 79C:\Code\music-website\node_modules\http-proxy-middleware\dist\config-factory.js132673827296359998 0
 79C:\Code\music-website\node_modules\verror\node_modules\extsprintf\jsl.node.conf132617038234460000 0
-70C:\Code\music-website\src\assets\images\card-song-images\by-goshes.jpg132699130472272478 0
+70C:\Code\music-website\src\assets\images\card-song-images\by-goshes.jpg132724033740735928 0
 104C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\ansi-styles\package.json132566192428180000 0
 76C:\Code\music-website\node_modules\es-abstract\2016\DefinePropertyOrThrow.js132673827420439998 0
 56C:\Code\music-website\node_modules\has-ansi\package.json132566194169910000 0
@@ -940,7 +940,7 @@
 70C:\Code\music-website\node_modules\core-js\modules\es.string.search.js132711544984300002 0
 56C:\Code\music-website\node_modules\lodash\_basePullAt.js132617037952230000 0
 31C:\Code\music-website\.cache\4b132716494727976962 1
-77C:\Code\music-website\src\assets\images\card-song-images\club-2-car-chase.jpg132699130472656325 0
+77C:\Code\music-website\src\assets\images\card-song-images\club-2-car-chase.jpg132724033740745927 0
 77C:\Code\music-website\node_modules\posthtml-include\node_modules\posthtml\lib132716492849239646 1
 38C:\Code\music-website\node_modules\ora132716517810319738 1
 80C:\Code\music-website\node_modules\@parcel\bundler-default\lib\DefaultBundler.js132711544923770000 0
@@ -948,16 +948,16 @@
 41C:\Code\music-website\node_modules\parse5132716517810389751 1
 109C:\Code\music-website\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\processor.js132566195189080000 0
 45C:\Code\music-website\node_modules\.bin\json5132716517714759728 0
-67C:\Code\music-website\src\assets\images\card-song-images\dos-xx.jpg132699130473421212 0
-66C:\Code\music-website\src\assets\html\later\colorful-comments.html132716498680739998 0
+67C:\Code\music-website\src\assets\images\card-song-images\dos-xx.jpg132724033740755920 0
+66C:\Code\music-website\src\assets\html\later\colorful-comments.html132724033740516034 0
 76C:\Code\music-website\node_modules\acorn-globals\node_modules\.bin\acorn.cmd132716517706899788 0
 49C:\Code\music-website\node_modules\supports-color132716517813889716 1
-67C:\Code\music-website\src\assets\images\card-song-images\double.jpg132699130473046315 0
+67C:\Code\music-website\src\assets\images\card-song-images\double.jpg132724033740766014 0
 83C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\utils\index.js132711544942620000 0
 57C:\Code\music-website\node_modules\lodash\_getFuncName.js132617037952230000 0
 50C:\Code\music-website\node_modules\posthtml-render132716517812029730 1
 53C:\Code\music-website\node_modules\rgb-regex\index.js132566195332080000 0
-66C:\Code\music-website\src\assets\images\card-song-images\idler.jpg132699130474198724 0
+66C:\Code\music-website\src\assets\images\card-song-images\idler.jpg132724033740785924 0
 85C:\Code\music-website\node_modules\postcss-modules-scope\node_modules\postcss\LICENSE132566193336350000 0
 55C:\Code\music-website\node_modules\terser\dist\.gitkeep132711544958070000 0
 67C:\Code\music-website\node_modules\highlight.js\scss\night-owl.scss132711545006960000 0
@@ -965,21 +965,21 @@
 56C:\Code\music-website\node_modules\lodash\_baseFilter.js132617037952230000 0
 51C:\Code\music-website\node_modules\lodash\fp\map.js132617037952230000 0
 63C:\Code\music-website\node_modules\@babel\traverse\lib\cache.js132716443220410000 0
-75C:\Code\music-website\src\assets\images\card-song-images\knoxville-girl.jpg132699130473812938 0
+75C:\Code\music-website\src\assets\images\card-song-images\knoxville-girl.jpg132724033740796088 0
 72C:\Code\music-website\node_modules\core-js\modules\esnext.promise.try.js132711544984300002 0
 62C:\Code\music-website\node_modules\generic-names\.idea\php.xml132673828994030000 0
 49C:\Code\music-website\node_modules\object-inspect132716517809909727 1
 64C:\Code\music-website\node_modules\csso\lib\restructure\index.js132566195346890000 0
 79C:\Code\music-website\node_modules\postcss\node_modules\supports-color\index.js132566192853290000 0
-71C:\Code\music-website\src\assets\audio\itt\get-down_live_2011.04.07.mp3132699188257510000 0
+71C:\Code\music-website\src\assets\audio\itt\get-down_live_2011.04.07.mp3132724033729126310 0
 103C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\id.js132566195189080000 0
-74C:\Code\music-website\src\assets\images\card-song-images\lifes-a-grave.jpg132699130469759309 0
+74C:\Code\music-website\src\assets\images\card-song-images\lifes-a-grave.jpg132724033740805950 0
 50C:\Code\music-website\node_modules\reusify\LICENSE132566194367570000 0
 91C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\Identifier.js132617038635200000 0
-71C:\Code\music-website\src\assets\images\card-song-images\mala-dietz.jpg132699130474975336 0
+71C:\Code\music-website\src\assets\images\card-song-images\mala-dietz.jpg132724033740816014 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\MV.js132716443246830002 0
 51C:\Code\music-website\node_modules\lodash\create.js132617037952230000 0
-77C:\Code\music-website\src\assets\images\card-song-images\many-miles-apart.jpg132699130470217921 0
+77C:\Code\music-website\src\assets\images\card-song-images\many-miles-apart.jpg132724033740825967 0
 67C:\Code\music-website\node_modules\htmlparser2\lib\FeedHandler.d.ts132665656079800000 0
 53C:\Code\music-website\node_modules\parse-asn1\LICENSE132566195263120000 0
 60C:\Code\music-website\node_modules\request\node_modules\.bin132716517713619729 1
@@ -995,8 +995,8 @@
 60C:\Code\music-website\node_modules\asn1.js\lib\asn1\decoders132716502868578385 1
 55C:\Code\music-website\node_modules\postcss\lib\input.js132711544952560002 0
 66C:\Code\music-website\node_modules\@parcel\utils\lib\getRootDir.js132711544877050000 0
-74C:\Code\music-website\src\assets\images\card-song-images\not-psychotic.jpg132699130474575330 0
-78C:\Code\music-website\src\assets\images\card-song-images\play-misty-for-me.jpg132699130470607751 0
+74C:\Code\music-website\src\assets\images\card-song-images\not-psychotic.jpg132724033740855931 0
+78C:\Code\music-website\src\assets\images\card-song-images\play-misty-for-me.jpg132724033740865926 0
 99C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\micromatch\lib\.DS_Store132566193368640002 0
 64C:\Code\music-website\node_modules\browserify-zlib\karma.conf.js132566194821130000 0
 63C:\Code\music-website\node_modules\postcss-merge-rules\dist\lib132716502831158377 1
@@ -1006,7 +1006,7 @@
 79C:\Code\music-website\node_modules\core-js\features\array\virtual\find-index.js132711544984300002 0
 43C:\Code\music-website\node_modules\domutils132716517804959745 1
 79C:\Code\music-website\node_modules\highlight.js\scss\atelier-lakeside-dark.scss132711545006960000 0
-76C:\Code\music-website\src\assets\images\card-song-images\poor-mans-dream.jpg132699130476087467 0
+76C:\Code\music-website\src\assets\images\card-song-images\poor-mans-dream.jpg132724033740886131 0
 65C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\helpers132716502907328423 1
 68C:\Code\music-website\node_modules\es-abstract\2020\IteratorValue.js132673827420439998 0
 68C:\Code\music-website\node_modules\es-abstract\2016\IteratorClose.js132673827420439998 0
@@ -1019,7 +1019,7 @@
 59C:\Code\music-website\node_modules\lodash\fp\forOwnRight.js132617037952230000 0
 57C:\Code\music-website\node_modules\stylehacks\LICENSE-MIT132566195201450000 0
 59C:\Code\music-website\node_modules\stream-http\package.json132711545156940000 0
-68C:\Code\music-website\src\assets\images\card-song-images\revenge.jpg132698880574973796 0
+68C:\Code\music-website\src\assets\images\card-song-images\revenge.jpg132724033740905935 0
 62C:\Code\music-website\node_modules\restore-cursor\package.json132566194941020000 0
 67C:\Code\music-website\node_modules\core-js\stable\array\index-of.js132711544984300002 0
 65C:\Code\music-website\node_modules\expand-brackets\lib\parsers.js132566194800710000 0
@@ -1027,26 +1027,26 @@
 46C:\Code\music-website\node_modules\request\lib132716502605968394 1
 71C:\Code\music-website\node_modules\@swc\helpers\src\_read_only_error.js132711545010760000 0
 70C:\Code\music-website\node_modules\core-js\features\string\iterator.js132711544984300002 0
-71C:\Code\music-website\src\assets\images\card-song-images\stalingrad.jpg132698880575483826 0
+71C:\Code\music-website\src\assets\images\card-song-images\stalingrad.jpg132724033740925982 0
 58C:\Code\music-website\node_modules\terser\lib\sourcemap.js132711544958070000 0
 87C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAreaElement-impl.js132665656125410000 0
-79C:\Code\music-website\src\assets\images\card-song-images\the-end-is-upon-us.jpg132699130476466830 0
+79C:\Code\music-website\src\assets\images\card-song-images\the-end-is-upon-us.jpg132724033740935924 0
 84C:\Code\music-website\node_modules\caniuse-lite\data\features\hardwareconcurrency.js132716443246830002 0
 67C:\Code\music-website\node_modules\core-js\features\math\degrees.js132711544984300002 0
-77C:\Code\music-website\src\assets\images\card-song-images\unknown-language.jpg132698880576583794 0
+77C:\Code\music-website\src\assets\images\card-song-images\unknown-language.jpg132724033740945928 0
 58C:\Code\music-website\node_modules\lodash\fp\collection.js132617037952230000 0
-59C:\Code\music-website\src\assets\audio\the weather.mstr.mp3132679280300070000 0
+59C:\Code\music-website\src\assets\audio\the weather.mstr.mp3132724033738176080 0
 83C:\Code\music-website\node_modules\caniuse-lite\data\features\css-widows-orphans.js132716443246830002 0
 59C:\Code\music-website\node_modules\relateurl\lib\options.js132618596702850000 0
 62C:\Code\music-website\node_modules\css-what\lib\index.d.ts.map132566195164410000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\RO.js132716443246830002 0
-62C:\Code\music-website\src\assets\html\later\sticky-footer.html132716498880810002 0
+62C:\Code\music-website\src\assets\html\later\sticky-footer.html132724033740565984 0
 65C:\Code\music-website\node_modules\core-js\es\string\match-all.js132711544984300002 0
 56C:\Code\music-website\node_modules\w3c-xmlserializer\lib132716502641498569 1
 59C:\Code\music-website\node_modules\string-hash\package.json132673828993960000 0
 66C:\Code\music-website\node_modules\fast-glob\out\managers\tasks.js132711544911860000 0
 75C:\Code\music-website\node_modules\es-abstract\2019\IsAccessorDescriptor.js132673827420439998 0
-58C:\Code\music-website\src\assets\html\partials\header.html132720251013250000 0
+58C:\Code\music-website\src\assets\html\partials\header.html132724033740615938 0
 53C:\Code\music-website\node_modules\es-abstract\es6.js132673827420439998 0
 104C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\stringify.js132566193336350000 0
 40C:\Code\music-website\node_modules\jsesc132716517808569753 1
@@ -1054,22 +1054,22 @@
 55C:\Code\music-website\node_modules\is-arguments\.github132716502553738395 1
 53C:\Code\music-website\node_modules\lodash\stubTrue.js132617037952230000 0
 54C:\Code\music-website\node_modules\sshpk\lib\errors.js132617038182890000 0
-46C:\Code\music-website\src\assets\html\itt.html132720256915311589 0
+46C:\Code\music-website\src\assets\html\itt.html132724033740456024 0
 52C:\Code\music-website\node_modules\lodash\flatten.js132617037952230000 0
 84C:\Code\music-website\node_modules\to-regex\node_modules\extend-shallow\package.json132566194369290000 0
 43C:\Code\music-website\node_modules\dashdash132716517804529812 1
 45C:\Code\music-website\node_modules\pascalcase132716517810419720 1
 62C:\Code\music-website\node_modules\svgo\plugins\_transforms.js132566195235369998 0
 77C:\Code\music-website\node_modules\es-abstract\2019\RequireObjectCoercible.js132673827420439998 0
-43C:\Code\music-website\src\assets\html\later132716498916990955 1
+43C:\Code\music-website\src\assets\html\later132724033740585963 1
 94C:\Code\music-website\node_modules\posthtml-include\node_modules\posthtml-parser\tsconfig.json132665655979860000 0
 49C:\Code\music-website\node_modules\node-gyp-build132716517809669740 1
 46C:\Code\music-website\node_modules\string-hash132716517813679749 1
 87C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSpanElement-impl.js132665656125410000 0
-46C:\Code\music-website\src\assets\html\partials132720254578593378 1
+46C:\Code\music-website\src\assets\html\partials132724033740646023 1
 74C:\Code\music-website\node_modules\core-js\features\async-iterator\from.js132711544984300002 0
 54C:\Code\music-website\node_modules\readable-stream\lib132716502604548376 1
-56C:\Code\music-website\src\assets\html\partials\head.html132720253930684955 0
+56C:\Code\music-website\src\assets\html\partials\head.html132724033740605936 0
 65C:\Code\music-website\node_modules\tty-browserify\readme.markdown132711545153970002 0
 82C:\Code\music-website\node_modules\es-abstract\2018\CanonicalNumericIndexString.js132673827420439998 0
 89C:\Code\music-website\node_modules\postcss-modules\node_modules\postcss-modules-scope\src132716502614808370 1
@@ -1077,7 +1077,7 @@
 56C:\Code\music-website\node_modules\es-abstract\5\Type.js132673827420439998 0
 55C:\Code\music-website\node_modules\icss-replace-symbols132716517806979750 1
 53C:\Code\music-website\node_modules\@types\node\assert132716502400617807 1
-57C:\Code\music-website\src\assets\audio\LIfe's A Grave.mp3132559222158720000 0
+57C:\Code\music-website\src\assets\audio\LIfe's A Grave.mp3132724033711685932 0
 91C:\Code\music-website\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js132711544901500000 0
 69C:\Code\music-website\node_modules\core-js\features\array\includes.js132711544984300002 0
 51C:\Code\music-website\node_modules\ncp\package.json132711544881070002 0
@@ -1085,7 +1085,7 @@
 43C:\Code\music-website\node_modules\filesize132716517805949766 1
 57C:\Code\music-website\node_modules\lodash\_isPrototype.js132617037952230000 0
 31C:\Code\music-website\.cache\43132716494726586977 1
-62C:\Code\music-website\src\assets\html\partials\js-sources.html132720251039570000 0
+62C:\Code\music-website\src\assets\html\partials\js-sources.html132724033740625940 0
 53C:\Code\music-website\node_modules\randomfill\test.js132566195121870000 0
 87C:\Code\music-website\node_modules\snapdragon\node_modules\source-map\lib\quick-sort.js132566192359670000 0
 98C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\getProp.js132665656113130000 0
@@ -1099,30 +1099,30 @@
 56C:\Code\music-website\node_modules\lodash\_freeGlobal.js132617037952230000 0
 97C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\parser.js132566195189080000 0
 68C:\Code\music-website\node_modules\string.prototype.trimstart\.nycrc132617038651350000 0
-55C:\Code\music-website\src\assets\html\partials\lrc.html132720254578599998 0
-53C:\Code\music-website\src\assets\audio\Stalingrad.mp3132679449084420000 0
+55C:\Code\music-website\src\assets\html\partials\lrc.html132724033740646023 0
+53C:\Code\music-website\src\assets\audio\Stalingrad.mp3132724033716796098 0
 63C:\Code\music-website\node_modules\es-abstract\2015\ToUint16.js132673827420439998 0
 67C:\Code\music-website\node_modules\core-js\modules\es.string.big.js132711544984300002 0
 58C:\Code\music-website\node_modules\lodash\_nativeCreate.js132617037952230000 0
-55C:\Code\music-website\src\assets\html\partials\nav.html132720251110680000 0
+55C:\Code\music-website\src\assets\html\partials\nav.html132724033740655934 0
 97C:\Code\music-website\node_modules\@babel\core\node_modules\source-map\lib\source-map-consumer.js132566192359670000 0
-57C:\Code\music-website\src\assets\html\later\acoustic.html132716498622230000 0
+57C:\Code\music-website\src\assets\html\later\acoustic.html132724033740466021 0
 58C:\Code\music-website\node_modules\csso\lib\replace\atrule132716502886348378 1
 71C:\Code\music-website\node_modules\extglob\node_modules\define-property132716517805659745 1
 80C:\Code\music-website\node_modules\core-js\modules\esnext.async-iterator.find.js132711544984300002 0
-66C:\Code\music-website\src\assets\html\later\form-name-contact.html132716498741080000 0
+66C:\Code\music-website\src\assets\html\later\form-name-contact.html132724033740535940 0
 54C:\Code\music-website\node_modules\lodash\takeRight.js132617037952230000 0
 100C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\mutation-observer\MutationObserver-impl.js132665656125410000 0
-64C:\Code\music-website\src\assets\html\later\barefoot-louies.html132716498637990000 0
+64C:\Code\music-website\src\assets\html\later\barefoot-louies.html132724033740475936 0
 79C:\Code\music-website\node_modules\regex-not\node_modules\is-extendable\LICENSE132566194813570002 0
 54C:\Code\music-website\node_modules\content-disposition132716517803729747 1
 87C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\scope\index.js132617038635200000 0
 53C:\Code\music-website\node_modules\lodash\fp\unary.js132617037952230000 0
-67C:\Code\music-website\src\assets\html\later\bloghorn-klegghorn.html132716498648980000 0
+67C:\Code\music-website\src\assets\html\later\bloghorn-klegghorn.html132724033740485963 0
 49C:\Code\music-website\node_modules\public-encrypt132716517812159723 1
 68C:\Code\music-website\node_modules\iconv-lite\encodings\sbcs-data.js132566193348450000 0
 85C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js132617038635200000 0
-55C:\Code\music-website\src\assets\css\glowing-button.css132707878407319139 0
+55C:\Code\music-website\src\assets\css\glowing-button.css132724033739785938 0
 64C:\Code\music-website\node_modules\iconv-lite\lib\extend-node.js132566193348450000 0
 52C:\Code\music-website\node_modules\esprima\ChangeLog132566194578290000 0
 85C:\Code\music-website\node_modules\postcss-discard-comments\dist\lib\commentParser.js132566195014349998 0
@@ -1131,27 +1131,27 @@
 92C:\Code\music-website\node_modules\posthtml-parser\node_modules\domhandler\lib\node.d.ts.map132618596706890000 0
 83C:\Code\music-website\node_modules\csso\node_modules\mdn-data\css\units.schema.json132566195449910000 0
 87C:\Code\music-website\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts132665656112700000 0
-58C:\Code\music-website\src\assets\html\later\card-flip.html132716498661199998 0
+58C:\Code\music-website\src\assets\html\later\card-flip.html132724033740505999 0
 66C:\Code\music-website\node_modules\highlight.js\scss\sunburst.scss132711545006960000 0
 50C:\Code\music-website\node_modules\posthtml-parser132716517812019735 1
 54C:\Code\music-website\node_modules\parse-json\index.js132566194846540000 0
 49C:\Code\music-website\node_modules\srcset\license132665656046460000 0
 51C:\Code\music-website\node_modules\lodash\_toKey.js132617037952230000 0
-63C:\Code\music-website\src\assets\html\later\glowing-button.html132716498754990002 0
+63C:\Code\music-website\src\assets\html\later\glowing-button.html132724033740545964 0
 92C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\.bin\semver.cmd132716517705169771 0
 45C:\Code\music-website\node_modules\extsprintf132716517805689738 1
 66C:\Code\music-website\node_modules\csso\node_modules\mdn-data\l10n132716502466393085 1
 66C:\Code\music-website\node_modules\@parcel\reporter-dev-server\lib132716502370507826 1
 52C:\Code\music-website\node_modules\set-value\LICENSE132566195236429998 0
 59C:\Code\music-website\node_modules\punycode\punycode.es6.js132566194794130002 0
-63C:\Code\music-website\src\assets\html\later\songs-for-sale.html132716499355515714 0
+63C:\Code\music-website\src\assets\html\later\songs-for-sale.html132724033740565984 0
 72C:\Code\music-website\node_modules\highlight.js\scss\solarized-dark.scss132711545006960000 0
 59C:\Code\music-website\node_modules\core-util-is\lib\util.js132566194806960000 0
 75C:\Code\music-website\node_modules\highlight.js\scss\atelier-dune-dark.scss132711545006960000 0
 57C:\Code\music-website\node_modules\sshpk\lib\signature.js132617038182890000 0
 48C:\Code\music-website\node_modules\lodash\lte.js132617037952230000 0
 62C:\Code\music-website\node_modules\xmlchars\xml\1.0\ed5.js.map132665656299070000 0
-58C:\Code\music-website\src\assets\html\later\synth-pop.html132716498900599998 0
+58C:\Code\music-website\src\assets\html\later\synth-pop.html132724033740575977 0
 81C:\Code\music-website\node_modules\to-regex\node_modules\define-property\index.js132566194370690000 0
 86C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\domparsing\DOMParser-impl.js132665656125410000 0
 53C:\Code\music-website\node_modules\lodash\isObject.js132617037952230000 0
@@ -1166,25 +1166,25 @@
 85C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\generated\WheelEventInit.js132665656125410000 0
 69C:\Code\music-website\node_modules\csso\node_modules\mdn-data\LICENSE132566195449910000 0
 62C:\Code\music-website\node_modules\node-forge\lib\pkcs7asn1.js132566194814030000 0
-44C:\Code\music-website\src\assets\fonts\Inter132716465379265144 1
+44C:\Code\music-website\src\assets\fonts\Inter132724033739935989 1
 86C:\Code\music-website\node_modules\@babel\traverse\lib\path\generated\virtual-types.js132716443220410000 0
 69C:\Code\music-website\node_modules\core-js\modules\es.date.to-json.js132711544984300002 0
 56C:\Code\music-website\node_modules\vm-browserify\.github132716502638968373 1
 81C:\Code\music-website\node_modules\es-abstract\2020\CompletePropertyDescriptor.js132673827420439998 0
 102C:\Code\music-website\node_modules\@parcel\packager-css\node_modules\postcss\lib\terminal-highlight.js132716443217890000 0
 74C:\Code\music-website\node_modules\core-js\modules\es.string.trim-start.js132711544984300002 0
-51C:\Code\music-website\src\assets\fonts\monoton-font132716465382565128 1
-73C:\Code\music-website\src\assets\audio\The Climb (Cameron Baab REMIX).mp3132559222186700000 0
+51C:\Code\music-website\src\assets\fonts\monoton-font132724033740425986 1
+73C:\Code\music-website\src\assets\audio\The Climb (Cameron Baab REMIX).mp3132724033717805935 0
 83C:\Code\music-website\node_modules\http-proxy\lib\http-proxy\passes\web-outgoing.js132566192816380002 0
 53C:\Code\music-website\node_modules\lodash\isLength.js132617037952230000 0
-71C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.eot132707430964280000 0
+71C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.eot132724033740395962 0
 60C:\Code\music-website\node_modules\iconv-lite\lib\index.d.ts132566193348450000 0
 57C:\Code\music-website\node_modules\lodash\_baseSetData.js132617037952230000 0
 61C:\Code\music-website\node_modules\whatwg-url\lib\URL-impl.js132665656227060002 0
 54C:\Code\music-website\node_modules\lodash\_isMasked.js132617037952230000 0
-56C:\Code\music-website\src\assets\audio\Not Psychotic.mp3132679449098568893 0
+56C:\Code\music-website\src\assets\audio\Not Psychotic.mp3132724033713165946 0
 43C:\Code\music-website\node_modules\statuses132716517813629777 1
-72C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.woff132707430963950000 0
+72C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.woff132724033740425986 0
 64C:\Code\music-website\node_modules\posthtml-include\node_modules132716502028187812 1
 55C:\Code\music-website\node_modules\resolve-from\license132566194566710000 0
 51C:\Code\music-website\node_modules\lodash\fp\any.js132617037952230000 0
@@ -1196,15 +1196,15 @@
 56C:\Code\music-website\node_modules\posthtml-parser\.idea132716502620658375 1
 67C:\Code\music-website\node_modules\@parcel\transformer-js\src\fs.rs132711544951090000 0
 104C:\Code\music-website\node_modules\@parcel\transformer-postcss\node_modules\postcss-value-parser\LICENSE132566193313230000 0
-73C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.woff2132707430964870000 0
+73C:\Code\music-website\src\assets\fonts\monoton-font\Monoton-Regular.woff2132724033740435940 0
 69C:\Code\music-website\node_modules\highlight.js\lib\languages\pony.js132711545006960000 0
 89C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\lexer\prepare-tokens.js132617038635200000 0
 49C:\Code\music-website\node_modules\tty-browserify132716502281577841 1
 62C:\Code\music-website\node_modules\tty-browserify\package.json132711545153970002 0
 77C:\Code\music-website\node_modules\es-abstract\2018\OrdinaryGetOwnProperty.js132673827420439998 0
-66C:\Code\music-website\src\assets\fonts\Monoton\Monoton-Regular.ttf132707430963730000 0
+66C:\Code\music-website\src\assets\fonts\Monoton\Monoton-Regular.ttf132724033740375958 0
 47C:\Code\music-website\node_modules\astral-regex132716517802489744 1
-77C:\Code\music-website\src\assets\fonts\Inter\Inter-VariableFont_slnt,wght.ttf132707910205710705 0
+77C:\Code\music-website\src\assets\fonts\Inter\Inter-VariableFont_slnt,wght.ttf132724033739916308 0
 69C:\Code\music-website\node_modules\@babel\helper-validator-identifier132716517799979752 1
 55C:\Code\music-website\node_modules\vendors\package.json132566195196790000 0
 84C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js132617038635200000 0
@@ -1214,17 +1214,17 @@
 62C:\Code\music-website\node_modules\postcss-convert-values\dist132716502597768373 1
 75C:\Code\music-website\node_modules\postcss-minify-font-values\dist\index.js132566195006470002 0
 65C:\Code\music-website\node_modules\es-abstract\2017\InLeapYear.js132673827420439998 0
-52C:\Code\music-website\src\assets\fonts\Inter\OFL.txt132707910191980675 0
-63C:\Code\music-website\src\assets\audio\Flowers on Your Lips.mp3132679449092139505 0
+52C:\Code\music-website\src\assets\fonts\Inter\OFL.txt132724033739925966 0
+63C:\Code\music-website\src\assets\audio\Flowers on Your Lips.mp3132724033710636321 0
 58C:\Code\music-website\node_modules\repeat-element\index.js132665656115079998 0
-55C:\Code\music-website\src\assets\fonts\Inter\README.txt132707910207050716 0
+55C:\Code\music-website\src\assets\fonts\Inter\README.txt132724033739935989 0
 98C:\Code\music-website\node_modules\@parcel\optimizer-cssnano\node_modules\postcss\lib\processor.js132716443217890000 0
-71C:\Code\music-website\src\assets\fonts\Inter\static\Inter-ExtraBold.ttf132707910200941321 0
+71C:\Code\music-website\src\assets\fonts\Inter\static\Inter-ExtraBold.ttf132724033740086383 0
 97C:\Code\music-website\node_modules\postcss-modules-values\node_modules\postcss\lib\declaration.js132566193336350000 0
 50C:\Code\music-website\node_modules\is-obj\index.js132566194946500000 0
 99C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js132617038635200000 0
 61C:\Code\music-website\node_modules\pbkdf2\lib\sync-browser.js132665656135090000 0
-51C:\Code\music-website\src\assets\fonts\Inter\static132716465381085102 1
+51C:\Code\music-website\src\assets\fonts\Inter\static132724033740356327 1
 69C:\Code\music-website\node_modules\core-js\features\url-search-params132716502770968534 1
 54C:\Code\music-website\node_modules\lodash\eachRight.js132617037952230000 0
 89C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\braces\LICENSE132566193382119998 0
@@ -1234,23 +1234,23 @@
 84C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\utils\path.d.ts132711544942620000 0
 56C:\Code\music-website\node_modules\lodash\fp\mergeAll.js132617037952230000 0
 57C:\Code\music-website\node_modules\util.promisify\LICENSE132566195235660000 0
-66C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Bold.ttf132707910199300713 0
+66C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Bold.ttf132724033740035953 0
 59C:\Code\music-website\node_modules\source-map\lib\base64.js132566193158610000 0
-72C:\Code\music-website\src\assets\fonts\Inter\static\Inter-ExtraLight.ttf132707910193510689 0
+72C:\Code\music-website\src\assets\fonts\Inter\static\Inter-ExtraLight.ttf132724033740135944 0
 61C:\Code\music-website\node_modules\ajv\lib\compile\formats.js132566193962250000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\IL.js132716443246830002 0
 50C:\Code\music-website\node_modules\process\LICENSE132566194685000000 0
-67C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Light.ttf132707910194380831 0
+67C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Light.ttf132724033740186025 0
 68C:\Code\music-website\node_modules\asn1.js\lib\asn1\constants\der.js132566195424960000 0
 42C:\Code\music-website\node_modules\postcss132716517810769732 1
-50C:\Code\music-website\src\assets\css\card-flip.css132707869848190000 0
+50C:\Code\music-website\src\assets\css\card-flip.css132724033739735924 0
 65C:\Code\music-website\node_modules\elliptic\lib\elliptic\utils.js132617039521710000 0
 81C:\Code\music-website\node_modules\chalk\node_modules\supports-color\package.json132566192441000000 0
 64C:\Code\music-website\node_modules\jsdom\node_modules\.bin\acorn132716517711209730 0
 86C:\Code\music-website\node_modules\@babel\helper-split-export-declaration\package.json132711545061160000 0
 82C:\Code\music-website\node_modules\@parcel\transformer-json\src\JSONTransformer.js132711544940780000 0
 81C:\Code\music-website\node_modules\@swc\helpers\lib\_skip_first_generator_next.js132711545010760000 0
-53C:\Code\music-website\src\assets\audio\songs-for-sale132716465686947586 1
+53C:\Code\music-website\src\assets\audio\songs-for-sale132724033737245913 1
 41C:\Code\music-website\node_modules\@types132716502026087806 1
 60C:\Code\music-website\node_modules\run-parallel\package.json132617039218859998 0
 71C:\Code\music-website\node_modules\es-abstract\2015\IsDataDescriptor.js132673827420439998 0
@@ -1258,17 +1258,17 @@
 52C:\Code\music-website\node_modules\parcel\lib\cli.js132711545209900000 0
 88C:\Code\music-website\node_modules\@babel\types\lib\validators\react\isReactComponent.js132716443226860000 0
 77C:\Code\music-website\node_modules\es-abstract\2019\OrdinaryGetPrototypeOf.js132673827420439998 0
-68C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Medium.ttf132707910196780705 0
+68C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Medium.ttf132724033740235961 0
 87C:\Code\music-website\node_modules\@parcel\runtime-js\lib\loaders\browser\css-loader.js132711544930390000 0
 66C:\Code\music-website\node_modules\core-js\internals\collection.js132711544984300002 0
-69C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Regular.ttf132707910195550729 0
+69C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Regular.ttf132724033740276340 0
 45C:\Code\music-website\node_modules\node-forge132716517809659724 1
 50C:\Code\music-website\node_modules\define-property132716517804789705 1
 65C:\Code\music-website\node_modules\request-promise-core\configure132716502606048478 1
 66C:\Code\music-website\node_modules\core-js\internals\native-url.js132711544984300002 0
 88C:\Code\music-website\node_modules\core-js\internals\call-with-safe-iteration-closing.js132711544984300002 0
 62C:\Code\music-website\node_modules\simple-swizzle\package.json132566195436000000 0
-70C:\Code\music-website\src\assets\fonts\Inter\static\Inter-SemiBold.ttf132707910197970712 0
+70C:\Code\music-website\src\assets\fonts\Inter\static\Inter-SemiBold.ttf132724033740325951 0
 47C:\Code\music-website\node_modules\is-plain-obj132716517807999734 1
 51C:\Code\music-website\node_modules\lodash\before.js132617037952230000 0
 92C:\Code\music-website\node_modules\postcss-modules-scope\node_modules\postcss\lib\warning.js132566193336350000 0
@@ -1279,10 +1279,10 @@
 68C:\Code\music-website\node_modules\highlight.js\lib\languages\xml.js132711545006960000 0
 63C:\Code\music-website\node_modules\whatwg-url\lib\urlencoded.js132665656227060002 0
 75C:\Code\music-website\node_modules\es-abstract\2018\StringGetOwnProperty.js132673827420439998 0
-66C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Thin.ttf132707910192780685 0
+66C:\Code\music-website\src\assets\fonts\Inter\static\Inter-Thin.ttf132724033740356327 0
 62C:\Code\music-website\node_modules\fast-glob\out\settings.d.ts132711544911860000 0
 68C:\Code\music-website\node_modules\es-abstract\2019\MonthFromTime.js132673827420439998 0
-48C:\Code\music-website\src\assets\css\aplayer.css132716533524861249 0
+48C:\Code\music-website\src\assets\css\aplayer.css132724033739725949 0
 69C:\Code\music-website\node_modules\serve-handler\node_modules\mime-db132716517813099746 1
 44C:\Code\music-website\node_modules\hsl-regex132716517806709738 1
 61C:\Code\music-website\node_modules\lodash\_setWrapToString.js132617037952230000 0
@@ -1297,9 +1297,9 @@
 65C:\Code\music-website\node_modules\svgo\node_modules\.bin\js-yaml132716517714259717 0
 54C:\Code\music-website\node_modules\randombytes\test.js132566194785650002 0
 31C:\Code\music-website\.cache\69132716494726836970 1
-55C:\Code\music-website\src\assets\css\classextracted.css132707430962770000 0
+55C:\Code\music-website\src\assets\css\classextracted.css132724033739745957 0
 58C:\Code\music-website\node_modules\unbox-primitive\LICENSE132617038651689998 0
-48C:\Code\music-website\src\assets\css\contact.css132707430963120000 0
+48C:\Code\music-website\src\assets\css\contact.css132724033739745957 0
 38C:\Code\music-website\node_modules\ajv132716517802329731 1
 63C:\Code\music-website\node_modules\relateurl\lib\util\object.js132618596702850000 0
 66C:\Code\music-website\node_modules\@parcel\workers\lib\Profiler.js132711544880320000 0
@@ -1312,24 +1312,24 @@
 86C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\websockets\WebSocket-impl.js132665656125410000 0
 47C:\Code\music-website\node_modules\fclone\bench132716492849019731 1
 67C:\Code\music-website\node_modules\core-js\modules\es.math.acosh.js132711544984300002 0
-46C:\Code\music-website\src\assets\css\fonts.css132707430963290000 0
+46C:\Code\music-website\src\assets\css\fonts.css132724033739776433 0
 91C:\Code\music-website\node_modules\core-js\modules\es.object.get-own-property-descriptor.js132711544984300002 0
 57C:\Code\music-website\node_modules\vm-browserify\index.js132566194838070000 0
 61C:\Code\music-website\node_modules\highlight.js\scss\gml.scss132711545006960000 0
 57C:\Code\music-website\node_modules\css-selector-tokenizer132716517804319761 1
 50C:\Code\music-website\node_modules\whatwg-mimetype132716517815269713 1
 56C:\Code\music-website\node_modules\posthtml\node_modules132716492061598133 1
-55C:\Code\music-website\src\assets\css\text-animation.css132707430962380000 0
+55C:\Code\music-website\src\assets\css\text-animation.css132724033739815939 0
 93C:\Code\music-website\node_modules\terser\node_modules\source-map\lib\source-map-generator.js132566192438660000 0
 69C:\Code\music-website\node_modules\es-abstract\2020\ArraySetLength.js132673827420439998 0
 96C:\Code\music-website\node_modules\@parcel\optimizer-htmlnano\node_modules\posthtml-parser\.c8rc132665655979860000 0
 80C:\Code\music-website\node_modules\postcss-merge-longhand\dist\lib\mergeRules.js132566194998340000 0
 77C:\Code\music-website\node_modules\purgecss\node_modules\postcss\package.json132665656038689998 0
 48C:\Code\music-website\node_modules\normalize-url132716517809679733 1
-60C:\Code\music-website\src\assets\audio\idler ps.6.6-6.11.m4a132170756770000000 0
+60C:\Code\music-website\src\assets\audio\idler ps.6.6-6.11.m4a132724033724956097 0
 106C:\Code\music-website\node_modules\@parcel\fs-write-stream-atomic\node_modules\readable-stream\writable.js132566194381340000 0
 56C:\Code\music-website\node_modules\node-forge\lib\kem.js132566194814030000 0
-59C:\Code\music-website\src\assets\css\text-animation.css.map132707430962600000 0
+59C:\Code\music-website\src\assets\css\text-animation.css.map132724033739825924 0
 49C:\Code\music-website\node_modules\lodash\drop.js132617037952230000 0
 63C:\Code\music-website\node_modules\es-abstract\2017\IsRegExp.js132673827420439998 0
 114C:\Code\music-website\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\processor.js132566195189080000 0
@@ -1338,19 +1338,19 @@
 55C:\Code\music-website\node_modules\nth-check\compile.js132566195171910000 0
 78C:\Code\music-website\node_modules\core-js\features\reflect\delete-property.js132711544984300002 0
 53C:\Code\music-website\node_modules\lodash\iteratee.js132617037952230000 0
-57C:\Code\music-website\src\assets\audio\aluminum-walls.mp3132679449075040000 0
+57C:\Code\music-website\src\assets\audio\aluminum-walls.mp3132724033719906360 0
 80C:\Code\music-website\node_modules\caniuse-lite\data\features\css-unset-value.js132716443246830002 0
 73C:\Code\music-website\node_modules\core-js\es\array-buffer\constructor.js132711544984300002 0
-58C:\Code\music-website\src\assets\audio\aluminum-walls_.mp3132679457695280000 0
-56C:\Code\music-website\src\assets\audio\lifes-a-grave.mp3132679280291080000 0
+58C:\Code\music-website\src\assets\audio\aluminum-walls_.mp3132724033720386194 0
+56C:\Code\music-website\src\assets\audio\lifes-a-grave.mp3132724033733315969 0
 70C:\Code\music-website\node_modules\source-map\dist\source-map.debug.js132566193158610000 0
 62C:\Code\music-website\node_modules\es-abstract\2016\ToInt32.js132673827420439998 0
 57C:\Code\music-website\node_modules\request\lib\cookies.js132617038069779998 0
 65C:\Code\music-website\node_modules\hash.js\lib\hash\sha\common.js132566195424340000 0
-65C:\Code\music-website\src\assets\audio\aluminumWalls (2015) 3.mp3132559222118090000 0
+65C:\Code\music-website\src\assets\audio\aluminumWalls (2015) 3.mp3132724033720845968 0
 64C:\Code\music-website\node_modules\css-tree\lib\walker\create.js132566195345720002 0
 80C:\Code\music-website\node_modules\postcss-selector-parser\dist\sortAscending.js132665656112700000 0
-47C:\Code\music-website\src\assets\audio\amen.mp3132679458175110000 0
+47C:\Code\music-website\src\assets\audio\amen.mp3132724033721135927 0
 65C:\Code\music-website\node_modules\es-abstract\2019\DateString.js132673827420439998 0
 52C:\Code\music-website\node_modules\terser\lib\ast.js132711544958070000 0
 91C:\Code\music-website\node_modules\postcss-normalize-unicode\node_modules\.bin\browserslist132716517713019726 0
@@ -1359,9 +1359,9 @@
 31C:\Code\music-website\.cache\9f132716494727176952 1
 43C:\Code\music-website\node_modules\psl\data132716502601328406 1
 63C:\Code\music-website\node_modules\@types\node\async_hooks.d.ts132716443261530000 0
-56C:\Code\music-website\src\assets\audio\Broken Brains.mp3132559222128730000 0
+56C:\Code\music-website\src\assets\audio\Broken Brains.mp3132724033709425910 0
 62C:\Code\music-website\node_modules\path-to-regexp\package.json132711545002700000 0
-56C:\Code\music-website\src\assets\audio\not-psychotic.mp3132679449098560000 0
+56C:\Code\music-website\src\assets\audio\not-psychotic.mp3132724033735205926 0
 53C:\Code\music-website\node_modules\lodash\fp\union.js132617037952230000 0
 59C:\Code\music-website\node_modules\es-abstract\5\MakeDay.js132673827420439998 0
 69C:\Code\music-website\node_modules\@parcel\utils\lib\openInBrowser.js132711544877050000 0
@@ -1373,7 +1373,7 @@
 73C:\Code\music-website\node_modules\@swc\helpers\lib\_wrap_native_super.js132711545010760000 0
 73C:\Code\music-website\node_modules\caniuse-lite\data\features\css-grid.js132716443246830002 0
 86C:\Code\music-website\node_modules\htmlnano\node_modules\posthtml-parser\tsconfig.json132665655979860000 0
-66C:\Code\music-website\src\assets\audio\By Goshes-Live (master).mp3132679280286838912 0
+66C:\Code\music-website\src\assets\audio\By Goshes-Live (master).mp3132724033709665919 0
 57C:\Code\music-website\node_modules\ajv\lib\refs\data.json132566193962250000 0
 52C:\Code\music-website\node_modules\caseless\index.js132617038088859998 0
 43C:\Code\music-website\node_modules\css-tree132716517804329865 1
@@ -1382,7 +1382,7 @@
 46C:\Code\music-website\node_modules\randombytes132716517812489718 1
 74C:\Code\music-website\node_modules\@babel\parser\typings\babel-parser.d.ts132716443222100000 0
 58C:\Code\music-website\node_modules\strip-ansi\package.json132566193764779998 0
-52C:\Code\music-website\src\assets\audio\by-goshes.mp3132679280286830000 0
+52C:\Code\music-website\src\assets\audio\by-goshes.mp3132724033721636379 0
 47C:\Code\music-website\node_modules\lodash\fp.js132617037952230000 0
 98C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\micromatch\lib\cache.js132566193368640002 0
 45C:\Code\music-website\node_modules\cli-cursor132716517803279731 1
@@ -1392,27 +1392,27 @@
 70C:\Code\music-website\node_modules\whatwg-url\lib\url-state-machine.js132665656227060002 0
 87C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHtmlElement-impl.js132665656125410000 0
 59C:\Code\music-website\node_modules\domutils\lib\querying.js132711545124470002 0
-68C:\Code\music-website\src\assets\audio\club to car chase.jsnsthm.mp3132559235102260000 0
+68C:\Code\music-website\src\assets\audio\club to car chase.jsnsthm.mp3132724033722046312 0
 57C:\Code\music-website\node_modules\fastparse\package.json132566194472820000 0
 47C:\Code\music-website\node_modules\array-unique132716517802439735 1
 79C:\Code\music-website\node_modules\caniuse-lite\data\features\es6-generators.js132716443246830002 0
 77C:\Code\music-website\node_modules\core-js\features\instance\code-point-at.js132711544984300002 0
-49C:\Code\music-website\src\assets\audio\dos-xx.mp3132679280298970000 0
+49C:\Code\music-website\src\assets\audio\dos-xx.mp3132724033722635933 0
 69C:\Code\music-website\node_modules\highlight.js\lib\languages\scss.js132711545006960000 0
 59C:\Code\music-website\node_modules\stylehacks\dist\index.js132566195201450000 0
 51C:\Code\music-website\node_modules\sax\package.json132566195344900000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\DM.js132716443246830002 0
 53C:\Code\music-website\node_modules\core-js\stable\set132716502784858448 1
-42C:\Code\music-website\src\assets\audio\itt132716465683009475 1
+42C:\Code\music-website\src\assets\audio\itt132724033732706335 1
 79C:\Code\music-website\node_modules\terser\node_modules\source-map\lib\base64.js132566192438660000 0
 58C:\Code\music-website\node_modules\lodash\fp\dissocPath.js132617037952230000 0
 63C:\Code\music-website\node_modules\es-abstract\helpers\every.js132673827420439998 0
-49C:\Code\music-website\src\assets\audio\double.mp3132679449104299982 0
+49C:\Code\music-website\src\assets\audio\double.mp3132724033723515928 0
 67C:\Code\music-website\node_modules\uri-js\dist\esnext\schemes\ws.js132566194589100000 0
 83C:\Code\music-website\node_modules\@babel\core\lib\transformation\normalize-opts.js132716443220490000 0
 68C:\Code\music-website\node_modules\highlight.js\lib\languages\dos.js132711545006960000 0
 113C:\Code\music-website\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\terminal-highlight.js132566193336350000 0
-74C:\Code\music-website\src\assets\audio\future neon knife fight.jsnsthm.mp3132559222142920000 0
+74C:\Code\music-website\src\assets\audio\future neon knife fight.jsnsthm.mp3132724033724246322 0
 62C:\Code\music-website\node_modules\node-gyp-build\package.json132711544914140000 0
 54C:\Code\music-website\node_modules\lodash\fp\propOr.js132617037952230000 0
 60C:\Code\music-website\node_modules\postcss-reduce-transforms132716517811639729 1
@@ -1422,8 +1422,8 @@
 50C:\Code\music-website\node_modules\combined-stream132716517803459743 1
 59C:\Code\music-website\node_modules\string.prototype.trimend132716517813739717 1
 95C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLAndSVGElementShared-impl.js132665656125410000 0
-66C:\Code\music-website\src\assets\audio\future-neon-knife-fight.mp3132679449079450000 0
-48C:\Code\music-website\src\assets\audio\idler.mp3132698991179150000 0
+66C:\Code\music-website\src\assets\audio\future-neon-knife-fight.mp3132724033724565937 0
+48C:\Code\music-website\src\assets\audio\idler.mp3132724033725215930 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\MX.js132716443246830002 0
 59C:\Code\music-website\node_modules\core-js\es\math\trunc.js132711544984300002 0
 67C:\Code\music-website\node_modules\highlight.js\lib\languages\go.js132711545006960000 0
@@ -1432,7 +1432,7 @@
 62C:\Code\music-website\node_modules\@parcel\transformer-postcss132716502072557864 1
 63C:\Code\music-website\node_modules\es-abstract\2020\ToString.js132673827420439998 0
 73C:\Code\music-website\node_modules\es-abstract\2018\ArraySpeciesCreate.js132673827420439998 0
-57C:\Code\music-website\src\assets\audio\knoxville-girl.mp3132679280291020000 0
+57C:\Code\music-website\src\assets\audio\knoxville-girl.mp3132724033733175918 0
 54C:\Code\music-website\node_modules\srcset\package.json132665656046460000 0
 78C:\Code\music-website\node_modules\es-abstract\5\AbstractEqualityComparison.js132673827420439998 0
 63C:\Code\music-website\node_modules\argparse\lib\action\count.js132566194577000000 0
@@ -1443,7 +1443,7 @@
 105C:\Code\music-website\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\postcss.d.ts132566193336350000 0
 64C:\Code\music-website\node_modules\graceful-fs\legacy-streams.js132617037959390000 0
 57C:\Code\music-website\node_modules\@types\node\dgram.d.ts132716443261530000 0
-53C:\Code\music-website\src\assets\audio\mala-dietz.mp3132699144119030000 0
+53C:\Code\music-website\src\assets\audio\mala-dietz.mp3132724033733585941 0
 51C:\Code\music-website\node_modules\ret\package.json132566195082290000 0
 78C:\Code\music-website\node_modules\es-abstract\2020\SymbolDescriptiveString.js132673827420439998 0
 85C:\Code\music-website\node_modules\@parcel\runtime-js\src\loaders\worker\js-loader.js132711544930390000 0
@@ -1458,7 +1458,7 @@
 70C:\Code\music-website\node_modules\w3c-xmlserializer\lib\attributes.js132665656207869998 0
 53C:\Code\music-website\node_modules\har-schema\LICENSE132617038191640000 0
 63C:\Code\music-website\node_modules\core-js\modules\es.escape.js132711544984300002 0
-58C:\Code\music-website\src\assets\audio\male_prostitute.mp3132502052544400000 0
+58C:\Code\music-website\src\assets\audio\male_prostitute.mp3132724033733865929 0
 62C:\Code\music-website\node_modules\svgo\plugins\removeXMLNS.js132566195235369998 0
 70C:\Code\music-website\node_modules\css-declaration-sorter\package.json132566194975840000 0
 59C:\Code\music-website\node_modules\v8-compile-cache\LICENSE132617039169100000 0
@@ -1467,17 +1467,17 @@
 67C:\Code\music-website\node_modules\string.prototype.trimend\auto.js132617038650100000 0
 57C:\Code\music-website\node_modules\lodash\_cloneSymbol.js132617037952230000 0
 41C:\Code\music-website\node_modules\dotenv132716517804979731 1
-59C:\Code\music-website\src\assets\audio\many-miles-apart.mp3132679280291360000 0
+59C:\Code\music-website\src\assets\audio\many-miles-apart.mp3132724033734165921 0
 65C:\Code\music-website\node_modules\core-js\stable\object\index.js132711544984300002 0
 57C:\Code\music-website\node_modules\util.promisify\shim.js132566195235660000 0
 60C:\Code\music-website\node_modules\ajv\scripts\prepare-tests132566193962250000 0
-52C:\Code\music-website\src\assets\audio\Mmapart 1.mp3132559222161540000 0
+52C:\Code\music-website\src\assets\audio\Mmapart 1.mp3132724033712045954 0
 54C:\Code\music-website\node_modules\lodash\fp\concat.js132617037952230000 0
 48C:\Code\music-website\node_modules\forever-agent132716517806039749 1
 53C:\Code\music-website\node_modules\chrome-trace-event132716517803239729 1
 56C:\Code\music-website\node_modules\object.assign\.github132716502590648360 1
 71C:\Code\music-website\node_modules\loader-utils\lib\stringifyRequest.js132566193304100000 0
-53C:\Code\music-website\src\assets\audio\multiverse.mp3132679449100630000 0
+53C:\Code\music-website\src\assets\audio\multiverse.mp3132724033734546329 0
 77C:\Code\music-website\node_modules\es-abstract\2015\FromPropertyDescriptor.js132673827420439998 0
 45C:\Code\music-website\node_modules\estraverse132716517805449755 1
 71C:\Code\music-website\node_modules\es-abstract\2020\BigInt\leftShift.js132673827420439998 0
@@ -1485,7 +1485,7 @@
 97C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\providers\filters\entry.d.ts132711544942620000 0
 74C:\Code\music-website\node_modules\postcss-minify-params\node_modules\.bin132716517712829772 1
 56C:\Code\music-website\node_modules\lodash\fp\assignIn.js132617037952230000 0
-65C:\Code\music-website\src\assets\audio\Play Misty For Me.mstr.mp3132559222175810000 0
+65C:\Code\music-website\src\assets\audio\Play Misty For Me.mstr.mp3132724033713505956 0
 43C:\Code\music-website\node_modules\purgecss132716517812309708 1
 45C:\Code\music-website\node_modules\q\queue.js132566195450610000 0
 75C:\Code\music-website\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132566195345720002 0
@@ -1493,10 +1493,10 @@
 65C:\Code\music-website\node_modules\svgo\plugins\removeMetadata.js132566195235369998 0
 72C:\Code\music-website\node_modules\json-parse-better-errors\package.json132566194395009998 0
 46C:\Code\music-website\node_modules\.bin\cssesc132716517715889738 0
-60C:\Code\music-website\src\assets\audio\play-misty-for-me.mp3132679280292760000 0
+60C:\Code\music-website\src\assets\audio\play-misty-for-me.mp3132724033735445931 0
 60C:\Code\music-website\node_modules\which-typed-array\.github132716502642028393 1
 71C:\Code\music-website\node_modules\caniuse-lite\data\features\tls1-2.js132716443246830002 0
-59C:\Code\music-website\src\assets\audio\Poor Man's Dream.mp3132559222176780000 0
+59C:\Code\music-website\src\assets\audio\Poor Man's Dream.mp3132724033714005955 0
 77C:\Code\music-website\node_modules\@babel\core\node_modules\json5\lib\util.js132566192348929998 0
 79C:\Code\music-website\node_modules\terser\node_modules\source-map\source-map.js132566192438660000 0
 46C:\Code\music-website\node_modules\array-equal132716517802419728 1
@@ -1508,22 +1508,22 @@
 50C:\Code\music-website\node_modules\lodash\fp\lt.js132617037952230000 0
 65C:\Code\music-website\node_modules\es-abstract\2017\IsCallable.js132673827420439998 0
 46C:\Code\music-website\node_modules\ansi-styles132716517802379751 1
-58C:\Code\music-website\src\assets\audio\poor-mans-dream.mp3132679280293230000 0
+58C:\Code\music-website\src\assets\audio\poor-mans-dream.mp3132724033735816052 0
 73C:\Code\music-website\node_modules\@swc\helpers\lib\_non_iterable_rest.js132711545010760000 0
 49C:\Code\music-website\node_modules\optionator\lib132716502591298394 1
 78C:\Code\music-website\node_modules\serve-handler\node_modules\mime-db\index.js132711545084300002 0
 60C:\Code\music-website\node_modules\cosmiconfig\dist\index.js132566194422279998 0
-50C:\Code\music-website\src\assets\audio\Psalm 6.mp3132559222178210000 0
+50C:\Code\music-website\src\assets\audio\Psalm 6.mp3132724033714225990 0
 64C:\Code\music-website\node_modules\core-js\es\instance\repeat.js132711544984300002 0
 51C:\Code\music-website\node_modules\lodash\pullAt.js132617037952230000 0
 89C:\Code\music-website\node_modules\@parcel\package-manager\lib\validateModuleSpecifier.js132711544871450000 0
 58C:\Code\music-website\node_modules\lodash\isArrayBuffer.js132617037952230000 0
-50C:\Code\music-website\src\assets\audio\psalm-6.mp3132679280305370000 0
+50C:\Code\music-website\src\assets\audio\psalm-6.mp3132724033736035933 0
 56C:\Code\music-website\node_modules\path-key\package.json132566194573029998 0
-56C:\Code\music-website\src\assets\audio\Rumple Tumple.mp3132679280294178916 0
+56C:\Code\music-website\src\assets\audio\Rumple Tumple.mp3132724033716495946 0
 56C:\Code\music-website\node_modules\is-generator-function132716517807739742 1
 66C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\file-api132716502906458365 1
-56C:\Code\music-website\src\assets\audio\Quixote Rides.mp3132559222179260000 0
+56C:\Code\music-website\src\assets\audio\Quixote Rides.mp3132724033714595968 0
 55C:\Code\music-website\node_modules\lodash\fp\zipWith.js132617037952230000 0
 47C:\Code\music-website\node_modules\dashdash\lib132716502468083123 1
 71C:\Code\music-website\node_modules\core-js\features\object\to-string.js132711544984300002 0
@@ -1534,25 +1534,25 @@
 70C:\Code\music-website\node_modules\unset-value\node_modules\has-values132716517814719775 1
 41C:\Code\music-website\node_modules\ignore132716517807039702 1
 64C:\Code\music-website\node_modules\cosmiconfig\node_modules\.bin132716517707639729 1
-61C:\Code\music-website\src\assets\audio\Quixote's Windmill.mp3132679280293778948 0
+61C:\Code\music-website\src\assets\audio\Quixote's Windmill.mp3132724033715086031 0
 124C:\Code\music-website\node_modules\@parcel\transformer-html\node_modules\posthtml\node_modules\posthtml-parser\tsconfig.json132665655979860000 0
 44C:\Code\music-website\node_modules\map-cache132716517808889718 1
 100C:\Code\music-website\node_modules\@babel\types\lib\modifications\typescript\removeTypeDuplicates.js132716443226860000 0
 61C:\Code\music-website\node_modules\stylehacks\dist\dictionary132716502842828380 1
 44C:\Code\music-website\node_modules\fastparse132716517805859896 1
 54C:\Code\music-website\node_modules\lodash\_baseFill.js132617037952230000 0
-50C:\Code\music-website\src\assets\audio\Revenge.mp3132679449089030000 0
-59C:\Code\music-website\src\assets\audio\itt\myrtle-beach.mp3132699149242450000 0
+50C:\Code\music-website\src\assets\audio\Revenge.mp3132724033716165914 0
+59C:\Code\music-website\src\assets\audio\itt\myrtle-beach.mp3132724033731476360 0
 31C:\Code\music-website\.cache\63132716494726796952 1
 72C:\Code\music-website\node_modules\svgo\plugins\moveGroupAttrsToElems.js132566195235369998 0
 61C:\Code\music-website\node_modules\es-abstract\helpers\mod.js132673827420439998 0
 49C:\Code\music-website\node_modules\delayed-stream132716517804809724 1
 88C:\Code\music-website\node_modules\@parcel\transformer-posthtml\node_modules\.bin\semver132716517705169771 0
-81C:\Code\music-website\src\assets\audio\season 1 episode 26 - The Neutral Zone.mp3132559222184240000 0
+81C:\Code\music-website\src\assets\audio\season 1 episode 26 - The Neutral Zone.mp3132724033736475980 0
 96C:\Code\music-website\node_modules\css-modules-loader-core\node_modules\postcss\lib\container.js132665655916810000 0
 75C:\Code\music-website\node_modules\purgecss\node_modules\commander\index.js132665656037250000 0
 55C:\Code\music-website\node_modules\electron-to-chromium132716517805039942 1
-61C:\Code\music-website\src\assets\audio\Stupid Eyes - live.mp3132559222186160000 0
+61C:\Code\music-website\src\assets\audio\Stupid Eyes - live.mp3132724033717165977 0
 96C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js132617038635200000 0
 60C:\Code\music-website\node_modules\parse5\lib\utils\mixin.js132665656203110000 0
 94C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\websockets\WebSocket-impl-browser.js132665656125410000 0
@@ -1563,17 +1563,17 @@
 52C:\Code\music-website\node_modules\browserify-cipher132716517802929740 1
 47C:\Code\music-website\node_modules\assert\build132716502419937847 1
 62C:\Code\music-website\node_modules\core-js\es\string\substr.js132711544984300002 0
-69C:\Code\music-website\src\assets\audio\The End Is Upon Us -Master.mp3132679280294668973 0
+69C:\Code\music-website\src\assets\audio\The End Is Upon Us -Master.mp3132724033718025928 0
 39C:\Code\music-website\node_modules\base132716517802689736 1
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\MO.js132716443246830002 0
 75C:\Code\music-website\node_modules\source-map-support\source-map-support.js132566193154890002 0
 62C:\Code\music-website\node_modules\@babel\core\node_modules\ms132716517799619781 1
 55C:\Code\music-website\node_modules\lodash\_createSet.js132617037952230000 0
 61C:\Code\music-website\node_modules\es-abstract\2016\modulo.js132673827420439998 0
-63C:\Code\music-website\src\assets\audio\The One With the Gun.mp3132559222190570000 0
+63C:\Code\music-website\src\assets\audio\The One With the Gun.mp3132724033718365941 0
 105C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\root.js132566195189080000 0
 65C:\Code\music-website\node_modules\is-accessor-descriptor\LICENSE132566195078840000 0
-61C:\Code\music-website\src\assets\audio\the-end-is-upon-us.mp3132679280294660000 0
+61C:\Code\music-website\src\assets\audio\the-end-is-upon-us.mp3132724033738365920 0
 69C:\Code\music-website\node_modules\highlight.js\lib\languages\dart.js132711545006960000 0
 66C:\Code\music-website\node_modules\type-fest\source\utilities.d.ts132566194129210000 0
 73C:\Code\music-website\node_modules\posthtml-include\node_modules\posthtml132716517811869742 1
@@ -1581,25 +1581,25 @@
 39C:\Code\music-website\node_modules\uuid132716517815009849 1
 94C:\Code\music-website\node_modules\@babel\types\lib\modifications\prependToMemberExpression.js132716443226860000 0
 58C:\Code\music-website\node_modules\es-abstract\2016\abs.js132673827420439998 0
-57C:\Code\music-website\src\assets\audio\too-many-words.mp3132699148802070000 0
+57C:\Code\music-website\src\assets\audio\too-many-words.mp3132724033738716333 0
 74C:\Code\music-website\node_modules\fast-json-stable-stringify\package.json132566194586500000 0
 77C:\Code\music-website\node_modules\serve-handler\node_modules\mime-db\db.json132711545084300002 0
 101C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\is-extendable\package.json132566194813570002 0
 77C:\Code\music-website\node_modules\es-abstract\2020\OrdinaryGetOwnProperty.js132673827420439998 0
 80C:\Code\music-website\node_modules\abortcontroller-polyfill\dist\cjs-ponyfill.js132711544901500000 0
 56C:\Code\music-website\node_modules\nice-try\package.json132566194534880000 0
-66C:\Code\music-website\src\assets\audio\underwater-instrumental.mp3132679449096060000 0
-53C:\Code\music-website\src\assets\audio\Underwater.mp3132559222199920000 0
+66C:\Code\music-website\src\assets\audio\underwater-instrumental.mp3132724033739706310 0
+53C:\Code\music-website\src\assets\audio\Underwater.mp3132724033718846315 0
 44C:\Code\music-website\node_modules\call-bind132716517803159704 1
 50C:\Code\music-website\node_modules\reusify\test.js132566194367570000 0
 85C:\Code\music-website\node_modules\@parcel\runtime-js\lib\loaders\node\html-loader.js132711544930390000 0
 49C:\Code\music-website\node_modules\sha.js\LICENSE132566195281740000 0
 73C:\Code\music-website\node_modules\@babel\helper-validator-option\LICENSE132711545035699998 0
-76C:\Code\music-website\src\assets\audio\songs-for-sale\jazz-for-escalator.ogg132679471588950000 0
+76C:\Code\music-website\src\assets\audio\songs-for-sale\jazz-for-escalator.ogg132724033736856024 0
 69C:\Code\music-website\node_modules\es-abstract\helpers\isByteValue.js132673827420439998 0
 68C:\Code\music-website\node_modules\es-abstract\5\IsDataDescriptor.js132673827420439998 0
 69C:\Code\music-website\node_modules\relateurl\lib\relate\relativize.js132618596702850000 0
-75C:\Code\music-website\src\assets\audio\songs-for-sale\jazz-for-elevator.ogg132679471588860000 0
+75C:\Code\music-website\src\assets\audio\songs-for-sale\jazz-for-elevator.ogg132724033736726000 0
 71C:\Code\music-website\node_modules\uri-js\dist\esnext\schemes\ws.js.map132566194589100000 0
 83C:\Code\music-website\node_modules\split-string\node_modules\is-extendable\index.js132566194813570002 0
 61C:\Code\music-website\node_modules\@parcel\watcher\src\shared132716502679518372 1
@@ -1614,19 +1614,19 @@
 77C:\Code\music-website\node_modules\caniuse-lite\data\features\currentcolor.js132716443246830002 0
 65C:\Code\music-website\node_modules\core-js\es\typed-array\fill.js132711544984300002 0
 44C:\Code\music-website\node_modules\aws-sign2132716517802619752 1
-72C:\Code\music-website\src\assets\audio\songs-for-sale\mideval-stroll.ogg132679471588620000 0
+72C:\Code\music-website\src\assets\audio\songs-for-sale\mideval-stroll.ogg132724033737085926 0
 68C:\Code\music-website\node_modules\core-js\features\instance\fill.js132711544984300002 0
 90C:\Code\music-website\node_modules\uncss\node_modules\postcss-selector-parser\package.json132665656113130000 0
 59C:\Code\music-website\node_modules\es-abstract\2018\Type.js132673827420439998 0
-71C:\Code\music-website\src\assets\audio\songs-for-sale\quixote-rides.ogg132679471588970000 0
+71C:\Code\music-website\src\assets\audio\songs-for-sale\quixote-rides.ogg132724033737265925 0
 52C:\Code\music-website\node_modules\extend\.jscs.json132566192397140000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\OM.js132716443246830002 0
 49C:\Code\music-website\node_modules\extend-shallow132716517805639739 1
-52C:\Code\music-website\src\assets\audio\itt\beast.mp3132699184774260000 0
+52C:\Code\music-website\src\assets\audio\itt\beast.mp3132724033726155939 0
 51C:\Code\music-website\node_modules\csso\lib\replace132716502796578376 1
 50C:\Code\music-website\node_modules\globals\license132711544950830000 0
 85C:\Code\music-website\node_modules\@babel\highlight\node_modules\ansi-styles\index.js132566192428180000 0
-65C:\Code\music-website\src\assets\audio\itt\mgtp\02 Oh Despair.m4a129335278040000000 0
+65C:\Code\music-website\src\assets\audio\itt\mgtp\02 Oh Despair.m4a132724033729576288 0
 44C:\Code\music-website\node_modules\encodeurl132716517805129726 1
 65C:\Code\music-website\node_modules\lodash\_castArrayLikeObject.js132617037952230000 0
 90C:\Code\music-website\node_modules\postcss-modules-values\node_modules\postcss\lib\rule.js132566193336350000 0
@@ -1651,44 +1651,44 @@
 42C:\Code\music-website\node_modules\core-js132716517803799749 1
 54C:\Code\music-website\node_modules\lodash\fp\toJSON.js132617037952230000 0
 79C:\Code\music-website\node_modules\purgecss\node_modules\postcss\lib\at-rule.js132665656038689998 0
-54C:\Code\music-website\src\assets\audio\itt\bot-fly.mp3132316281280000000 0
+54C:\Code\music-website\src\assets\audio\itt\bot-fly.mp3132724033726815953 0
 48C:\Code\music-website\node_modules\url\.zuul.yml132566194330500000 0
 93C:\Code\music-website\node_modules\csso\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132617038635200000 0
 66C:\Code\music-website\node_modules\caniuse-lite\data\regions\GG.js132716443246830002 0
 54C:\Code\music-website\node_modules\utils-merge\LICENSE132566193869939998 0
 60C:\Code\music-website\node_modules\setimmediate\package.json132566195126619998 0
-56C:\Code\music-website\src\assets\audio\itt\dismantle.mp3132170612680000000 0
+56C:\Code\music-website\src\assets\audio\itt\dismantle.mp3132724033727256317 0
 62C:\Code\music-website\node_modules\es-abstract\2020\IsArray.js132673827420439998 0
 62C:\Code\music-website\node_modules\core-js\es\symbol\search.js132711544984300002 0
 87C:\Code\music-website\node_modules\snapdragon\node_modules\source-map\lib\base64-vlq.js132566192359670000 0
 75C:\Code\music-website\node_modules\postcss-discard-overridden\metadata.toml132566195018730000 0
-47C:\Code\music-website\src\assets\audio\itt\mgtp132716465681813282 1
+47C:\Code\music-website\src\assets\audio\itt\mgtp132724033731175936 1
 43C:\Code\music-website\node_modules\escalade132716517805389740 1
 53C:\Code\music-website\node_modules\lodash\fp\keyBy.js132617037952230000 0
 59C:\Code\music-website\node_modules\diffie-hellman\lib\dh.js132566195116700000 0
 57C:\Code\music-website\node_modules\postcss-reduce-initial132716517811629719 1
 93C:\Code\music-website\node_modules\@parcel\optimizer-cssnano\node_modules\postcss\lib\node.js132716443217890000 0
 68C:\Code\music-website\node_modules\core-js\features\iterator\some.js132711544984300002 0
-68C:\Code\music-website\src\assets\audio\itt\taste-my-spit_2011.05.mp3132699190150960000 0
+68C:\Code\music-website\src\assets\audio\itt\taste-my-spit_2011.05.mp3132724033732085931 0
 80C:\Code\music-website\node_modules\stylehacks\node_modules\.bin\browserslist.cmd132716517714059735 0
-57C:\Code\music-website\src\assets\audio\itt\white-ship.mp3132699185296790000 0
+57C:\Code\music-website\src\assets\audio\itt\white-ship.mp3132724033732736313 0
 59C:\Code\music-website\node_modules\es-abstract\2015\Call.js132673827420439998 0
 66C:\Code\music-website\node_modules\@iarna\toml\lib\parser-debug.js132566194894869998 0
-64C:\Code\music-website\src\assets\audio\itt\mgtp\04 Drunkards.m4a131759633070000000 0
+64C:\Code\music-website\src\assets\audio\itt\mgtp\04 Drunkards.m4a132724033730155931 0
 59C:\Code\music-website\node_modules\terser\lib\propmangle.js132711544958070000 0
-69C:\Code\music-website\src\assets\audio\itt\mgtp\07 Touch Me Terri.m4a129335278120000000 0
+69C:\Code\music-website\src\assets\audio\itt\mgtp\07 Touch Me Terri.m4a132724033730585914 0
 46C:\Code\music-website\node_modules\psl\LICENSE132617038196650000 0
 77C:\Code\music-website\node_modules\reusify\benchmarks\createNoCodeFunction.js132566194367570000 0
 56C:\Code\music-website\node_modules\escalade\package.json132566193423490000 0
 75C:\Code\music-website\node_modules\core-js\es\string\virtual\starts-with.js132711544984300002 0
-59C:\Code\music-website\src\assets\audio\itt\mgtp\08 1993.m4a132170705150000000 0
+59C:\Code\music-website\src\assets\audio\itt\mgtp\08 1993.m4a132724033731026266 0
 63C:\Code\music-website\node_modules\fast-glob\out\utils\array.js132711544911860000 0
 68C:\Code\music-website\node_modules\core-js\features\string\search.js132711544984300002 0
 60C:\Code\music-website\node_modules\lodash\_unicodeToArray.js132617037952230000 0
 88C:\Code\music-website\node_modules\postcss-modules-local-by-default\node_modules\postcss132716517811249763 1
 51C:\Code\music-website\node_modules\domutils\LICENSE132711545124470002 0
 87C:\Code\music-website\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js132716443246830002 0
-70C:\Code\music-website\src\assets\audio\itt\mgtp\09 Don't Get Eaten.m4a129847205700000000 0
+70C:\Code\music-website\src\assets\audio\itt\mgtp\09 Don't Get Eaten.m4a132724033731186263 0
 70C:\Code\music-website\node_modules\es-to-primitive\.github\FUNDING.yml132566194863239998 0
 89C:\Code\music-website\node_modules\postcss\node_modules\chalk\node_modules\supports-color132716517810739704 1
 52C:\Code\music-website\node_modules\crypto-browserify132716517803989739 1
@@ -2465,7 +2465,7 @@
 45C:\Code\music-website\node_modules\is-windows132716517808319759 1
 90C:\Code\music-website\node_modules\@parcel\node-resolver-core\node_modules\braces\index.js132566193382119998 0
 62C:\Code\music-website\node_modules\type-fest\source\entry.d.ts132566194129210000 0
-54C:\Code\music-website\dist\favicon_io\site.webmanifest132724018334479894 0
+54C:\Code\music-website\dist\favicon_io\site.webmanifest132724034072242475 0
 62C:\Code\music-website\node_modules\@babel\helpers\package.json132716443260960000 0
 84C:\Code\music-website\node_modules\@babel\types\lib\validators\isSpecifierDefault.js132716443226860000 0
 69C:\Code\music-website\node_modules\@parcel\core\lib\ReporterRunner.js132711544871470002 0
@@ -4381,7 +4381,7 @@
 82C:\Code\music-website\node_modules\globby\node_modules\fast-glob\out\utils\path.js132711544942620000 0
 74C:\Code\music-website\node_modules\core-js\es\string\virtual\trim-start.js132711544984300002 0
 110C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\attribute.js132566195189080000 0
-56C:\Code\music-website\dist\apple-touch-icon.0511a12d.png132724018330357500 0
+56C:\Code\music-website\dist\apple-touch-icon.0511a12d.png132724034070762395 0
 110C:\Code\music-website\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\className.js132566195189080000 0
 88C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\nodes\HTMLInputElement-impl.js132665656125410000 0
 53C:\Code\music-website\node_modules\is-buffer\index.js132566194809070000 0
@@ -5175,7 +5175,7 @@
 52C:\Code\music-website\node_modules\lodash\mapKeys.js132617037952230000 0
 58C:\Code\music-website\node_modules\lodash\fp\extendWith.js132617037952230000 0
 68C:\Code\music-website\node_modules\process-nextick-args\package.json132566194809790000 0
-62C:\Code\music-website\dist\android-chrome-192x192.8389811d.png132724018330584412 0
+62C:\Code\music-website\dist\android-chrome-192x192.8389811d.png132724034070702403 0
 80C:\Code\music-website\node_modules\jsdom\lib\jsdom\living\window\History-impl.js132665656125410000 0
 53C:\Code\music-website\node_modules\process\browser.js132566194685000000 0
 51C:\Code\music-website\node_modules\process\index.js132566194685000000 0
@@ -9077,7 +9077,7 @@
 60C:\Code\music-website\node_modules\csso\lib\clean\Comment.js132566195346890000 0
 69C:\Code\music-website\node_modules\highlight.js\styles\googlecode.css132711545006960000 0
 54C:\Code\music-website\node_modules\dot-prop\index.d.ts132566194616890000 0
-45C:\Code\music-website\dist\index.a8167997.css132724018334682014 0
+45C:\Code\music-website\dist\index.a8167997.css132724034072362451 0
 75C:\Code\music-website\node_modules\core-js\modules\es.date.to-gmt-string.js132711544984300002 0
 72C:\Code\music-website\node_modules\highlight.js\styles\gradient-dark.css132711545006960000 0
 68C:\Code\music-website\node_modules\highlight.js\styles\grayscale.css132711545006960000 0
@@ -11361,7 +11361,7 @@
 80C:\Code\music-website\node_modules\core-js\modules\es.number.min-safe-integer.js132711544984300002 0
 69C:\Code\music-website\node_modules\core-js\es\instance\starts-with.js132711544984300002 0
 73C:\Code\music-website\node_modules\core-js\modules\es.number.parse-int.js132711544984300002 0
-53C:\Code\music-website\dist\favicon-16x16.39760fcf.png132724018330385587 0
+53C:\Code\music-website\dist\favicon-16x16.39760fcf.png132724034070762395 0
 72C:\Code\music-website\node_modules\core-js\modules\es.number.to-fixed.js132711544984300002 0
 76C:\Code\music-website\node_modules\core-js\modules\es.number.to-precision.js132711544984300002 0
 77C:\Code\music-website\node_modules\core-js\modules\es.object.define-getter.js132711544984300002 0
@@ -14391,12 +14391,12 @@
 73C:\Code\music-website\junk_drawer\bootstrap.stuff\bootstrap.bundle.min.js132693183014110000 0
 66C:\Code\music-website\junk_drawer\bootstrap.stuff\bootstrap.js.map132693183864200000 0
 31C:\Code\music-website\.cache\79132716494726936957 1
-62C:\Code\music-website\dist\android-chrome-512x512.e9f2a6b9.png132724018330405571 0
-53C:\Code\music-website\dist\favicon-32x32.02b54b76.png132724018330571320 0
-37C:\Code\music-website\dist\favicon_io132724018334499913 1
-49C:\Code\music-website\dist\index.a8167997.css.map132724018334869898 0
-37C:\Code\music-website\dist\index.html132724018335324460 0
-57C:\Code\music-website\dist\Monoton-Regular.42a5c564.woff2132724018330203066 0
+62C:\Code\music-website\dist\android-chrome-512x512.e9f2a6b9.png132724034070762395 0
+53C:\Code\music-website\dist\favicon-32x32.02b54b76.png132724034070562401 0
+37C:\Code\music-website\dist\favicon_io132724034072262445 1
+49C:\Code\music-website\dist\index.a8167997.css.map132724034072462383 0
+37C:\Code\music-website\dist\index.html132724034073042410 0
+57C:\Code\music-website\dist\Monoton-Regular.42a5c564.woff2132724034070702403 0
 43C:\Code\music-website\.vscode\settings.json132670989761971512 0
 31C:\Code\music-website\.cache\00132716494726026965 1
 31C:\Code\music-website\.cache\04132716494726106955 1

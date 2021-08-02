@@ -2,7 +2,6 @@
 # some of this sort 
 # and also some of That sort
 
-.parcel-cache/
 b2-info.js
 .DS_STORE
 bootstrap-4.5.3-examples/
@@ -92,6 +91,9 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
+
+# parcel cache 
+.parcel-cache
 
 # Next.js build output
 .next

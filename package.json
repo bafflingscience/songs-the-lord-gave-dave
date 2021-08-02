@@ -2,10 +2,7 @@
   "name": "music-website",
   "version": "1.0.0",
   "description": "songs the lord gave dave",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/bafflingscience/songs-the-lord-gave-dave.git"
-  },
+  "repository": "git+ssh://git@github.com/bafflingscience/songs-the-lord-gave-dave.git",
   "keywords": [
     "music",
     "html",
@@ -18,8 +15,16 @@
     "url": "https://github.com/bafflingscience/songs-the-lord-gave-dave/issues"
   },
   "homepage": "https://github.com/bafflingscience/songs-the-lord-gave-dave#readme",
-  "dependencies": {
-    "aplayer": "^1.10.1",
-    "colorthief": "^2.3.2"
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "watch": "parcel watch ./src/index.html",
+    "build": "parcel build ./dist/index.html"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "2.0.0-beta.3.1",
+    "@parcel/transformer-webmanifest": "2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1",
+    "posthtml": "^0.16.4",
+    "posthtml-include": "^1.7.1"
   }
 }

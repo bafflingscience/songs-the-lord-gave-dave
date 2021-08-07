@@ -18,10 +18,11 @@
   "scripts": {
     "start": "parcel serve ./src/index.html",
     "watch": "parcel watch ./src/index.html",
-    "build": "parcel build ./dist/index.html"
+    "build": "parcel build ./src/index.html --public-url ./dist/"
   },
   "devDependencies": {
     "@parcel/packager-raw-url": "2.0.0-beta.3.1",
+    "@parcel/transformer-sass": "2.0.0-beta.3.1",
     "@parcel/transformer-webmanifest": "2.0.0-beta.3.1",
     "parcel": "^2.0.0-beta.3.1",
     "posthtml": "^0.16.4",

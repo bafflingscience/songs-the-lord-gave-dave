@@ -6,12 +6,5 @@ const include = require('posthtml-include')
 const html = readFileSync('index.html')
 
 posthtml([ include({ encoding: 'utf8' }) ])
-    .process(html)
-    .then((result) => console.log(result.html))
-
-
-    // module.exports = {
-    //     "plugins": {
-    //       "posthtml-include": {}
-    //     }
-    //   }
+.process(html)
+.then((result) => console.log(result.html))

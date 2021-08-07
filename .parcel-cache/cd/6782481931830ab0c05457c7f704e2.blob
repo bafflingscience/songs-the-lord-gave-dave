@@ -1,4 +1,0 @@
-AOS.init({
-      duration: 3000,
-      delay: 500
-    });

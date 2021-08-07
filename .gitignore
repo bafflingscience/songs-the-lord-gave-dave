@@ -2,18 +2,23 @@
 # some of this sort 
 # and also some of That sort
 
-b2-info.js
 .DS_STORE
-bootstrap-4.5.3-examples/
+b2-info.js
 .vscode/
-src/public/assets/unused/
-src/public/assets/images/too-large-for-tinypng
-src/public/assets/images/design-mockups
-src/public/assets/audio/
+
 junk_drawer/
-src/public/assets/pug/
-src/public/assets/tilt.js-master/
-its.html
+bootstrap-4.5.3-examples/
+
+# utterly ignorable assets. 
+# Shame! Shame!
+src/assets/unused/
+src/assets/images/
+src/assets/audio/
+src/assets/pug/
+src/assets/tilt.js-master/
+src/assets/txt/
+src/assets/scss/
+src/assets/lyrics/
 
 # Logs
 logs

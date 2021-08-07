@@ -11,7 +11,8 @@ bootstrap-4.5.3-examples/
 
 # utterly ignorable assets. 
 # Shame! Shame!
-src/assets/unused/
+src/assets/html/later/
+src/assets/html/pages/
 src/assets/images/
 src/assets/audio/
 src/assets/pug/
@@ -19,6 +20,9 @@ src/assets/tilt.js-master/
 src/assets/txt/
 src/assets/scss/
 src/assets/lyrics/
+src/assets/fonts/
+src/assets/js/color-thief.js
+src/assets/js/worker.js
 
 # Logs
 logs

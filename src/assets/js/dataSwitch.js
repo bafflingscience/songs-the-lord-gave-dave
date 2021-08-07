@@ -8,6 +8,11 @@ $('.album-poster').on('click', function (e) {
   $('#aplayer').addClass('showPlayer')
 });
 
+function flipCard() {
+  var front = document.getElementById("flip-card-front");
+  front.classList.toggle("flip-card-front");
+}
+
 $(document).ready(function()
 {
     $(".backup_picture").on("error", function(){

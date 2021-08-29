@@ -1,4 +1,9 @@
 # Music Website - Todos
+- main-page with image and missing song:
+  - Poor Man's Dream
+  - Stalingrad
+  - Club 2 Car Chase
+  - Aluminum Walls (broken data-switch)
 - lrc lyrics
 - hamburger mobile
 - downloadable collections

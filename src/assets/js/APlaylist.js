@@ -4,7 +4,7 @@
     preload: 'auto',
     volume: 0.5,
     theme: '#e9e9e9',
-    lrcType: 0,
+   //  lrcType: 0,
     audio: [{
           //  zero
           name: 'w h i t m A n',
@@ -60,7 +60,7 @@
        { // eight
           name: 'c L u b . 2 . c A r . c h A s e',
           artist: 'd A v i d . k L e g g',
-          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/club-2-car-chase.mp3',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/club+to+car+chase.jsnsthm.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/club-2-car-chase.jpg',
        },
        { // nine

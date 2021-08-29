@@ -130,3 +130,6 @@ typings/
 
 # TernJS port file
 .tern-port
+
+# Backblaze
+.b2-info.js

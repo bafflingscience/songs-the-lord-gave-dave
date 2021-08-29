@@ -14,17 +14,5 @@
   "bugs": {
     "url": "https://github.com/bafflingscience/songs-the-lord-gave-dave/issues"
   },
-  "homepage": "https://github.com/bafflingscience/songs-the-lord-gave-dave#readme",
-  "scripts": {
-    "start": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html --public-url ./dist/"
-  },
-  "devDependencies": {
-    "@parcel/packager-raw-url": "2.0.0-beta.3.1",
-    "@parcel/transformer-sass": "2.0.0-beta.3.1",
-    "@parcel/transformer-webmanifest": "2.0.0-beta.3.1",
-    "parcel": "^2.0.0-beta.3.1",
-    "posthtml": "^0.16.4",
-    "posthtml-include": "^1.7.1"
-  }
+  "homepage": "https://github.com/bafflingscience/songs-the-lord-gave-dave#readme"
 }

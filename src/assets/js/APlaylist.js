@@ -213,5 +213,11 @@
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/stupid-eyes.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/stupid-eyes.jpg',
        },
+       { // thirty four
+          name: 't h e . c L i m b [c A m e r o n . b A A b . r e m i x]',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/the-climb.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/the-climb.jpg',
+       },
       ]
  });

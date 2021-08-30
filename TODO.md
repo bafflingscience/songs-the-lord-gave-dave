@@ -1,12 +1,12 @@
 # Music Website - Todos
-- main-page with image and missing song:
-  - Poor Man's Dream
-  - Stalingrad
-  - Club 2 Car Chase
-  - Aluminum Walls (broken data-switch)
-- lrc lyrics
-- hamburger mobile
-- downloadable collections
-- [`<img srcset>`](https://html.com/attributes/img-srcset/)
-- Master songs
-- shopping cart, checkout
+- [ ] main-page with image and missing song:
+  - [ ] Poor Man's Dream
+  - [ ] Stalingrad
+  - [x] Club 2 Car Chase
+  - [x] Aluminum Walls (broken data-switch)
+- [ ] lrc lyrics
+- [x] hamburger mobile
+- [ ] downloadable collections
+- [ ] [`<img srcset>`](https://html.com/attributes/img-srcset/)
+- [ ] Master songs
+- [ ] shopping cart, checkout

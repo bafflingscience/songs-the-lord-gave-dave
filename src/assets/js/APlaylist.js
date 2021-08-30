@@ -49,7 +49,7 @@
           name: 'A L u m i n u m . w A L L s',
           artist: 'd A v i d . k L e g g',
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/aluminum-walls_.mp3',
-          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/alumiunm-walls.jpg',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/alumiunum-walls.jpg',
        },
        { // seven
           name: 'f u t u r e . n e o n . k N i f e . f i g h t',
@@ -129,12 +129,6 @@
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/mala-dietz.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/mala-dietz.jpg',
        },
-       //   {//twenty
-       //      name: 's t A L i n g r A d',
-       //      artist: 'd A v i d . k L e g g',
-       //      url: 'https://f000.backblazeb2.com/file/bucket-content/audio/stalingrad.mp3',
-       //      cover: 'https://f000.backblazeb2.com/file/bucket-content/images/stalingrad.jpg',
-       //   },
        { // twenty
          name: 'e L e v A t o r . m A n',
          artist: 'd A v i d . k L e g g',
@@ -142,16 +136,82 @@
          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/elevator-man.jpg',
       },
        { //twenty one
-          name: 't h e . w e A t h e r',
+         name: 't h e . w e A t h e r',
           artist: 'd A v i d . k L e g g',
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/the weather.mstr.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/rain.jpg',
        },
        { // twenty two
-          name: 'e s c A L A t o r . m A n',
-          artist: 'd A v i d . k L e g g',
-          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/songs-for-sale/jazz-for-escalator.ogg',
-          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/escalator-man.jpg',
+        name: 'e s c A L A t o r . m A n',
+        artist: 'd A v i d . k L e g g',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/songs-for-sale/jazz-for-escalator.ogg',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/escalator-man.jpg',
        },
-    ]
+       { // twenty three
+          name: 't h e . f o o L',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblaze2.com/file/bucket-content/audio/songs-for-sale/mideval-stroll.ogg',
+          cover: 'https:/f000.backblaze.com/file/bucket-content/images/the-fool_.jpg',
+       },
+       {//twenty four
+          name: 's t A L i n g r A d',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/stalingrad.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/stalingrad.jpg',
+       },
+       { //twenty five
+          name: 'u n d e r w A t e r [i n s t r u m e n t A L]',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/underwater-instrumental.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg',
+       },
+       { //twenty six
+          name: 'u n d e r w A t e r [e b i o n i t e s]',
+          artist: 't h e . e b i o n i t e s',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/underwater-ebionites.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg',
+       },
+       { //twenty seven
+          name: 'u n d e r w A t e r [i v A n . t h e . t e r r i b L e s]',
+          artist: 'i v A n . t h e . t e r r i b L e s',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/underwater-itt.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg',
+       },
+       { //twenty eight
+          name: 'n i g t m A r e . o f . t h e . t r A n s h u m A n i s t s . c r e A t i o n',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/transhumanists-nightmare.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/ai-nightmare.jpg',
+       },
+       { // twenty nine
+          name: 't A t e r . c A n n o n',
+          artist: 'w o L f b A t',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/tater-cannon.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/tater-cannon.jpg',
+       },
+       { // thirty
+          name: 'y o u . t o o k . e v e r y t h i n g',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/you-toook-everything.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/you-toook-everything.jpg',
+       },
+       { // thirty one
+          name: 'b p d',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/bpd.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/bpd.jpg',
+       },
+       { // thirty two
+          name: 'p o o r . m A n \'s . d r e A m',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/poor-mans-dream.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/poor-mans-dream.jpg',
+       },
+       { // thirty three
+          name: 's t u p i d . e y e s',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/stupid-eyes.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/stupid-eyes.jpg',
+       },
+      ]
  });

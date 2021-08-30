@@ -1,5 +1,6 @@
 body {
-  font-family: 'ZCOOL KuaiLe';
+  /* font-family: 'ZCOOL KuaiLe'; */
+  font-family: 'IM Fell Great Primer SC', serif;
   margin: 0;
   padding: 0;
   position: absolute;
@@ -45,6 +46,7 @@ body {
 
 .main {
   font-family: 'ZCOOL KuaiLe';
+  /* font-family: 'IM Fell Great Primer SC', serif; */
   padding: 40px 0;
   background: rgb(0, 0, 0);
   

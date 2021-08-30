@@ -146,6 +146,5 @@
          artist: 'd A v i d . k L e g g',
          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/songs-for-sale/jazz-for-elevator.ogg',
          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/elevator-man.jpg',
-      },
-    ]
+      }]
  });

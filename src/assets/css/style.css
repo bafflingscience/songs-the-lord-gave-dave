@@ -7,8 +7,14 @@ body {
   top: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
+  --color-bg: #ffffff;
+  background-color: var(--color-bg);
 }
+
+
+/* [data-theme="dark"] {
+  --color-bg: #000000; 
+}*/
 
 .b-canvas {
   font-family: 'Monoton';
@@ -21,7 +27,7 @@ body {
   font-family: 'Monoton';
 } */
 
-.backgroundCoverImage {
+/* .backgroundCoverImage {
   background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/squid-life.jpg');
   min-height: 50px;
   min-width: 50px;
@@ -42,7 +48,7 @@ body {
   background-position: right;
   background-repeat: no-repeat;
   background-size: contain;
-}
+} */
 
 .main {
   font-family: 'ZCOOL KuaiLe';
@@ -66,7 +72,6 @@ a.nav-link:hover {
   text-decoration-color: cadetblue;
 }
 
-
 @keyframes colorainbow {
   0% { color: #12CFF3; }
   50% { color: #3CD814; }
@@ -87,31 +92,7 @@ h1.brand:before {
   font-size: 1.2rem;;
   margin-left: 15px;
   color:#12CFF3;
-  /* animation-name: namechangerOne;
-  animation-delay: 1s;
-  animation-duration: 16s;
-  animation-iteration-count: infinite; */
 }
-
-/* @keyframes namechangerOne {
-  0% {opacity: 0; }
-  5% {opacity: 0; }
-  10% {opacity: 1; content: "t h e . d A v i d s"; color:crimson; }
-  20% {opacity: 0; content: "t h e . d A v i d s";}
-  25% {opacity: 0; }
-  30% {opacity: 1; content: "i v A n . t h e . t e r r i b L e s"; color: #3CD814;}
-  40% {opacity: 0;  content: "i v A n . t h e . t e r r i b L e s"; }
-  45% {opacity: 0; }
-  50% {opacity: 1;  content: "c o r n b r e A d . A n d . b e A n s"; color: crimson;}
-  60% {opacity: 0;  content: "c o r n b r e A d . A n d . b e A n s"; }
-  65% {opacity: 0; }
-  70% {opacity: 1;  content: "t h e . b A r e f o o t . L o u i e s"; color: #3CD814;}
-  80% {opacity: 0;  content: "t h e . b A r e f o o t . L o u i e s"; }
-  85% {opacity: 0; }
-  90% {opacity: 1;  content: "d A v i d . k L e g g"; color:crimson;}
-  100% {opacity: 0;  content: "d A v i d . k L e g g"; }
-} */
-
 
 @keyframes colorainbow2 {
   0% { color: #dc143c;}
@@ -170,52 +151,10 @@ h4 {
 
 }
 
-/* TEST CARD FLIP */
-
-#flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
-}
-
 .album-poster:hover {
   box-shadow: none;
   transform: scale(0.89) translateY(5px);
 }
-
-/* .flip-card:hover #flip-card-inner {
-  transform: rotateY(180deg);
-} */
-
-
-
-/* Position the front and back side */
-.flip-card-front, .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-}
-
-/* Style the front side (fallback if image is missing) */
-.flip-card-front {
-  background-color: #bbb;
-  color: black;
-}
-
-/* Style the back side */
-.flip-card-back {
-  background-color: dodgerblue;
-  color: white;
-  transform: rotateY(180deg);
-}
-
-
-/* END FLIP CARD TEST */
 
 img {
   justify-content: center;
@@ -250,16 +189,6 @@ h3#the-hits {
 }
 
 
-/* p.pea {
-  color: limegreen;
-  font-size: 15px;
-  text-transform: lowercase;
-  animation-name: wobniaroloc;
-  animation-delay: 0.7ms;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-} */
-
 p.song-title {
   font-family: 'Monoton';
   color: #12CFF3;
@@ -284,8 +213,7 @@ p.construction a:hover {
 }
 
 
-
-/*?  MEDIA QUERIES ?*/
+/**  MEDIA QUERIES **/
 
 @media screen and (max-width: 992px) {
   .col-md-3 {

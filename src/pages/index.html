@@ -39,38 +39,30 @@
       <script src="https://f000.backblazeb2.com/file/bucket-content/js/liquidDistortMaterial.js"></script>
       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css">
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+      <!-- <link rel="stylesheet" type="text/css" href="assets/css/style.css"> -->
+      <link rel="stylesheet" href="assets/scss/styles.css">
   </head>
+
 <body>
 
   <!-- & -------------------------------------------------------------------------- & -->
   <!-- ~                                MAIN CONTAINER                              ~ -->
   <!-- & -------------------------------------------------------------------------- & -->
-  
   <div class="main">
-  
-    <div class="container-lg">
+      
+      <!-- <include src="./src/assets/html/partials/nav.html"></include> -->
       
       <!-- ~ ----------------------------------------------------------------------- ~ -->
       <!-- &                             NAVIGATION MENU                             & -->
       <!-- ~ ----------------------------------------------------------------------- ~ -->
 
       <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
-        <div class="container-fluid">
-          <div id="plain-text"></div>
 
-          <br>
-          <div class="thesharer">
-            <span style="color:magenta;"></span>
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="lime" class="bi bi-box-arrow-up" viewBox="0 0 16 16">
-              <path fill-rule="evenodd" d="M3.5 6a.5.5 0 0 0-.5.5v8a.5.5 0 0 0 .5.5h9a.5.5 0 0 0 .5-.5v-8a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 1 0-1h2A1.5 1.5 0 0 1 14 6.5v8a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 14.5v-8A1.5 1.5 0 0 1 3.5 5h2a.5.5 0 0 1 0 1h-2z"/>
-              <path fill-rule="evenodd" d="M7.646.146a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 1.707V10.5a.5.5 0 0 1-1 0V1.707L5.354 3.854a.5.5 0 1 1-.708-.708l3-3z"/>
-            </svg>
-          </div>
+        <div class="container-fluid">
 
           <!-- * BLOTTER JS  * -->
+          <div id="plain-text"></div>
+
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -123,9 +115,7 @@
       <!-- & ----------------------------------------------------------------------- & -->
       <!-- ~                                 HEADER                                  ~ -->
       <!-- & ----------------------------------------------------------------------- & -->
-
-      <header class="row">
-
+      <header class="grid" id="header">
 
         <h1 id="page-title">Songs the Lord Gave Dave</h1>
 
@@ -141,22 +131,19 @@
       <!-- ~ ----------------------------------------------------------------------- ~ -->
       <!-- &                                CARD GRID                                & -->
       <!-- ~ ----------------------------------------------------------------------- ~ -->
-      <div class="row" id="#cardgrid">
+      <div class="grid" id=#cardgrid>
+      <!-- <div class="row" id="#cardgrid"> -->
 
         <!--? ----------------------------------------------------------------------- -->
         <!--!                              QUIXOTE RIDES                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 5                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-quixote">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=5 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/quixote-rides.jpg' />
             </a>
-            <p>
-              <span style="color: antiquewhite;">q u i x o t e</span>
-              <span style="color: --color-bluella;"> . </span>
-              <span style="color: crimson;">r i d e s</span>                
-            </p>
+            <p class="song-title">q u i x o t e . r i d e s</p>
             <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
@@ -165,16 +152,13 @@
         <!--!                              ELEVATOR MAN                               -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 20                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-elevator">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=20 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/elevator-man.jpg' />
             </a>
-            <p class="song-title">
-            <span style="color: antiquewhite;">e l e v A t o r</span>
-            <span style="color: --color-bluella"> . </span>
-            <span style="color:crimson">m A n</span>
-            </p>
+            <p class="song-title">e L e v A t o r . m A n</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
 
@@ -182,16 +166,13 @@
         <!--!                              ESCALATOR MAN                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 22                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-escalator">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=22 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/escalator-man.jpg' />
             </a>
-            <p>
-                <span style="color: antiquewhite; text-align: left;">e s c A L A t o r</span>
-                <span style="color: --color-bluella"> . </span>
-                <span style="color:crimson">m A n</span>
-            </p>
+            <p class="song-title">e s c A L A t o r . m A n</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
 
@@ -199,19 +180,13 @@
         <!--!                              THE FOOL                                   -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 23                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-fool">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=23 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/the-fool_.jpg' />
             </a>
-            <!-- <p class="song-title">t h e <br> f o o L</p> -->
-            <!-- <p class="song-title"> -->
-              <p>
-              <span style="color: antiquewhite;">t h e</span>
-              <span style="color: --color-bluella;"> . </span>
-              <span style="color:crimson">f o o L</span>
-              </p>
-              <!-- </p> -->
+            <p class="song-title">t h e . f o o L</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
 
@@ -219,65 +194,54 @@
         <!--!                              NOT PSYCHOTIC                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 14                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-psychotic">
             <a class="album-poster" href="#" data-aos="fade-right" data-switch=14 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/not-psychotic.jpg'></a>
-            <p class="song-title">
-              <span style="color: rgb(247, 215, 174);">n o t</span>
-              <span style="color: --color-bluella"> . </span>
-              <span style="color: crimson;">p s y c h o t i c</span></p>
+            <p class="song-title">n o t . p s y c h o t i c</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
-        
+
         <!--? ----------------------------------------------------------------------- -->
         <!--!                             ALUMINUM WALLS                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 6                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-thirteen">
             <a class="album-poster" href="#" data-aos="fade-left" data-switch=6 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/aluminum-walls.jpg'></a>
-            
-            <p class="song-title">
-              <span style="color: rgb(247, 215, 174);">A L u m i n u m</span>
-              <span style="color: --color-bluella"> . </span>
-              <span style="color: crimson;">w A L L s</span>
-            </p>
-            
+            <p class="song-title">A L u m i n u m <br>w A L L s</p>
+            <!-- Data Switch 6 -->
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
-
 
         <!--! ----------------------------------------------------------------------- -->
         <!--?                            MANY MILES APART                             -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 3                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-eight">
             <a class="album-poster" href="#" data-aos="fade-left" data-switch=3 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/many-miles-apart.jpg'></a>
-            <p class="song-title">
-              <span style="color:rgb(247, 215, 174)">m A n y </span>
-              <span style="color: --color-bluella"> . </span> 
-              <span style="color: crimson">m i L e s</span> 
-              <span style="color: --color-bluella"> . </span> 
-              <span style="color: greenyellow">A p A r t</span>
+            <p class="song-title">m A n y . m i L e s <br> A p A r t</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
-          </div>
+        </div>
 
 
         <!--? ----------------------------------------------------------------------- -->
         <!--!                                 WHITMAN                                 -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 0                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-whitman">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=0 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/whitman.jpg' />
             </a>
-            <p class="song-title">
-              <span style="color:rgb(247, 215, 174);"> w h i t m A n</p>
+            <p class="song-title">w h i t m A n</p>
+            <!-- <p class="pea">A L u m i n u m . w A L L s</p> -->
           </div>
         </div>
 
@@ -285,19 +249,12 @@
         <!--?                 PROVERB 6:6-11 THE IDLER AND THE ANT                    -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 10                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-idler">
             <a class="album-poster" href="#" data-aos="fade-up" data-switch=10 data-tilt><img
                 src='https://f000.backblazeb2.com/file/bucket-content/images/idler.jpg'></a>
-            
-            <p class="song-title">
-              <!-- <span style="color: antiquewhite">p r o v e r b s</span>
-              <span style="color: --color-bluella"> . </span>
-              <span style="color: crimson"> 6:6-11</span>
-              <br>
-              <span style="color: antiquewhite">t h e</span>
-              <span style="color: --color-bluella"> . </span> -->
-              <span style="color: crimson">i d L e r</span> 
+            <p class="song-title">p r o v e r b s . 6:6-11<br>t h e . i d L e r <br> A n d <br> t h e . A n t</p>
+            <!-- <p class="pea">s o n g s . t h e . L -o r d<br> g A v e . d A v e</p> -->
           </div>
         </div>
 
@@ -305,7 +262,7 @@
         <!--!                        PSALM 6 PRAYER IN ORDEAL                         -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 13                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="psalm-card">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=13 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/psalm-6.jpg' /></a>
@@ -318,7 +275,7 @@
         <!--!                                  AMEN                                   -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 9                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-amen">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=9 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/amen.jpg'>
@@ -332,7 +289,7 @@
         <!--!                           THE END IS UPON US                            -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 12                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-four">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=12 data-tilt><img
                 src='https://f000.backblazeb2.com/file/bucket-content/images/the-end-is-upon-us.jpg'></a>
@@ -345,7 +302,7 @@
         <!--!                             KNOXVILLE GIRL                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 2                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-eight">
             <a class="album-poster" href="#" data-aos="fade-right" data-switch=2 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/knoxville-girl.jpg' /></a>
@@ -358,7 +315,7 @@
         <!--?                               MALA DIETZ                                -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 19                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="sing-card-row" id="card-five">
             <a class="album-poster" href="#" data-aos="fade-left" data-switch=19 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/mala-dietz.jpg'></a>
@@ -371,7 +328,7 @@
         <!--!                               STALINGRAD                                -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 24                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-seven">
             <a class="album-poster" href="#" data-aos="fade-left" data-switch=24 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/stalingrad.jpg'></a>
@@ -384,7 +341,7 @@
         <!--?                               REVENGE                                   -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 4                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-six-point-five">
             <a href="#" class="album-poster" data-aos="fade-left" data-switch=4 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/revenge.jpg' /></a>
@@ -398,7 +355,7 @@
         <!--!                              MULTIVERSE                                 -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 1                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-row-card" id="card-seven-point-five">
             <a href="#" class="album-poster" data-aos="fade-right" data-switch=1 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/multiverse.jpg'></a>
@@ -411,7 +368,7 @@
         <!--?                            LIFES A GRAVE                                -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 11                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-eight">
             <a class="album-poster" href="#" data-aos="fade-right" data-switch=11 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/lifes-a-grave.jpg'></a>
@@ -424,7 +381,7 @@
         <!--!                            CLUB 2 CAR CHASE                             -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 8                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-nine">
             <a class="album-poster" href="#" data-aos="flip-right" data-switch=8 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/club-2-car-chase.jpg'></a>
@@ -437,7 +394,7 @@
         <!--?                         FUTURE NEON KNIFE FIGHT                         -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 7                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=7 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/future-neon-knife-fight.jpg'></a>
@@ -450,7 +407,7 @@
         <!--?           THE ETERNAL NIGHTMARE OF A TRANSHUMANIST'S CREATION           -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 28                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=28 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/ai-nightmare.jpg'></a>
@@ -463,7 +420,7 @@
         <!--?                           UNDERWATER [INSTRUMENTAL]                     -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 25                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=25 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg'></a>
@@ -476,7 +433,7 @@
         <!--?                           UNDERWATER [EBIONITES]                        -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 26                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=26 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg'></a>
@@ -489,7 +446,7 @@
         <!--?                      UNDERWATER [IVAN THE TERRIBLES]                    -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 27                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=27 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/underwater.jpg'></a>
@@ -502,7 +459,7 @@
         <!--?                             TATER CANNON                                -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 29                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-ten">
             <a class="album-poster" href="#" data-aos="flip-left" data-switch=29 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/tater-cannon.jpg'></a>
@@ -515,7 +472,7 @@
         <!--!                               THE WEATHER                               -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 21                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-eleven">
             <a class="album-poster" href="#" data-aos="flip-right" data-switch=21 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/rain.jpg'></a>
@@ -528,7 +485,7 @@
         <!--?                             POOR MANS DREAM                             -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 32                              * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-twelve">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=32 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/poor-mans-dream.jpg'></a>
@@ -542,7 +499,7 @@
         <!--?                            PLAY MISTY FOR ME                            -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 15                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-misty">
             <a class="album-poster" href="#" data-aos="fade-right" data-switch=15 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/play-misty-for-me.jpg'></a>
@@ -555,7 +512,7 @@
         <!--?                                   BPD                                   -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 31                              * -->
-          <div class="col-md-3">
+          <div class="grid-item">
             <div class="single-card-row" id="card-bpd">
             <a class="album-poster" href="#" data-aos="zoom-in" data-switch=31 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/bpd.jpg'></a>
@@ -568,7 +525,7 @@
         <!--!                                 DOS XX                                  -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 18                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="dosxx-card">
             <a class="album-poster" href=# data-aos="fade-up" data-switch=18 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/dos-xx.jpg'></a>
@@ -581,7 +538,7 @@
         <!--?                                 DOUBLE                                  -->
         <!--! ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 17                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="card-double">
             <a class="album-poster" href=# data-aos="fade-left" data-switch=17 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/double.jpg'></a>
@@ -594,7 +551,7 @@
         <!--!                                BY GOSHES                                -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 16                             * -->
-        <div class="col-md-3">
+        <div class="grid-item">
           <div class="single-card-row" id="bygoshes-card">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=16 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/by-goshes.jpg'></a>
@@ -607,7 +564,7 @@
         <!--!                                STUPID EYES                              -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 33                             * -->
-        <div class="col-md-3">
+        <div class="grid-item grid-item--width4">
           <div class="single-card-row" id="card-stupid">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=33 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/stupid-eyes.jpg'></a>
@@ -620,8 +577,8 @@
         <!--!                                YOU TOOK EVERYTHING                      -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 30                             * -->
-        <div class="col-md-3">
-          <div class="single-card-row" id="bygoshes-card">
+        <div class="grid-item grid-item--width3">
+          <div class="single-card-row" id="card--bygoshes">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=30 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/you-took-everything.jpg'></a>
             <p class="song-title">y o u . t o o k . e v e r y t h i n g</p>
@@ -633,8 +590,8 @@
         <!--!                              THE CLIMB [BAAB REMIX]                     -->
         <!--? ----------------------------------------------------------------------- -->
         <!-- *                           Data Switch 34                             * -->
-        <div class="col-md-3">
-          <div class="single-card-row" id="bygoshes-card">
+        <div class="grid-item grid-item--width2">
+          <div class="single-card-row" id="card--climb">
             <a class="album-poster" href="#" data-aos="fade-down" data-switch=34 data-tilt>
               <img src='https://f000.backblazeb2.com/file/bucket-content/images/the-climb.jpg'></a>
             <p class="song-title">t h e . c L i m b</p>
@@ -689,7 +646,7 @@
         
         </footer>
     
-    </div>
+    
   
   </div>
   
@@ -700,9 +657,6 @@
 <!--! ----------------------------------------------------------------------- -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"
 integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
-</script>
 <script>
 $(document).ready(() => {
 $('.js-tilt').tilt({
@@ -712,7 +666,13 @@ $('.js-tilt').tilt({
 </script>
 
 <!--& ----------------------------------------------------------------------- -->
+<!--*                                 MASONRY                                 -->
+<!--& ----------------------------------------------------------------------- -->
+<script src="./app.js"></script>
+
+<!--& ----------------------------------------------------------------------- -->
 <!--*                                 BLOTTER                                 -->  
+<!--& ----------------------------------------------------------------------- -->
 <script>
 var text = new Blotter.Text("m u s i c", {
   family: "'Monoton', cursive",
@@ -733,10 +693,10 @@ var elem = document.getElementById('plain-text');
 var scope = blotter.forText(text);
 scope.appendTo(elem);
 </script>
-<!--& --------------------------------------------------------------------------------->
 
-<!-- ~* ------------------------------------------------------------------------------->
-<!--&                                  APLAYER                                    ?---->
+<!-- & ---------------------------------------------------------------------------- --->
+<!--*                                  APLAYER                                      --->
+<!-- &  --------------------------------------------------------------------------- --->
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>

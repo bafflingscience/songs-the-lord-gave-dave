@@ -1,6 +1,10 @@
+:root {
+  --color-bluella: #12CFF3;
+}
+
 body {
   /* font-family: 'ZCOOL KuaiLe'; */
-  font-family: 'IM Fell Great Primer SC', serif;
+  /* font-family: 'IM Fell Great Primer SC', serif; */
   margin: 0;
   padding: 0;
   position: absolute;
@@ -11,7 +15,9 @@ body {
   background-color: var(--color-bg);
 }
 
-
+p span {
+  color: var(--color-bluella);
+}
 /* [data-theme="dark"] {
   --color-bg: #000000; 
 }*/
@@ -22,44 +28,16 @@ body {
   margin-left: 5px;
 }
 
-
-/* #plain-text {
-  font-family: 'Monoton';
-} */
-
-/* .backgroundCoverImage {
-  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/squid-life.jpg');
-  min-height: 50px;
-  min-width: 50px;
-  max-height: 100px;
-  max-width: 100px;
-  background-origin: border-box;
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-.backgroundCoverImage2 {
-  background-image: url('https://f000.backblazeb2.com/file/bucket-content/images/cute-octopus.jpg');
-  min-height: 50px;
-  min-width: 50px;
-  max-height: 100px;
-  max-width: 100px;
-  background-origin: border-box;
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: contain;
-} */
-
 .main {
   font-family: 'ZCOOL KuaiLe';
   /* font-family: 'IM Fell Great Primer SC', serif; */
   padding: 40px 0;
   background: rgb(0, 0, 0);
-  
 }
-/* nav.navbar {
-  
-} */
+
+nav.navbar-toggler {
+  color: cadetblue;
+}
 
 a.nav-link {
   color: #12CFF3;
@@ -86,6 +64,24 @@ h1 {
   animation-duration: 100s;
   animation-iteration-count: infinite;
 }
+
+@keyframes borderlights {
+  0% { border-color: #3CD814; }
+  50% { border-color: #12CFF3; }
+  100% { border-color: #3CD814; }
+}
+
+.container-fluid {
+  border: 3px dotted;
+  border-radius: 40px;
+  background-color: rgba(0, 0, 0, 0.7);
+  animation-name: borderlights;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  /* background-color:rgba(235, 99, 189, 0.3); */
+  /* background-color: var(--color-bluella) */
+}
+
 
 h1.brand:before {
   content: "";
@@ -180,26 +176,28 @@ h3.construction {
 }
 
 h3#the-hits {
-  color: floralwhite;
+  color: antiquewhite;
 }
-
+/* 
 @keyframes wobniaroloc {
-  0% {color: white; }
+  0% {color: antiquewhite; }
   100% { color: #12CFF3; }
-}
+} */
 
 
 p.song-title {
-  font-family: 'Monoton';
   color: #12CFF3;
-  margin-top: 1rem;
-  margin-bottom: 0px;
-}
+  /* margin-top: 1rem;
+  text-align: right;
+  padding-right: 10px;
+  /* margin-left: 10px; */
+  /* max-width: 80%; */
+} */
 
 p.construction {
   animation: none;
   font-size: 18px;
-  color: whitesmoke;
+  color: rgb(214, 186, 186);
 }
 
 p.construction a {
@@ -219,7 +217,9 @@ p.construction a:hover {
   .col-md-3 {
     grid-template-columns: auto auto auto auto;
 }
-
+  p.song-title {
+    text-align: left;
+  }
   #plain-text {
     width: 200px;
   }

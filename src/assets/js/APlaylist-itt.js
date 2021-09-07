@@ -1,0 +1,101 @@
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    fixed: true,
+    preload: 'auto',
+    volume: 0.5,
+    theme: '#fff',
+   //  lrcType: 0,
+    audio: [{
+        //  zero
+        name: '1 9 9 3',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        album: 'More Guns Than People',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/1993.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Oh Despair',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/oh-despair.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Touch Me Terri',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/touch-me-terri.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Drunkards',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/drunkards.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Male Prostitute',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/male-prostitute.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Dont Get Eaten',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/mgtp/dont-get-eaten.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/mgtp-cover.jpg',
+    },
+    {
+        name: 'Spider',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/spider.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Myrtle Beach',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/myrtle-beach.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Bot Fly',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/bot-fly.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Beast',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/beast.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Beast (fast-talkin-version)',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/beast-fast-talkin-version.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'White Ship',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/white-ship.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Dismantle',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/dismantle.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Taste My Spit',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/Taste My Spit.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    {
+        name: 'Live! The Get Down',
+        artist: 'i v A n . t h e . t e r r i b L e s',
+        url: 'https://f000.backblazeb2.com/file/bucket-content/audio/itt/get-down-live_2011.04.07.mp3',
+        cover: 'https://f000.backblazeb2.com/file/bucket-content/images/itt/more-guns-than-people/guns.jpg',
+    },
+    ]
+ });

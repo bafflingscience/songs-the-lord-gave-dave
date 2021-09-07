@@ -219,5 +219,17 @@
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/the-climb.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/the-climb.jpg',
        },
+       { // thirty five
+          name: 'f L o w e r s . o n . y o u r . L i p s [L i v e]',
+          artist: 't h e . d A v i d s',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/flowers-on-your-lips (Live).mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/flowers-on-your-lips.jpg',
+       },
+       { // thirty six
+          name: 'b r A i n . f e v e r',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/brain-fever.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/brain-fever.jpg',
+       },
       ]
  });

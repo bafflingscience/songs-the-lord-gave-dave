@@ -28,11 +28,16 @@ p span {
 
 .main {
   font-family: 'ZCOOL KuaiLe';
-  /* font-family: 'IM Fell Great Primer SC', serif; */
-  padding: 40px 0;
+  padding: 20px 0;
   background: rgba(0, 0, 0, 1);
-  background-image: url("https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-and-unraveling.png");
-  background-position: 200px;
+  background-image: url("https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-withering-cropped.png");
+  background-origin: padding-box;
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: top right;
+  /* background-position: %; */
+  /* font-family: 'IM Fell Great Primer SC', serif; */
+  /* padding: 40px 0; */
 }
 
 nav.navbar-toggler {
@@ -200,7 +205,11 @@ p.construction a:hover {
 
 @media screen and (max-width: 992px) {
   .main {
-    background-position: center;
+    background-origin: padding-box;
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    padding: 15px 0;
   }
   .col-md-3 {
     grid-template-columns: auto auto auto auto;

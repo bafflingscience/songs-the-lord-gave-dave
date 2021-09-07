@@ -1,0 +1,15 @@
+:root {background-color: black; color: antiquewhite;}
+#ONE {
+    border: 2px solid hotpink;
+}
+
+.album-poster {
+position: relative;
+  display: block;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  border-radius: 7px;
+  overflow: hidden;
+}

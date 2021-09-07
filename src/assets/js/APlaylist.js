@@ -202,9 +202,9 @@
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/bpd.jpg',
        },
        { // thirty two
-          name: 'p o o r . m A n \'s . d r e A m',
+          name: 'p o o r . m A n \'s . d r e A m [A c o u s t i c]',
           artist: 'd A v i d . k L e g g',
-          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/poor-mans-dream.mp3',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/poor-mans-dream-original.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/poor-mans-dream.jpg',
        },
        { // thirty three
@@ -230,6 +230,30 @@
           artist: 'd A v i d . k L e g g',
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/brain-fever.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/brain-fever.jpg',
+       },
+       { // thirty seven
+          name: 'q u i x o t e s . w i n d m i L L',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/quixotes-windmill.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/quixote-rides.jpg',
+       },
+       { // thirty eight
+          name: 'g o . A w A y',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/go-away.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-and-unraveling.png',
+       },
+       { // thirty nine
+          name: 'p o o r . m A n \'s . d r e A m  [ p o p ]',
+          artist: 'd A v i d . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/poor-mans-dream-pop.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-and-unraveling.png',
+       },
+       { // forty
+          name: 'h i L L b i L L y . b e L L y . d A n c e',
+          artist: 'w o L f b A t',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/hillbilly-belly-dance.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-and-unraveling.png',
        },
       ]
  });

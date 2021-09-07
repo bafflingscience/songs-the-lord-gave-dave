@@ -11,8 +11,6 @@ body {
   top: 0;
   bottom: 0;
   width: 100%;
-  --color-bg: #ffffff;
-  background-color: var(--color-bg);
 }
 
 p span {
@@ -32,7 +30,9 @@ p span {
   font-family: 'ZCOOL KuaiLe';
   /* font-family: 'IM Fell Great Primer SC', serif; */
   padding: 40px 0;
-  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 1);
+  background-image: url("https://f000.backblazeb2.com/file/bucket-content/images/drawings/skinny-and-unraveling.png");
+  background-position: 200px;
 }
 
 nav.navbar-toggler {
@@ -131,21 +131,6 @@ h4 {
   box-shadow: 0 0 20px rgba(235, 99, 189, 0.3);
   transition: all ease .4s;
 }
-/* TEST CARD FLIP */
-
-.flip-card {
-  position: relative;
-  display: block;
-  width: 200px;
-  height: 200px;
-  min-width: 200px;
-  min-height: 200px;
-  border-radius: 7px;
-  overflow: hidden;
-  box-shadow: 0 0 20px rgba(235, 99, 189, 0.3);
-  transition: all ease .4s;
-
-}
 
 .album-poster:hover {
   box-shadow: none;
@@ -214,6 +199,9 @@ p.construction a:hover {
 /**  MEDIA QUERIES **/
 
 @media screen and (max-width: 992px) {
+  .main {
+    background-position: center;
+  }
   .col-md-3 {
     grid-template-columns: auto auto auto auto;
 }

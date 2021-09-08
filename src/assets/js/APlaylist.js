@@ -185,7 +185,7 @@
        },
        { // twenty nine
           name: 't A t e r . c A n n o n',
-          artist: 'w o L f b A t',
+          artist: 'c . g A r r e t, w o L f b a t',
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/tater-cannon.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/tater-cannon.jpg',
        },
@@ -284,6 +284,12 @@
           artist: 'd . k L e g g',
           url: 'https://f000.backblazeb2.com/file/bucket-content/audio/my-opinionation-blossom-theme-song.mp3',
           cover: 'https://f000.backblazeb2.com/file/bucket-content/images/drawings/oldman.png',
+       },
+       { // forty six
+          name: 'e v e r y t h i n g . g o o d',
+          artist: 'd . k L e g g',
+          url: 'https://f000.backblazeb2.com/file/bucket-content/audio/everything-good.mp3',
+          cover: 'https://f000.backblazeb2.com/file/bucket-content/images/everything-good.jpg',
        },
       ]
  });
